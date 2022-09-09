@@ -1,0 +1,1359 @@
+﻿LimesLimits_ID;Site_type;BM_GROUP;IMP_GROUP;DIV_AWG;DUR_GROUP;HOUSE_GROUP;HCLASS
+1;rural settlement;1;6;3;0;2;3
+2;rural settlement;4;6;4;0;0;7
+3;rural settlement;2;7;5;2;0;5
+4;"rural settlement; burial(s)";2;7;4;1;0;5
+6;rural settlement;3;7;3;1;0;6
+7;rural settlement;3;7;3;1;0;6
+8;deposit?;1;4;1;0;0;
+9;road?;1;1;0;0;0;
+10;rural settlement;2;6;1;0;0;5
+12;"civil settlement; military settlement?; road";4;7;5;4;0;
+13;castellum;4;6;3;1;0;
+14;bridge;3;4;1;1;0;
+15;"burial(s); road";2;6;4;3;0;
+18;"rural settlement; burial(s)";2;6;3;0;0;5
+20;rural settlement;2;6;3;0;0;5
+21;"rural settlement; burial(s)";4;6;3;1;1;7
+22;burial(s);1;6;4;0;0;
+23;burial(s);1;6;3;0;0;
+24;rural settlement?;1;7;4;0;0;4
+25;rural settlement;2;7;2;0;2;5
+27;burial(s);1;6;2;0;0;
+28;burial(s)?;1;6;3;1;0;
+29;road?;1;1;0;0;0;
+30;burial(s);1;7;4;0;0;
+31;rural settlement;2;7;3;0;0;5
+32;burial(s);1;7;5;1;0;
+33;rural settlement;3;6;4;2;0;6
+34;rural settlement;1;5;3;0;0;3
+35;rural settlement;1;7;4;1;0;4
+36;rural settlement;1;2;1;0;0;1
+37;"rural settlement; burial(s)";2;6;4;1;0;5
+38;rural settlement;1;6;4;0;0;3
+39;rural settlement;1;3;2;0;0;2
+40;rural settlement;2;7;5;0;0;5
+41;rural settlement;1;2;1;0;0;1
+42;rural settlement;2;3;2;0;0;2
+43;rural settlement;1;7;5;1;0;4
+44;rural settlement;1;7;4;0;0;4
+45;rural settlement;1;7;4;0;0;4
+47;rural settlement;1;6;4;0;0;3
+48;rural settlement;2;7;5;1;0;5
+49;rural settlement;1;7;3;3;0;4
+50;rural settlement;1;7;4;0;0;4
+51;burial(s)?;1;4;2;0;0;
+52;rural settlement;1;6;1;0;4;3
+53;rural settlement;1;1;0;0;0;1
+54;rural settlement;3;3;2;3;5;6
+55;rural settlement;1;2;1;1;3;1
+56;burial(s);1;5;1;3;0;
+57;rural settlement;1;7;2;0;0;4
+58;"rural settlement; burial(s)";1;5;2;1;0;3
+59;rural settlement;1;7;4;1;4;4
+60;rural settlement;1;3;2;2;3;2
+61;rural settlement;2;6;4;2;0;5
+63;rural settlement;1;5;3;0;0;3
+65;rural settlement;1;4;2;0;0;2
+66;rural settlement;1;2;1;0;0;1
+67;rural settlement;2;5;3;0;0;5
+68;rural settlement?;1;7;1;0;0;4
+69;"rural settlement; cult site?";1;6;2;2;0;3
+70;"rural settlement; burial(s)";1;7;5;0;0;4
+72;rural settlement;2;6;4;2;0;5
+73;rural settlement;1;5;2;0;0;3
+74;rural settlement;1;7;3;2;0;4
+75;rural settlement;4;7;5;3;0;7
+76;rural settlement;1;4;2;1;0;2
+77;rural settlement;1;5;3;0;0;3
+79;rural settlement;3;7;4;0;0;6
+80;"rural settlement; burial(s)?";1;7;4;1;0;4
+81;burial(s);1;5;2;1;0;
+82;"rural settlement; burial(s)?";2;7;5;4;0;5
+83;rural settlement;1;7;5;4;0;4
+84;rural settlement;1;5;3;0;0;3
+85;burial(s);1;2;1;0;0;
+86;rural settlement;2;7;5;2;0;5
+88;rural settlement?;1;3;1;0;0;2
+89;burial(s);1;1;0;0;0;
+90;rural settlement?;1;6;3;0;0;3
+91;rural settlement;1;3;2;0;0;2
+92;rural settlement;1;5;3;0;0;3
+93;rural settlement;1;6;4;0;0;3
+94;cult site;4;6;4;4;0;
+95;rural settlement;2;5;3;0;0;5
+96;rural settlement;2;7;5;2;1;5
+97;rural settlement;1;6;4;0;0;3
+99;rural settlement;2;7;5;2;0;5
+100;rural settlement?;1;5;3;0;0;3
+101;rural settlement;1;7;5;1;0;4
+102;rural settlement;1;7;5;3;0;4
+103;rural settlement;1;2;1;0;0;1
+104;rural settlement;2;7;5;0;0;5
+105;rural settlement;2;7;3;0;0;5
+106;rural settlement;1;4;2;0;0;2
+107;cult site;3;7;4;4;0;
+108;castellum?;4;1;0;1;0;
+109;rural settlement;1;6;3;1;0;3
+110;rural settlement, stone-built;4;7;4;0;0;7
+111;"rural settlement, stone-built; burial(s)";4;7;5;4;2;7
+112;"rural settlement; burial(s)";3;7;5;4;3;6
+113;"rural settlement, stone-built?; burial(s)";3;7;5;3;4;6
+114;rural settlement;3;7;5;1;0;6
+115;rural settlement;1;7;5;1;0;4
+116;rural settlement?;1;1;0;0;0;1
+117;rural settlement;1;5;3;0;0;3
+118;rural settlement;1;7;4;3;0;4
+120;rural settlement;1;7;5;1;0;4
+121;rural settlement?;1;1;0;0;0;1
+122;rural settlement;1;7;5;2;0;4
+124;rural settlement;2;6;4;0;0;5
+125;rural settlement?;1;1;0;0;0;1
+126;rural settlement;1;3;2;0;0;2
+127;rural settlement?;1;1;0;0;0;1
+128;rural settlement?;1;1;0;0;0;1
+129;rural settlement;1;5;3;0;0;3
+131;rural settlement;1;7;5;3;0;4
+132;rural settlement, stone-built;4;7;5;3;0;7
+133;rural settlement;1;7;4;0;0;4
+134;rural settlement, stone-built?;2;7;5;4;0;5
+136;rural settlement;1;5;3;0;0;3
+138;rural settlement;3;6;4;2;0;6
+140;rural settlement;1;5;3;0;0;3
+142;rural settlement;2;7;5;4;0;5
+147;rural settlement?;1;1;0;0;0;1
+148;rural settlement;1;7;5;0;0;4
+150;rural settlement;2;7;5;1;0;5
+151;burial(s);1;3;1;0;0;
+152;"rural settlement; burial(s)";1;6;4;0;0;3
+155;rural settlement;1;7;3;0;0;4
+158;rural settlement;1;6;4;0;0;3
+161;rural settlement;1;5;3;0;0;3
+163;rural settlement;2;5;3;0;0;5
+169;rural settlement;1;5;2;0;0;3
+174;rural settlement;1;3;1;0;0;2
+175;"rural settlement; burial(s)?";2;6;4;0;0;5
+179;rural settlement;3;6;4;1;0;6
+181;rural settlement;3;7;5;1;0;6
+182;rural settlement;1;7;3;0;0;4
+186;"castellum?; civil settlement?";4;7;5;2;0;
+187;rural settlement;3;7;5;3;0;6
+191;rural settlement;1;5;3;0;0;3
+192;rural settlement;3;7;5;2;0;6
+193;rural settlement;2;7;5;3;0;5
+195;rural settlement;2;7;4;1;0;5
+197;rural settlement;2;4;2;0;0;2
+198;rural settlement;2;5;3;2;0;5
+200;rural settlement;1;6;3;2;0;3
+202;"rural settlement; burial(s)";1;5;2;0;0;3
+206;rural settlement;1;7;5;2;0;4
+207;burial(s);1;6;3;0;0;
+208;rural settlement;1;2;1;0;0;1
+209;rural settlement;1;5;3;0;0;3
+210;rural settlement;2;7;5;3;0;5
+211;rural settlement;1;4;2;1;0;2
+216;rural settlement;1;2;1;0;0;1
+218;rural settlement;1;5;2;0;0;3
+219;rural settlement, stone-built?;1;3;2;0;0;2
+221;rural settlement?;1;3;1;0;0;2
+224;rural settlement?;1;1;0;0;0;1
+225;rural settlement?;1;1;0;0;0;1
+227;rural settlement?;1;1;0;0;0;1
+229;rural settlement;1;7;5;3;0;4
+231;rural settlement?;1;1;0;0;0;1
+232;burial(s)?;1;5;1;0;0;
+235;rural settlement?;1;5;2;0;0;3
+237;"rural settlement; burial(s)";2;3;2;2;0;2
+239;burial(s);1;6;3;1;0;
+240;rural settlement;3;7;5;2;0;6
+241;rural settlement;1;7;4;1;0;4
+242;rural settlement;3;7;4;2;0;6
+244;rural settlement;3;7;4;4;0;6
+245;"rural settlement; burial(s)?";1;7;5;2;0;4
+248;rural settlement;1;5;3;1;0;3
+251;rural settlement;2;5;2;0;0;5
+252;rural settlement;1;5;3;0;0;3
+253;"rural settlement; burial(s)?";1;7;5;3;0;4
+254;rural settlement;1;5;3;0;0;3
+255;rural settlement;2;6;4;0;0;5
+257;rural settlement;1;5;3;0;0;3
+258;rural settlement;2;7;5;2;0;5
+261;rural settlement;2;7;5;3;0;5
+267;burial(s)?;1;1;0;0;0;
+271;rural settlement?;2;6;4;0;0;5
+273;rural settlement;4;7;5;1;0;7
+276;rural settlement?;1;5;2;0;0;3
+277;rural settlement;1;5;3;0;0;3
+278;rural settlement;1;4;2;0;0;2
+280;burial(s);1;1;0;0;0;
+281;burial(s)?;1;4;1;0;0;
+282;"rural settlement; burial(s)";3;7;5;4;0;6
+285;rural settlement;2;6;4;0;0;5
+289;rural settlement?;1;1;0;0;0;1
+290;rural settlement?;1;1;0;0;0;1
+291;rural settlement;3;7;5;2;0;6
+293;rural settlement?;2;1;0;0;0;1
+294;rural settlement?;1;1;0;0;0;1
+297;rural settlement;2;7;4;0;0;5
+298;rural settlement;1;7;5;0;0;4
+299;"rural settlement; cult site?";1;7;5;3;0;4
+300;rural settlement?;1;1;0;0;0;1
+301;rural settlement;1;5;3;0;0;3
+304;rural settlement;1;6;1;0;0;3
+305;burial(s)?;1;5;1;0;0;
+306;burial(s);1;6;3;0;0;
+307;rural settlement;1;7;5;1;0;4
+308;rural settlement;2;7;5;2;0;5
+309;burial(s);1;5;2;1;0;
+310;rural settlement;3;7;5;0;0;6
+311;rural settlement;1;4;2;0;0;2
+312;rural settlement;2;7;3;0;0;5
+315;rural settlement, stone-built;4;7;5;2;0;7
+316;rural settlement;2;7;4;1;0;5
+317;rural settlement;1;7;5;1;0;4
+318;burial(s)?;1;6;3;0;0;
+319;rural settlement;1;4;2;0;0;2
+320;rural settlement;2;7;3;0;0;5
+321;"rural settlement; cult site?";2;7;5;4;2;5
+323;"rural settlement; burial(s)?";2;7;5;3;0;5
+324;rural settlement;1;7;5;3;0;4
+325;rural settlement;1;7;4;2;0;4
+326;"rural settlement; burial(s)?";2;7;5;2;0;5
+327;rural settlement;1;7;5;1;0;4
+328;rural settlement;1;7;5;2;0;4
+329;rural settlement;1;5;3;0;0;3
+330;rural settlement;1;4;2;0;0;2
+331;rural settlement;3;6;3;3;0;6
+332;rural settlement;1;4;2;3;0;2
+333;rural settlement;1;6;3;0;0;3
+334;rural settlement;1;5;3;0;0;3
+335;"rural settlement; cult place?";1;6;4;1;0;3
+336;rural settlement;1;7;5;2;0;4
+337;rural settlement;1;6;4;2;0;3
+338;rural settlement;2;7;5;0;0;5
+339;rural settlement;2;7;4;0;0;5
+340;rural settlement;1;7;4;0;0;4
+341;rural settlement;3;5;3;0;0;6
+342;rural settlement;3;2;1;2;0;6
+343;burial(s);1;3;1;1;0;
+344;"rural settlement; bridge?";1;7;5;1;0;4
+345;rural settlement;1;1;0;0;0;1
+346;rural settlement;1;3;2;0;0;2
+348;rural settlement;1;7;4;1;0;4
+349;rural settlement;3;7;5;1;0;6
+350;rural settlement?;1;3;2;0;0;2
+351;rural settlement;1;5;3;1;0;3
+353;rural settlement?;1;1;0;0;0;1
+354;rural settlement?;1;1;0;0;0;1
+355;rural settlement?;1;1;0;0;0;1
+356;rural settlement;1;7;5;1;0;4
+357;rural settlement;1;7;4;1;0;4
+358;rural settlement;1;7;4;2;0;4
+359;rural settlement?;1;5;3;0;0;3
+360;"rural settlement; burial(s)";2;7;5;3;0;5
+361;rural settlement?;1;3;1;0;0;2
+362;rural settlement?;1;1;0;0;0;1
+363;rural settlement;1;1;0;0;0;1
+364;rural settlement?;1;1;0;0;0;1
+365;rural settlement;1;7;5;1;0;4
+366;rural settlement;2;7;4;1;0;5
+367;rural settlement;1;5;3;0;0;3
+368;"rural settlement; burial(s)";3;6;4;1;0;6
+369;"rural settlement; cult site?";3;7;5;3;0;6
+370;rural settlement;3;7;5;2;0;6
+371;burial(s)?;1;5;1;1;0;
+372;rural settlement, stone-built?;3;7;5;3;0;6
+373;rural settlement;3;7;5;3;0;6
+374;rural settlement;1;7;4;0;0;4
+375;rural settlement;2;6;3;0;0;5
+376;rural settlement;1;7;4;1;0;4
+378;rural settlement;2;5;3;1;0;5
+379;rural settlement;1;2;1;0;0;1
+380;rural settlement;1;4;2;0;0;2
+381;rural settlement;1;5;2;0;0;3
+382;rural settlement;1;7;5;0;0;4
+383;rural settlement;1;5;3;2;0;3
+384;rural settlement;1;5;3;0;0;3
+385;rural settlement;1;5;3;0;0;3
+386;rural settlement;1;5;3;0;0;3
+387;rural settlement;3;7;5;0;0;6
+388;rural settlement;2;6;3;0;0;5
+389;rural settlement;2;7;4;0;0;5
+390;"rural settlement; burial(s)";1;3;2;0;0;2
+391;rural settlement;2;7;4;0;0;5
+392;rural settlement;2;7;5;3;0;5
+393;rural settlement;1;7;4;0;0;4
+394;rural settlement;1;6;3;0;0;3
+395;rural settlement;1;7;4;0;0;4
+396;rural settlement;2;7;5;1;0;5
+397;rural settlement;3;5;3;0;0;6
+398;rural settlement;1;5;2;0;0;3
+399;burial(s);1;7;5;1;0;
+403;rural settlement;3;6;2;1;0;6
+404;rural settlement;1;4;2;0;0;2
+406;rural settlement;3;4;2;2;0;6
+407;rural settlement;1;2;1;0;0;1
+408;rural settlement;1;7;3;0;0;4
+410;rural settlement;2;7;5;0;0;5
+411;rural settlement;2;7;3;3;0;5
+412;rural settlement;2;5;3;0;0;5
+413;"rural settlement?; burial(s)";2;5;2;1;0;5
+414;rural settlement;1;7;4;3;0;4
+415;"rural settlement; burial(s)?";2;6;3;0;0;5
+416;rural settlement;1;7;5;2;0;4
+417;rural settlement;1;4;2;0;0;2
+418;"rural settlement; burial(s)?";1;3;2;0;0;2
+419;rural settlement;1;3;2;0;0;2
+420;rural settlement;2;7;4;0;0;5
+421;"rural settlement; road?";3;7;5;3;0;6
+422;"rural settlement, stone-built; burial(s)";3;7;5;2;2;6
+423;rural settlement;2;7;4;1;0;5
+424;rural settlement;3;7;4;2;0;6
+425;rural settlement;2;7;5;1;0;5
+426;rural settlement;2;7;5;0;0;5
+427;rural settlement;2;7;5;0;0;5
+429;rural settlement;1;7;5;0;0;4
+430;rural settlement;1;5;3;0;0;3
+431;rural settlement;3;7;5;1;0;6
+432;"rural settlement, stone-built?; burial(s)?";3;5;3;0;0;6
+433;rural settlement;2;5;3;4;0;5
+434;rural settlement;1;5;3;0;0;3
+435;rural settlement?;1;1;0;0;0;1
+436;rural settlement;1;5;2;1;0;3
+437;rural settlement;1;6;4;0;0;3
+438;rural settlement, stone-built;4;6;4;0;0;7
+439;rural settlement;1;5;3;1;0;3
+440;"rural settlement; burial(s)?";3;7;5;0;0;6
+441;rural settlement?;1;1;0;0;0;1
+442;rural settlement;1;7;5;0;0;4
+443;rural settlement;1;7;5;0;0;4
+445;rural settlement;1;5;3;0;0;3
+446;rural settlement;1;1;0;0;0;1
+448;rural settlement;2;6;4;0;0;5
+450;rural settlement;1;5;3;0;0;3
+451;rural settlement;2;7;4;1;0;5
+452;rural settlement;1;6;2;0;0;3
+453;"rural settlement; burial(s)";2;7;5;0;1;5
+454;rural settlement;1;5;3;1;0;3
+455;rural settlement;2;5;3;1;0;5
+458;"rural settlement; burial(s)";3;7;5;2;0;6
+461;rural settlement;2;7;4;4;0;5
+462;rural settlement;1;6;4;2;0;3
+463;rural settlement;1;7;4;1;0;4
+464;rural settlement;1;5;2;3;0;3
+465;rural settlement;1;5;3;4;0;3
+466;rural settlement;2;7;5;1;0;5
+467;rural settlement;2;7;5;1;0;5
+468;"rural settlement; watchtower?";3;7;5;0;0;6
+469;rural settlement;1;5;3;3;0;3
+470;rural settlement;1;5;2;1;0;3
+471;rural settlement;2;7;4;0;0;5
+472;"rural settlement; pottery kiln(s)";1;7;5;0;2;4
+473;rural settlement;2;6;4;0;0;5
+474;rural settlement;2;7;5;0;0;5
+475;rural settlement;2;7;5;0;0;5
+476;rural settlement, stone-built?;1;7;5;4;0;4
+477;rural settlement;1;6;4;0;0;3
+478;rural settlement;1;7;4;3;0;4
+479;rural settlement;2;7;5;0;0;5
+480;rural settlement;1;5;2;1;0;3
+481;rural settlement;1;7;5;2;0;4
+482;rural settlement;1;7;5;0;0;4
+483;rural settlement;1;7;5;0;0;4
+484;rural settlement;4;6;2;2;0;7
+485;rural settlement;2;7;5;0;0;5
+486;rural settlement?;1;7;3;0;0;4
+487;rural settlement?;1;1;0;0;0;1
+488;rural settlement;1;7;5;3;0;4
+489;rural settlement;1;5;3;3;0;3
+490;rural settlement;2;6;4;2;0;5
+491;rural settlement;2;6;4;4;0;5
+492;rural settlement;1;7;4;0;0;4
+493;rural settlement;1;7;5;1;0;4
+495;rural settlement;1;5;3;0;0;3
+496;rural settlement;2;7;5;0;0;5
+497;rural settlement;1;7;5;0;0;4
+498;rural settlement;3;6;3;2;0;6
+499;"rural settlement; burial(s)";1;5;3;2;3;3
+500;"rural settlement; burial(s)";1;1;0;4;5;1
+502;castellum;4;7;5;0;0;
+503;rural settlement;3;7;4;0;0;6
+504;road;2;6;4;0;0;
+505;castellum;3;3;1;1;0;
+506;rural settlement;1;7;5;0;0;4
+507;rural settlement;2;7;5;0;0;5
+508;rural settlement;2;6;4;1;0;5
+509;"rural settlement; road?";1;7;5;0;0;4
+510;rural settlement;1;6;4;0;0;3
+511;rural settlement;2;7;5;0;0;5
+512;rural settlement;2;7;5;1;3;5
+513;"rural settlement; stone-built?";4;7;5;0;0;7
+514;rural settlement;1;7;5;0;0;4
+515;rural settlement;4;7;5;1;0;7
+516;rural settlement;1;7;5;3;0;4
+517;"rural settlement; burial(s)";1;7;5;0;4;4
+518;rural settlement;1;5;3;2;0;3
+519;rural settlement;3;3;2;0;1;6
+520;burial(s);1;7;5;0;0;
+521;rural settlement?;1;1;0;2;0;1
+522;burial(s);1;3;1;0;0;
+523;rural settlement;1;3;2;0;0;2
+524;rural settlement;3;6;4;0;0;6
+529;rural settlement;2;7;4;0;0;5
+530;rural settlement;1;1;0;3;0;1
+532;rural settlement;1;5;1;1;0;3
+534;rural settlement?;1;3;1;1;0;2
+536;castellum?;2;6;1;1;0;
+537;"civil settlement?; cult site?";1;7;5;0;0;
+538;rural settlement;1;5;3;1;0;3
+539;rural settlement;1;6;2;3;0;3
+540;rural settlement?;1;3;1;4;0;2
+541;rural settlement?;1;1;0;0;0;1
+542;rural settlement?;1;1;0;0;0;1
+543;rural settlement;1;5;3;2;0;3
+544;rural settlement;1;1;0;1;0;1
+546;rural settlement;1;1;0;2;0;1
+547;"castellum; civil settlement; burial(s)";3;7;5;2;0;
+548;rural settlement;2;7;5;0;0;5
+549;rural settlement;1;6;4;0;0;3
+550;rural settlement;1;7;4;1;0;4
+552;rural settlement;1;5;3;3;0;3
+553;"rural settlement?; burial(s)";2;7;4;2;0;5
+554;rural settlement;1;7;4;1;0;4
+556;rural settlement;1;7;5;2;0;4
+557;rural settlement?;1;3;2;1;0;2
+558;rural settlement;2;7;5;4;0;5
+559;rural settlement;2;7;5;0;0;5
+560;rural settlement;4;7;5;4;1;7
+561;rural settlement;1;4;2;1;0;2
+562;rural settlement;3;6;4;0;0;6
+563;rural settlement;1;3;2;0;0;2
+564;rural settlement;1;4;1;0;0;2
+565;rural settlement;1;4;2;1;0;2
+566;rural settlement;1;4;1;0;0;2
+567;rural settlement;1;4;1;0;0;2
+568;rural settlement;3;6;4;0;0;6
+569;rural settlement;1;6;3;0;0;3
+570;rural settlement;3;6;1;0;0;6
+571;rural settlement;1;6;1;4;0;3
+572;rural settlement;1;6;4;0;0;3
+573;rural settlement;1;2;1;0;1;1
+574;rural settlement;1;6;4;0;0;3
+575;rural settlement?;1;2;1;0;0;1
+576;rural settlement;2;6;4;0;0;5
+577;rural settlement;1;7;3;0;0;4
+578;rural settlement;1;6;4;1;0;3
+579;rural settlement;1;6;4;0;0;3
+580;rural settlement?;1;1;0;3;0;1
+582;rural settlement;1;4;1;1;0;2
+583;"rural settlement; burial(s)";2;6;4;1;0;5
+585;rural settlement;1;7;5;2;0;4
+586;rural settlement;1;7;5;0;0;4
+587;rural settlement?;1;6;2;0;0;3
+588;rural settlement?;1;2;1;1;0;1
+589;rural settlement;2;6;4;1;0;5
+590;rural settlement;2;7;5;0;0;5
+591;rural settlement;1;4;2;0;0;2
+592;rural settlement;1;5;3;1;0;3
+593;rural settlement;1;6;4;3;0;3
+594;rural settlement;1;1;0;0;0;1
+595;rural settlement;1;7;5;1;0;4
+596;rural settlement;3;7;5;0;0;6
+597;rural settlement?;1;5;3;0;0;3
+598;rural settlement?;1;3;2;0;0;2
+599;rural settlement?;1;4;2;0;0;2
+600;rural settlement?;1;5;3;0;0;3
+601;rural settlement;2;6;4;3;0;5
+603;"rural settlement?; cult site?";2;5;3;0;0;5
+604;"rural settlement; road?";1;7;5;0;0;4
+606;rural settlement;3;7;5;0;0;6
+607;"rural settlement; burial(s)?";2;6;4;0;0;5
+608;"rural settlement; burial(s)?";3;5;3;1;0;6
+609;rural settlement;1;7;5;0;0;4
+610;rural settlement?;1;5;1;0;0;3
+611;rural settlement;3;6;4;3;0;6
+612;rural settlement;1;6;4;3;3;3
+613;rural settlement, stone-built;4;7;3;4;0;7
+614;rural settlement;1;6;3;1;0;3
+615;rural settlement;1;2;1;0;0;1
+616;"rural settlement; burial(s)";1;7;4;0;0;4
+617;rural settlement;1;7;5;2;0;4
+619;rural settlement, stone-built;4;6;4;1;0;7
+620;rural settlement, stone-built?;4;7;5;2;0;7
+621;rural settlement;2;5;2;0;0;5
+622;rural settlement;3;7;3;0;0;6
+626;rural settlement;2;5;3;3;0;5
+628;rural settlement;2;6;4;2;1;5
+629;rural settlement;3;7;5;0;0;6
+630;rural settlement;2;6;4;0;0;5
+631;rural settlement;3;7;5;1;0;6
+632;rural settlement;1;5;3;0;0;3
+633;rural settlement;1;6;3;0;0;3
+635;deposit;1;1;0;1;0;
+636;rural settlement;2;6;4;0;0;5
+637;rural settlement;3;4;2;0;0;6
+640;rural settlement;1;3;2;0;0;2
+641;rural settlement;3;4;2;0;0;6
+643;rural settlement;1;6;4;0;0;3
+644;"rural settlement; burial(s)?";1;6;4;0;0;3
+645;rural settlement;1;5;3;0;0;3
+646;rural settlement;1;5;3;0;0;3
+647;"rural settlement; burial(s)?";1;5;2;0;0;3
+648;rural settlement;1;5;3;0;0;3
+649;rural settlement;1;5;3;0;0;3
+650;rural settlement;1;2;1;0;0;1
+651;rural settlement;2;6;4;1;0;5
+653;rural settlement;4;7;5;0;0;7
+654;"rural settlement; burial(s)?";1;5;3;1;0;3
+655;rural settlement;1;4;2;0;0;2
+656;rural settlement;2;6;4;0;0;5
+657;rural settlement;1;7;3;0;0;4
+659;rural settlement;2;6;4;0;0;5
+660;rural settlement;2;6;4;3;0;5
+661;rural settlement, stone-built;4;6;3;1;0;7
+662;rural settlement;1;5;3;0;0;3
+663;rural settlement;3;6;4;0;0;6
+664;rural settlement;2;6;4;2;0;5
+665;"rural settlement; burial(s)?";1;5;3;3;0;3
+666;rural settlement;1;6;4;1;0;3
+667;"rural settlement; burial(s)";1;7;5;0;0;4
+668;rural settlement;1;6;4;1;0;3
+669;rural settlement;1;6;3;0;1;3
+671;rural settlement;2;7;5;1;0;5
+672;rural settlement;3;6;4;1;0;6
+673;rural settlement;1;5;3;0;0;3
+674;"rural settlement, stone-built?; burial(s)?";3;7;5;0;0;6
+676;rural settlement;4;7;5;0;0;7
+677;"rural settlement; burial(s)?";2;7;5;0;0;5
+678;"rural settlement; burial(s)";2;6;4;0;0;5
+679;rural settlement;2;6;4;0;0;5
+680;rural settlement;1;4;2;0;0;2
+681;rural settlement;1;5;3;0;0;3
+682;rural settlement;3;7;5;0;1;6
+683;rural settlement;1;4;2;0;0;2
+684;rural settlement;1;6;4;0;0;3
+686;burial(s);1;3;2;0;0;
+687;castellum;4;6;3;1;0;
+689;burial(s)?;1;5;2;2;0;
+691;burial(s);1;5;2;0;0;
+692;rural settlement;1;7;4;0;0;4
+695;rural settlement;2;7;5;0;0;5
+697;rural settlement;2;7;5;0;0;5
+699;"rural settlement; burial(s)?";4;7;5;0;0;7
+700;rural settlement;1;6;3;1;0;3
+701;rural settlement;1;4;2;1;0;2
+702;rural settlement;3;6;4;0;0;6
+703;rural settlement;2;6;4;0;0;5
+704;rural settlement;1;6;3;0;0;3
+705;rural settlement;1;6;3;2;0;3
+706;rural settlement;1;6;3;0;0;3
+707;rural settlement;1;5;2;1;0;3
+708;rural settlement;1;5;3;0;0;3
+709;rural settlement;1;4;2;2;0;2
+710;rural settlement;4;7;5;4;0;7
+711;rural settlement;2;5;3;3;0;5
+712;rural settlement;1;5;3;1;0;3
+713;rural settlement;1;6;3;1;0;3
+714;burial(s);1;5;2;3;0;
+715;"rural settlement; burial(s)";2;6;4;0;0;5
+716;"cult site; civil settlement?";4;7;5;0;0;
+717;"rural settlement; burial(s)";3;7;5;0;0;6
+718;rural settlement, stone-built?;3;5;3;0;0;6
+719;"rural settlement; burial(s)";1;6;4;0;0;3
+720;rural settlement;3;6;4;2;0;6
+722;"cult site; rural settlement?";3;4;2;0;0;6
+723;burial(s)?;1;5;2;0;0;
+724;"rural settlement; burial(s)";3;5;3;0;0;6
+725;"rural settlement, stone-built; burial(s); military settlement?";4;7;5;2;2;7
+727;rural settlement;1;7;4;0;0;4
+729;rural settlement;2;6;4;0;0;5
+730;rural settlement, stone-built;4;7;5;1;0;7
+731;rural settlement, stone-built?;4;7;5;3;0;7
+732;rural settlement;2;7;5;0;0;5
+733;"castellum; road; burial(s)";1;6;4;1;0;
+734;castra;3;7;3;0;0;
+735;rural settlement;2;7;3;0;0;5
+736;road?;2;5;2;0;0;
+737;"rural settlement; burial(s)";2;7;5;0;3;5
+739;"castra; road";3;7;4;2;4;
+740;rural settlement;1;5;3;0;0;3
+742;rural settlement;3;6;4;0;0;6
+743;rural settlement;3;7;5;0;0;6
+744;rural settlement;1;7;4;0;0;4
+745;rural settlement;3;6;4;0;0;6
+746;rural settlement;1;4;2;3;0;2
+747;rural settlement;1;4;2;0;0;2
+748;rural settlement;1;7;5;0;0;4
+749;rural settlement;2;7;5;1;0;5
+750;rural settlement;3;5;3;0;0;6
+751;rural settlement;2;7;5;1;3;5
+752;rural settlement;1;5;3;1;0;3
+753;rural settlement;2;4;2;3;0;2
+754;rural settlement;1;4;2;0;0;2
+755;rural settlement;1;5;3;1;0;3
+756;rural settlement;1;5;3;0;0;3
+757;"rural settlement; burial(s)";2;5;3;0;0;5
+758;rural settlement;2;6;4;0;0;5
+759;rural settlement, stone-built;4;4;1;4;0;7
+760;rural settlement, stone-built?;4;5;3;4;0;7
+761;rural settlement;3;7;4;0;0;6
+762;rural settlement, stone-built?;3;1;0;3;0;6
+763;"castellum?; waterworks";4;4;1;0;0;
+764;"rural settlement; cult site?";3;6;4;2;0;6
+766;rural settlement;1;6;3;1;0;3
+767;rural settlement;4;6;4;3;0;7
+768;rural settlement?;1;3;1;3;0;2
+771;rural settlement;1;3;2;0;0;2
+772;rural settlement;2;5;3;0;0;5
+776;rural settlement;1;7;4;2;0;4
+777;rural settlement, stone-built;4;7;5;3;3;7
+779;"rural settlement; road";1;7;5;0;0;4
+780;rural settlement;1;1;0;0;0;1
+781;castellum;3;7;4;3;0;
+782;rural settlement;2;7;4;0;0;5
+783;rural settlement;3;5;3;0;0;6
+784;rural settlement;1;5;3;0;0;3
+785;"rural settlement; road; 2 watchtowers; shipwreck(s)";3;7;5;0;0;6
+786;rural settlement;1;7;5;0;1;4
+787;"rural settlement; road";2;7;4;1;1;5
+788;rural settlement;1;6;3;0;0;3
+789;rural settlement;1;7;4;2;0;4
+790;rural settlement;1;7;5;0;0;4
+791;rural settlement;1;7;4;0;0;4
+792;rural settlement?;1;5;2;0;0;3
+793;rural settlement;2;7;5;2;0;5
+794;rural settlement;1;7;5;0;0;4
+795;"rural settlement; burial(s)?";3;7;5;0;0;6
+796;rural settlement;3;7;5;1;0;6
+797;rural settlement;1;7;4;0;0;4
+798;rural settlement;1;2;1;0;0;1
+799;rural settlement;2;7;5;1;0;5
+800;rural settlement;2;7;4;0;0;5
+801;rural settlement;2;6;4;1;3;5
+802;rural settlement;4;7;5;3;1;7
+803;rural settlement;3;6;3;0;0;6
+804;rural settlement?;2;6;2;0;0;5
+805;rural settlement;3;7;5;0;0;6
+806;rural settlement;1;2;1;0;0;1
+807;rural settlement;2;7;5;0;0;5
+808;rural settlement;1;7;5;0;0;4
+809;"rural settlement; burial(s)";3;7;5;2;1;6
+810;rural settlement?;1;4;2;1;0;2
+811;rural settlement;1;6;3;0;0;3
+814;rural settlement?;1;1;0;3;0;1
+816;rural settlement;1;3;2;0;0;2
+817;rural settlement;1;6;4;1;0;3
+818;rural settlement;1;3;2;1;0;2
+819;rural settlement;1;4;2;3;0;2
+820;rural settlement;2;6;3;4;0;5
+821;rural settlement;1;5;2;1;0;3
+822;bridge;1;1;0;2;0;
+823;rural settlement;1;3;2;0;0;2
+824;rural settlement;3;7;5;0;0;6
+825;rural settlement?;1;1;0;0;0;1
+826;rural settlement;1;6;4;0;0;3
+827;rural settlement;1;3;2;1;0;2
+828;rural settlement;1;3;1;0;0;2
+829;road;1;1;0;2;0;
+830;"rural settlement; watchtower";1;7;5;0;0;4
+831;rural settlement;1;4;2;0;2;2
+832;rural settlement;1;2;1;0;0;1
+833;rural settlement;1;2;1;0;0;1
+835;"rural settlement; watchtower?";2;5;3;1;0;5
+837;rural settlement;1;2;1;1;0;1
+839;castellum?;1;1;0;2;0;
+840;castellum?;1;1;0;0;0;
+841;"civil settlement; road; cult site";4;6;3;1;0;
+842;"civil settlement; military camp(s)";4;6;3;2;0;
+844;cult site?;3;1;0;0;0;
+845;castellum;3;7;5;4;0;
+847;rural settlement;3;3;2;0;0;6
+848;rural settlement?;1;2;1;3;0;1
+849;rural settlement;1;7;4;0;0;4
+853;road;1;1;0;0;0;
+855;rural settlement;1;7;5;0;0;4
+856;rural settlement;4;7;5;1;0;7
+857;rural settlement;1;2;1;1;0;1
+859;rural settlement;1;2;1;0;0;1
+860;rural settlement;1;5;3;0;0;3
+862;rural settlement?;1;1;0;0;0;1
+863;rural settlement?;1;2;1;0;0;1
+864;"rural settlement; road; burial(s)";2;7;5;0;0;5
+865;rural settlement;1;7;4;0;0;4
+866;rural settlement;1;5;2;1;0;3
+867;rural settlement;2;5;2;1;0;5
+868;rural settlement;1;7;3;0;0;4
+869;rural settlement;3;3;2;0;0;6
+870;rural settlement;1;2;1;0;0;1
+871;rural settlement;3;4;2;0;0;6
+872;rural settlement;1;5;3;1;0;3
+873;"rural settlement; burial(s)?; road?";1;6;4;3;0;3
+875;"military settlement; burial(s); road";4;7;5;0;0;
+879;rural settlement, stone-built;4;7;5;0;0;7
+880;rural settlement?;1;1;0;0;0;1
+881;rural settlement;1;7;4;2;0;4
+882;rural settlement;2;7;4;0;0;5
+883;rural settlement?;1;6;4;0;0;3
+884;rural settlement;1;2;1;3;0;1
+886;rural settlement;1;7;4;3;0;4
+887;burial(s)?;1;5;1;0;0;
+888;rural settlement;1;7;5;2;0;4
+889;rural settlement;4;7;4;1;0;7
+890;rural settlement;1;4;2;0;0;2
+891;rural settlement;4;6;4;0;0;7
+896;burial(s);1;7;5;0;0;
+897;rural settlement;1;6;3;0;0;3
+898;rural settlement;1;6;3;1;0;3
+899;burial(s);1;6;4;0;0;
+900;rural settlement;2;5;3;0;0;5
+901;"rural settlement; burial(s)";1;5;3;0;0;3
+902;rural settlement;2;5;3;0;0;5
+903;burial(s);3;6;3;0;0;
+904;rural settlement;1;2;1;3;0;1
+1000;rural settlement;3;3;2;1;0;6
+1001;burial(s);1;5;1;0;0;
+1002;rural settlement;1;6;2;0;0;3
+1003;rural settlement;1;6;4;0;0;3
+1004;rural settlement;1;6;2;0;0;3
+1005;rural settlement;1;3;2;0;0;2
+1006;"rural settlement; cult site?";1;7;5;0;0;4
+1007;rural settlement;1;7;5;0;0;4
+1008;rural settlement;1;6;3;0;0;3
+1009;rural settlement;1;5;2;2;0;3
+1011;rural settlement;1;6;4;0;0;3
+1012;rural settlement;1;5;1;1;0;3
+1013;rural settlement?;1;4;1;0;0;2
+1014;rural settlement?;1;1;0;0;0;1
+1015;rural settlement;1;7;3;2;0;4
+1016;rural settlement;2;7;4;0;0;5
+1017;rural settlement;1;6;2;0;0;3
+1018;rural settlement;1;4;2;0;0;2
+1019;rural settlement;1;6;2;0;0;3
+1020;rural settlement, stone-built?;4;7;5;0;0;7
+1021;rural settlement;1;5;2;1;0;3
+1022;rural settlement;3;6;4;3;0;6
+1023;rural settlement;3;7;5;4;0;6
+1024;burial(s);1;6;4;2;0;
+1025;"rural settlement; burial(s)?";2;6;4;0;0;5
+1026;rural settlement?;1;1;0;0;0;1
+1027;rural settlement;3;7;5;3;0;6
+1028;rural settlement;1;7;2;0;0;4
+1029;rural settlement;3;6;4;0;0;6
+1031;rural settlement;1;5;3;0;0;3
+1032;rural settlement;1;5;3;0;0;3
+1033;rural settlement;2;7;4;1;0;5
+1034;"rural settlement; burial(s)";3;3;2;3;0;6
+1035;rural settlement;1;3;2;0;0;2
+1036;rural settlement;1;4;2;0;1;2
+1038;rural settlement?;2;5;1;0;0;5
+1039;rural settlement;2;5;3;2;0;5
+1040;"rural settlement; road?";3;3;2;2;0;6
+1041;rural settlement, stone-built?;3;6;4;3;1;6
+1042;rural settlement;2;5;3;2;0;5
+1043;"rural settlement; burial(s)";4;7;5;1;2;7
+1044;rural settlement;1;1;0;0;3;1
+1045;burial(s);1;5;3;1;0;
+1046;rural settlement;2;6;4;2;0;5
+1047;burial(s);1;6;2;1;0;
+1048;burial(s);1;6;3;0;0;
+1049;burial(s);1;6;3;0;0;
+1050;burial(s);1;6;1;0;0;
+1051;rural settlement;2;7;5;0;0;5
+1052;rural settlement;3;7;5;0;0;6
+1053;"rural settlement; burial(s)";1;5;3;2;0;3
+1054;rural settlement?;1;1;0;0;0;1
+1056;"rural settlement, stone-built; burial(s)";4;6;4;2;0;7
+1058;"burial(s); rural settlement";3;7;5;1;0;6
+1059;burial(s);1;6;3;1;0;
+1060;rural settlement;3;6;4;1;0;6
+1062;burial(s);1;6;2;0;0;
+1063;burial(s);1;6;3;0;0;
+1064;rural settlement?;1;1;0;0;0;1
+1065;rural settlement;1;6;4;0;0;3
+1066;burial(s);1;6;3;0;0;
+1067;watchtower;3;6;4;0;0;
+1068;burial(s);2;6;3;1;0;
+1069;rural settlement;1;6;2;0;0;3
+1070;rural settlement?;1;5;1;0;0;3
+1071;rural settlement?;1;6;2;0;0;3
+1072;rural settlement;2;7;5;1;0;5
+1073;rural settlement;1;6;3;0;0;3
+1074;"military settlement; pottery kiln(s); burial(s)";4;6;3;3;0;
+1075;rural settlement, stone-built;4;7;4;0;0;7
+1076;rural settlement, stone-built;4;6;3;1;0;7
+1077;castellum?;3;7;5;2;0;
+1079;"rural settlement; cult site?";2;6;3;3;1;5
+1080;"burial(s); rural settlement?";1;6;4;2;0;3
+1081;military settlement?;2;6;4;1;0;
+1083;rural settlement?;1;4;1;0;0;2
+1084;burial(s);1;5;2;1;0;
+1086;burial(s);1;6;2;0;0;
+1087;rural settlement;1;3;2;0;0;2
+1088;rural settlement;1;5;3;1;0;3
+1092;road?;1;1;0;0;0;
+1093;burial(s);1;7;5;1;0;
+1094;rural settlement;1;7;4;0;0;4
+1095;rural settlement?;1;2;1;0;0;1
+1096;rural settlement;1;7;5;0;0;4
+1097;burial(s);2;6;4;1;0;
+1098;"rural settlement; road?";1;4;2;0;0;2
+1099;rural settlement;1;4;2;0;0;2
+1100;rural settlement;1;6;4;0;0;3
+1101;rural settlement;1;6;3;0;0;3
+1102;rural settlement;1;5;3;0;0;3
+1103;burial(s);1;6;3;0;0;
+1104;rural settlement, stone-built;4;6;2;1;0;7
+1105;burial(s);1;6;2;0;0;
+1106;rural settlement?;1;5;2;0;0;3
+1108;"rural settlement; burial(s)";1;5;3;3;0;3
+1109;burial(s);4;6;4;1;0;
+1110;burial(s);1;6;1;0;0;
+1111;rural settlement;3;7;5;0;0;6
+1115;road?;1;1;0;0;0;
+1116;rural settlement;1;3;2;0;0;2
+1117;burial(s);1;6;4;1;0;
+1118;burial(s);2;6;2;1;0;
+1119;"civil settlement?; burial(s)";4;7;5;3;2;
+1120;rural settlement?;1;6;4;0;0;3
+1121;rural settlement;2;6;3;0;0;5
+1122;rural settlement;1;4;1;0;0;2
+1123;rural settlement, stone-built?;4;7;5;3;0;7
+1124;"rural settlement, stone-built; burial(s)";4;7;5;3;0;7
+1125;rural settlement;1;6;3;0;0;3
+1126;rural settlement?;1;5;1;0;0;3
+1127;rural settlement;1;5;3;0;0;3
+1128;rural settlement;2;7;5;1;0;5
+1130;rural settlement;1;7;4;1;0;4
+1131;rural settlement;1;7;5;1;0;4
+1132;rural settlement;1;5;3;0;0;3
+1133;rural settlement;2;6;3;1;0;5
+1135;rural settlement;1;4;2;1;0;2
+1136;rural settlement;1;5;3;1;0;3
+1138;rural settlement;1;5;3;0;0;3
+1139;rural settlement;2;3;2;0;0;2
+1140;burial(s);1;6;3;0;0;
+1141;burial(s);1;3;2;0;0;
+1142;burial(s);1;6;1;0;0;
+1143;rural settlement;3;7;3;0;0;6
+1144;rural settlement;1;7;3;0;0;4
+1145;rural settlement;1;3;1;0;0;2
+1146;rural settlement;1;6;1;0;0;3
+1147;burial(s);1;6;4;0;0;
+1148;"rural settlement; burial(s)";4;6;4;2;5;7
+1149;burial(s);1;3;1;0;0;
+1151;rural settlement;1;3;1;0;0;2
+1152;rural settlement;3;7;5;0;0;6
+1153;burial(s);1;6;3;0;0;
+1154;"burial(s); rural settlement";3;7;5;2;3;6
+1155;burial(s);1;6;3;0;0;
+1156;rural settlement?;2;4;2;0;0;2
+1158;rural settlement;1;4;2;0;0;2
+1159;rural settlement;1;6;2;0;0;3
+1160;rural settlement;3;7;5;1;0;6
+1162;road;1;1;0;0;0;
+1163;rural settlement;1;4;1;0;0;2
+1164;rural settlement;2;7;3;0;0;5
+1166;rural settlement;2;2;1;0;0;1
+1168;rural settlement;4;3;2;3;0;7
+1169;rural settlement;1;5;3;3;3;3
+1170;rural settlement;1;7;5;2;1;4
+1171;cult site?;1;1;0;0;0;
+1172;rural settlement;2;3;2;2;3;2
+1173;rural settlement, stone-built?;3;3;2;0;0;6
+1176;burial(s);3;7;5;3;0;
+1177;civil settlement;3;7;5;3;0;
+1178;rural settlement;1;3;2;0;1;2
+1179;rural settlement;1;3;2;0;0;2
+1180;watchtower?;3;7;5;2;0;
+2001;burial(s)?;3;3;1;0;0;
+2003;rural settlement?;1;1;0;0;0;1
+2004;rural settlement?;2;5;2;0;0;5
+2005;burial(s)?;1;1;0;0;0;
+2006;rural settlement?;2;7;2;0;0;5
+2007;rural settlement?;1;1;0;0;0;1
+2008;rural settlement;1;3;2;0;0;2
+2009;rural settlement;2;7;4;2;0;5
+2010;burial(s);1;1;0;1;0;
+2011;watchtower;1;1;0;0;0;
+2012;rural settlement;3;3;2;0;0;6
+2013;rural settlement;1;5;2;0;0;3
+2014;rural settlement?;1;2;1;0;0;1
+2015;rural settlement;1;5;2;0;0;3
+2016;rural settlement;1;6;4;0;0;3
+2017;burial(s);1;6;4;1;0;
+2018;road;1;1;0;0;0;
+2019;rural settlement;1;2;1;0;0;1
+2020;rural settlement;1;4;1;0;0;2
+2021;rural settlement;1;2;1;0;0;1
+2022;rural settlement;1;5;3;1;0;3
+2023;rural settlement;1;4;2;0;0;2
+2024;rural settlement;1;5;2;0;0;3
+2025;"rural settlement; road";1;5;3;2;0;3
+2026;rural settlement;1;2;1;0;0;1
+2027;rural settlement;1;3;2;0;0;2
+2028;rural settlement;1;5;2;0;0;3
+2029;rural settlement;1;5;3;0;0;3
+2030;rural settlement;1;5;2;0;0;3
+2031;rural settlement;1;2;1;0;0;1
+2033;rural settlement?;1;2;1;0;0;1
+2034;rural settlement;1;2;1;0;0;1
+2035;rural settlement;1;2;1;2;0;1
+2036;rural settlement;1;2;1;0;0;1
+2037;rural settlement;1;2;1;1;0;1
+2038;rural settlement;1;2;1;1;0;1
+2039;rural settlement;1;2;1;1;0;1
+2040;rural settlement?;1;4;2;1;0;2
+2041;rural settlement;1;2;1;0;0;1
+2042;rural settlement;1;3;2;1;0;2
+2043;"burial(s); rural settlement?";1;6;4;2;0;3
+2044;"rural settlement; burial(s)";2;6;3;2;1;5
+2045;rural settlement;1;4;2;0;0;2
+2046;"burial(s); rural settlement?";1;2;1;0;0;1
+2047;rural settlement;1;4;2;0;0;2
+2048;rural settlement;1;4;2;1;0;2
+2049;rural settlement;1;2;1;1;0;1
+2050;rural settlement;1;4;2;1;0;2
+2051;rural settlement;1;3;2;2;0;2
+2052;rural settlement;1;4;2;0;0;2
+2053;rural settlement;1;5;3;3;0;3
+2054;rural settlement?;1;1;0;0;0;1
+2055;"rural settlement?; ford?";1;7;2;0;0;4
+2056;burial(s);1;6;4;3;0;
+2057;rural settlement;1;5;3;0;0;3
+2058;rural settlement;1;3;1;1;0;2
+2061;burial(s);1;6;2;1;0;
+2062;rural settlement;1;5;3;1;0;3
+2063;rural settlement;1;7;5;1;0;4
+2064;rural settlement;1;5;3;0;0;3
+2065;rural settlement;2;6;3;2;0;5
+2066;rural settlement;1;7;5;3;0;4
+2067;rural settlement?;1;7;5;1;0;4
+2068;rural settlement?;1;1;0;0;0;1
+2069;road;3;1;0;0;0;
+2070;rural settlement;1;6;1;0;0;3
+2071;rural settlement;1;5;3;0;0;3
+2072;rural settlement;1;4;2;0;0;2
+2073;"rural settlement?; burial(s)";2;7;5;1;2;5
+2074;rural settlement;1;6;4;0;0;3
+2075;road;2;5;3;0;0;
+2076;road;3;5;3;0;0;
+2077;rural settlement?;1;2;1;0;0;1
+2078;"rural settlement; burial(s)?";3;6;4;0;0;6
+2079;deposit;1;1;0;1;0;
+2080;"rural settlement?; burial(s)";1;5;2;0;0;3
+2082;burial(s)?;1;6;4;0;0;
+2083;rural settlement;1;5;2;0;0;3
+2084;rural settlement?;1;3;2;0;0;2
+2086;rural settlement?;1;5;2;0;0;3
+2087;rural settlement?;1;4;2;0;0;2
+2088;rural settlement;1;7;5;2;2;4
+2089;rural settlement;1;6;3;0;0;3
+2091;rural settlement;2;7;4;0;0;5
+2092;rural settlement;3;2;1;0;0;6
+2093;burial(s)?;1;5;1;0;0;
+2095;rural settlement;3;7;5;2;0;6
+2096;rural settlement;1;2;1;0;0;1
+2097;rural settlement;3;4;2;0;0;6
+2098;rural settlement;3;6;3;0;0;6
+2099;rural settlement;1;5;3;0;0;3
+2100;rural settlement;1;3;2;0;0;2
+2102;rural settlement?;1;6;2;0;0;3
+2103;rural settlement;3;7;3;0;0;6
+2104;burial(s);1;5;3;0;0;
+2105;rural settlement;1;3;1;0;0;2
+2106;"rural settlement; cult site?; burial(s)";4;7;5;2;1;7
+2107;rural settlement;1;7;4;2;1;4
+2108;rural settlement?;3;5;1;0;0;6
+2109;deposit?;1;1;0;1;0;
+2110;military settlement?;3;3;1;0;0;
+2111;rural settlement;1;3;1;0;0;2
+2112;rural settlement;2;7;4;0;0;5
+2113;rural settlement?;1;2;1;0;0;1
+2114;rural settlement?;1;4;2;0;0;2
+2115;rural settlement?;2;2;1;0;0;1
+2116;rural settlement;1;7;5;2;0;4
+2117;rural settlement;3;7;4;0;0;6
+2118;rural settlement;1;2;1;0;0;1
+2119;deposit;1;6;1;1;0;
+2120;rural settlement;1;7;3;0;0;4
+2121;rural settlement;1;5;1;0;0;3
+2122;rural settlement?;1;5;3;1;0;3
+2123;rural settlement;1;2;1;0;0;1
+2124;rural settlement;3;6;4;0;0;6
+2125;rural settlement;1;2;1;0;0;1
+2126;rural settlement;1;2;1;0;0;1
+2127;burial(s);1;3;2;1;0;
+2128;burial(s);1;1;0;0;0;
+2129;rural settlement;1;5;3;0;0;3
+2130;road;2;3;2;0;0;
+2131;burial(s);1;3;2;0;0;
+2132;rural settlement;1;3;1;1;0;2
+2133;road;1;1;0;0;0;
+2134;road;1;1;0;0;0;
+2135;rural settlement;1;1;0;0;0;1
+2136;"civil settlement; castellum; burial(s); road";4;6;3;1;0;
+2137;burial(s);2;6;2;3;0;
+2138;burial(s);3;6;2;1;0;
+2139;burial(s);2;5;3;0;0;
+2140;civil settlement;1;1;0;0;0;
+2141;civil settlement;2;1;0;1;0;
+2142;"rural settlement; road?";3;1;0;0;0;6
+2143;burial(s);1;1;0;0;0;
+2144;"rural settlement; burial(s)?";2;7;4;0;0;5
+2145;rural settlement;1;4;2;0;0;2
+2146;rural settlement;3;2;1;0;0;6
+2147;rural settlement;1;3;2;0;0;2
+2148;aquaduct?;1;1;0;0;0;
+2149;aquaduct?;1;1;0;0;0;
+2150;aquaduct?;1;1;0;0;0;
+2151;aquaduct?;1;1;0;0;0;
+2152;aquaduct?;1;1;0;0;0;
+2153;aquaduct?;1;1;0;0;0;
+2154;aquaduct?;1;1;0;0;0;
+2155;rural settlement;1;5;3;1;0;3
+2156;rural settlement;1;3;2;0;0;2
+2157;rural settlement?;1;2;1;0;0;1
+2159;cult site;1;3;2;3;0;
+2160;rural settlement?;1;2;1;0;0;1
+2161;rural settlement;1;4;1;2;0;2
+2162;rural settlement;1;5;3;0;0;3
+2163;rural settlement;1;3;2;0;0;2
+2164;rural settlement;1;2;1;0;0;1
+2165;rural settlement;1;3;2;0;0;2
+2166;rural settlement;2;3;1;0;1;2
+2167;"rural settlement; burial(s); cult site";2;6;4;1;5;5
+2168;rural settlement;1;1;0;0;2;1
+2169;rural settlement;1;4;2;0;0;2
+2170;rural settlement;1;6;4;0;0;3
+2171;rural settlement?;1;1;0;0;0;1
+2172;"civil settlement?; burial(s)";1;6;3;4;0;
+2173;rural settlement;2;6;3;1;0;5
+2174;rural settlement;1;4;2;0;0;2
+2175;rural settlement?;1;7;4;0;0;4
+2176;rural settlement;4;6;3;1;0;7
+2177;rural settlement;1;1;0;1;0;1
+2178;rural settlement;1;6;3;0;0;3
+2179;rural settlement;1;5;3;0;0;3
+2180;rural settlement;1;5;2;1;0;3
+2181;rural settlement?;2;6;4;0;0;5
+2182;rural settlement?;1;5;1;0;0;3
+2183;rural settlement?;1;1;0;0;0;1
+2184;rural settlement?;1;1;0;0;0;1
+2185;rural settlement?;1;6;3;2;0;3
+2186;rural settlement?;1;1;0;1;0;1
+2187;rural settlement?;1;1;0;1;0;1
+2189;cult place?;1;5;3;0;0;
+2190;rural settlement?;1;1;0;3;0;1
+3002;rural settlement;1;2;1;0;0;1
+3003;rural settlement;1;2;1;0;0;1
+3007;rural settlement;1;2;1;0;0;1
+3009;rural settlement;1;2;1;0;0;1
+3011;rural settlement;1;3;2;0;0;2
+3016;rural settlement;1;7;5;0;0;4
+3017;rural settlement;2;2;1;0;0;1
+3018;rural settlement;3;2;1;0;0;6
+3019;rural settlement;1;3;2;0;0;2
+3021;rural settlement;1;5;2;0;0;3
+3025;rural settlement;2;3;2;0;2;2
+3029;rural settlement;1;3;2;0;0;2
+3030;rural settlement;1;5;2;1;0;3
+3031;rural settlement;1;2;1;0;0;1
+3032;rural settlement;1;3;2;0;0;2
+3033;rural settlement;1;2;1;0;0;1
+3034;rural settlement;1;2;1;0;0;1
+3035;rural settlement;1;2;1;0;0;1
+3037;rural settlement;1;6;4;2;0;3
+3039;rural settlement;1;6;2;0;0;3
+3043;rural settlement;1;2;1;0;0;1
+3044;rural settlement;2;6;2;0;1;5
+3045;rural settlement;2;3;2;0;0;2
+3046;rural settlement;1;2;1;0;0;1
+3051;"rural settlement; burial(s); road";3;6;4;2;5;6
+3052;rural settlement;1;3;2;0;0;2
+3054;"civil settlement; road; harbour?";4;6;4;2;4;
+3056;rural settlement;1;3;2;1;0;2
+3057;"rural settlement?; burial(s)";1;6;4;3;0;3
+3059;rural settlement;1;3;2;0;0;2
+3061;rural settlement;1;3;2;0;0;2
+3062;rural settlement;1;5;3;1;0;3
+3063;rural settlement;3;6;4;3;0;6
+3064;rural settlement?;1;3;1;0;0;2
+3065;"rural settlement; road";1;7;5;0;0;4
+3068;rural settlement;1;3;1;0;0;2
+3069;"rural settlement; road?";2;4;2;0;0;2
+3070;"rural settlement; road";3;5;3;2;0;6
+3071;"rural settlement; jetty?; road";3;7;5;0;0;6
+3072;rural settlement;2;7;5;0;0;5
+3073;road;2;5;3;0;0;
+3074;"rural settlement; road";3;6;4;3;0;6
+3076;rural settlement?;1;5;3;0;0;3
+3080;rural settlement;1;3;2;0;0;2
+3081;rural settlement;1;3;2;0;1;2
+3082;"civil settlement; mini-castellum; burial(s)";2;6;4;3;0;
+3083;rural settlement?;1;1;0;0;0;1
+3084;rural settlement?;1;3;2;0;0;2
+3085;rural settlement?;1;2;1;0;0;1
+3086;rural settlement;1;2;1;0;0;1
+3087;rural settlement;1;3;2;1;0;2
+3089;rural settlement;3;7;5;1;1;6
+3090;burial(s)?;1;1;0;0;0;
+3091;rural settlement;1;5;3;0;0;3
+3092;rural settlement, stone-built;3;2;1;0;0;6
+3093;rural settlement?;1;7;3;0;0;4
+3094;rural settlement;1;1;0;0;1;1
+3095;rural settlement;1;1;0;0;0;1
+3096;rural settlement;4;7;5;3;5;7
+3097;rural settlement;4;7;5;1;1;7
+3098;rural settlement?;1;1;0;0;0;1
+3099;rural settlement;4;7;5;2;5;7
+3100;rural settlement;1;3;2;0;1;2
+3101;"rural settlement; burial(s)";3;6;4;1;2;6
+3102;"rural settlement; burial(s)?";4;6;4;2;0;7
+3103;"rural settlement; burial(s)?";2;6;4;1;2;5
+3104;rural settlement;2;6;3;1;0;5
+3105;"rural settlement; burial(s); cult place?";1;6;4;1;4;3
+3107;rural settlement;1;3;2;0;0;2
+3108;rural settlement?;1;3;2;0;0;2
+3110;rural settlement;1;7;4;2;0;4
+3111;rural settlement;2;7;5;2;0;5
+3112;rural settlement?;1;6;2;0;0;3
+3113;"rural settlement; road";3;5;3;0;0;6
+3117;rural settlement?;1;5;2;0;0;3
+3119;rural settlement;2;5;3;0;0;5
+3120;rural settlement?;1;2;1;0;0;1
+3121;rural settlement;2;4;2;0;0;2
+3125;"rural settlement; road";3;6;4;1;0;6
+3126;rural settlement?;1;1;0;0;0;1
+3128;rural settlement;3;7;4;0;0;6
+3129;rural settlement;2;6;2;0;0;5
+3132;"castellum?; civil settlement?";1;1;0;0;0;
+3137;"rural settlement; military settlement";2;6;3;1;1;5
+3141;rural settlement;1;2;1;0;0;1
+3143;rural settlement;3;6;3;0;0;6
+3145;rural settlement?;1;2;1;0;0;1
+3146;rural settlement;1;1;0;0;0;1
+3147;"rural settlement?; burial(s)?";1;5;2;0;0;3
+3148;civil settlement?;2;6;2;0;0;
+3152;road;2;5;3;0;0;
+3153;civil settlement?;1;1;0;0;0;
+3154;"rural settlement; road";1;2;1;2;0;1
+3155;rural settlement?;1;5;3;0;0;3
+3156;rural settlement;1;2;1;0;0;1
+3157;rural settlement;1;5;2;0;0;3
+3158;rural settlement?;1;1;0;0;0;1
+3159;"rural settlement; road";1;3;2;1;0;2
+3160;rural settlement;1;2;1;2;0;1
+3161;rural settlement;1;2;1;0;0;1
+3162;civil settlement;3;6;1;1;0;
+3163;rural settlement;2;7;4;1;0;5
+3164;"mini-castellum; watchtower; horrea; civil settlement; burial(s); road";1;3;1;0;0;
+3165;"harbour; road; civil settlement; burial(s)";2;6;4;2;0;
+3166;"civil settlement; burial(s); road";3;7;5;2;0;
+3167;"civil settlement; burial(s)";4;7;5;3;0;
+3168;"civil settlement; harbour; burial(s); road; shipwreck(s)";4;7;5;3;4;
+3169;"civil settlement; bridge";4;6;4;0;0;
+3170;"civil settlement; harbour; road";4;7;4;2;0;
+3171;"civil settlement; road; burial(s); harbour; shipwreck(s)";2;6;4;1;0;
+3172;rural settlement;3;5;3;1;2;6
+3173;"rural settlement; burial(s)?; cult place";4;7;5;1;0;7
+3174;"rural settlement; road";2;3;2;1;1;2
+3175;"town; harbour; canal";4;7;5;3;0;
+3176;civil settlement;3;7;5;2;0;
+4001;rural settlement?;1;3;1;0;0;2
+4002;rural settlement?;1;3;2;0;0;2
+4003;rural settlement?;1;3;2;0;0;2
+4004;rural settlement;1;3;2;1;0;2
+4005;"road; civil / rural settlement?";2;7;4;0;0;5
+4006;civil settlement?;2;6;3;0;0;
+4009;"road?; military settlement?";2;1;0;0;0;
+4010;road;1;1;0;0;0;
+4011;road;1;3;1;0;0;
+4012;road;1;1;0;0;0;
+4013;road;3;1;0;0;0;
+4016;"2 watchtowers; road";2;5;1;0;0;
+4017;"rural settlement?; cult site?";2;7;2;3;0;5
+4018;"burial(s); road";1;1;0;0;0;
+4019;"rural settlement; military settlement; road";2;3;2;0;0;2
+4020;canal;1;1;0;0;0;
+4021;castellum;4;6;3;2;0;
+4022;castellum;3;7;5;2;0;
+4023;castellum;3;7;5;1;0;
+4025;road;3;7;5;1;0;
+4027;road;2;5;2;0;0;
+4028;road;1;1;0;0;0;
+4029;road;1;1;0;0;0;
+4030;road;1;1;0;0;0;
+4031;road;1;1;0;0;0;
+4033;road;1;1;0;0;0;
+4034;road;1;1;0;0;0;
+4035;road;1;1;0;0;0;
+4036;road;1;1;0;0;0;
+4037;road;1;1;0;0;0;
+4038;road;1;1;0;0;0;
+4039;road;1;1;0;0;0;
+4040;road;1;1;0;0;0;
+4041;road;3;1;0;0;0;
+4043;road;3;1;0;0;0;
+4044;road;1;1;0;0;0;
+4045;road;1;1;0;0;0;
+4046;road?;1;1;0;0;0;
+4047;road;1;1;0;0;0;
+4048;road;1;6;1;0;0;
+4049;road?;1;1;0;0;0;
+4050;road;1;1;0;0;0;
+4051;road?;3;1;0;0;0;
+4052;road;1;1;0;0;0;
+4053;road;1;5;3;0;0;
+4054;road;2;6;3;0;0;
+4055;road?;1;1;0;0;0;
+4056;road;1;1;0;0;0;
+4057;road;1;3;1;0;0;
+4058;road;1;1;0;0;0;
+4059;road;1;1;0;0;0;
+4060;road;1;2;1;0;0;
+4061;road;1;1;0;0;0;
+4062;road;1;1;0;0;0;
+4063;road;1;1;0;0;0;
+4064;castellum;4;6;4;2;0;
+4065;"canal; harbour";3;5;3;1;0;
+4066;castellum;4;7;5;2;0;
+4070;road;3;1;0;0;0;
+4071;"rural settlement; burial(s); road";1;1;0;1;3;1
+4072;rural settlement;3;7;5;2;4;6
+4073;rural settlement;1;6;4;2;0;3
+4074;"rural settlement; burial(s)";2;6;4;1;3;5
+4075;rural settlement;2;6;3;2;0;5
+4076;rural settlement;1;6;3;1;0;3
+4077;rural settlement;1;7;5;0;0;4
+4078;rural settlement;1;6;4;2;0;3
+4079;rural settlement;3;7;5;2;0;6
+4080;rural settlement;2;7;5;1;0;5
+4081;rural settlement;2;6;4;0;0;5
+4082;burial(s);1;6;4;0;0;
+4083;"rural settlement, stone-built; burial(s)?";3;7;5;1;0;6
+4084;rural settlement;1;5;2;0;0;3
+4085;rural settlement;3;6;4;0;0;6
+4086;"rural settlement; road";3;6;4;1;2;6
+4087;rural settlement;1;6;4;1;0;3
+4088;burial(s);1;7;4;0;0;
+4089;"rural settlement; road?; canal?";2;6;3;0;0;5
+4090;rural settlement;3;6;3;1;0;6
+4091;cult site?;1;5;3;1;0;
+4092;"rural settlement, stone-built?; burial(s)";4;7;5;4;5;7
+4093;rural settlement;4;7;5;2;0;7
+4094;"rural settlement; road?";1;6;4;2;3;3
+4095;rural settlement;4;7;5;1;0;7
+4096;rural settlement;1;5;3;0;1;3
+4097;rural settlement;1;7;4;0;0;4
+4098;rural settlement?;1;5;2;0;0;3
+4099;rural settlement?;3;6;2;0;0;6
+4100;"rural settlement?; road?";3;3;1;0;0;6
+4101;rural settlement;1;6;4;1;0;3
+4102;rural settlement;1;1;0;0;0;1
+4103;rural settlement;1;6;4;1;0;3
+4104;rural settlement?;1;1;0;0;0;1
+4105;rural settlement;1;3;2;1;2;2
+4106;rural settlement?;1;5;2;0;0;3
+4107;rural settlement?;1;1;0;0;0;1
+4108;rural settlement?;1;4;2;0;0;2
+4109;rural settlement;1;5;2;0;0;3
+4110;"rural settlement; burial(s)";2;7;5;3;0;5
+4111;rural settlement?;1;5;2;0;0;3
+4112;rural settlement?;1;1;0;0;0;1
+4113;rural settlement;1;6;4;0;0;3
+4114;rural settlement;2;6;4;1;4;5
+4115;rural settlement;1;7;5;1;0;4
+4116;rural settlement;2;4;1;0;0;2
+4117;rural settlement;2;6;3;0;0;5
+4118;rural settlement;1;7;5;1;1;4
+4119;rural settlement;1;6;4;1;0;3
+4120;rural settlement;1;5;3;1;0;3
+4121;rural settlement;1;5;3;1;0;3
+4122;"rural settlement; waterworks";2;5;3;2;1;5
+4123;"rural settlement; waterworks";2;5;2;0;0;5
+4124;rural settlement;1;6;4;1;3;3
+4125;waterworks;1;5;3;0;0;
+4126;rural settlement;1;5;3;1;0;3
+4127;rural settlement;1;4;2;0;1;2
+4128;rural settlement;1;5;3;0;0;3
+4129;rural settlement;1;2;1;0;0;1
+4130;rural settlement?;1;5;3;0;0;3
+4131;rural settlement;1;5;1;0;1;3
+4132;rural settlement;1;2;1;2;0;1
+4133;rural settlement?;1;3;2;2;0;2
+4134;rural settlement?;1;5;2;0;0;3
+4135;rural settlement;1;3;1;1;3;2
+4136;rural settlement;1;1;0;0;0;1
+4137;rural settlement;1;1;0;0;0;1
+4138;rural settlement?;1;1;0;0;0;1
+4139;rural settlement?;1;1;0;0;0;1
+4140;"rural settlement; road?";1;3;1;1;2;2
+4141;rural settlement?;1;1;0;0;0;1
+4142;rural settlement?;1;1;0;0;0;1
+4143;rural settlement;1;3;2;1;3;2
+4144;rural settlement;3;7;5;1;1;6
+4145;rural settlement?;1;6;3;1;0;3
+4146;rural settlement?;1;7;5;1;0;4
+4147;rural settlement;2;7;4;1;0;5
+4148;rural settlement;1;5;3;1;0;3
+4149;"rural settlement; road?";2;6;3;0;0;5
+4150;rural settlement?;1;4;1;0;0;2
+4151;"rural settlement; cult site?";3;7;5;2;0;6
+4152;"rural settlement; burial(s)";3;7;5;4;0;6
+4153;rural settlement;1;7;5;1;0;4
+4154;rural settlement;1;6;2;1;0;3
+4155;rural settlement;2;7;5;3;0;5
+4156;rural settlement;3;6;3;2;0;6
+4157;rural settlement;1;6;2;0;0;3
+4158;"rural settlement; waterworks";2;7;5;1;0;5
+4159;rural settlement;3;6;4;0;0;6
+4160;rural settlement;1;5;3;0;0;3
+4161;rural settlement?;1;5;2;0;0;3
+4162;rural settlement?;1;6;3;0;0;3
+4163;rural settlement?;1;5;2;0;0;3
+4164;"rural settlement; waterworks";1;1;0;0;1;1
+4165;burial(s);1;1;0;0;0;
+4166;rural settlement?;2;5;2;0;0;5
+4167;road;1;1;0;0;0;
+5001;castellum;3;6;1;0;0;
+5002;"military settlement; glass kiln";1;1;0;0;0;
+5003;"mini-castellum; civil settlement";1;1;0;0;0;
+5004;"castellum; civil settlement";1;1;0;0;0;
+5005;"castellum; civil settlement; burial(s)";1;1;0;0;0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;
+0;

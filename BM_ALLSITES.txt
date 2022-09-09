@@ -1,0 +1,1359 @@
+obsolete;LimesLimits_ID;Site_type;Start_period;End_period;Nb_CER_BM;Nb_TILES;Nb_NONCER_BM;Nb_MORTAR;Nb_HEATING;Nb_DECOR;Nb_WINDOW;TOTAL FINDS;TOTAL_CER_BM;TOTAL_NONCER_BM;TOTAL_LUXURY_BM;P_CER_BM;P_TILES;P_NONCER_BM;P_MORTAR;P_HEATING;P_DECOR_P;P_WINDOW;P_NO_BM;P_CER_BM;P_NONCER_BM;P_LUXURY_BM;BM_GROUP
+FALSE;1;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2;rural settlement;ROMM;ROML;0;1;1;0;1;0;0;3;1;1;1;0;1;1;0;1;0;0;0;0;0;1;4
+FALSE;3;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4;"rural settlement; burial(s)";IJZL;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;6;rural settlement;ROMM;ROMM;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;7;rural settlement;ROMVB;ROMMB;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;8;deposit?;ROMM;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;9;road?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;10;rural settlement;ROMMA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;12;"civil settlement; military settlement?; road";ROMV;ROMM;8;18;16;2;4;2;1;51;26;18;7;1;1;1;1;1;1;1;0;0;0;1;4
+FALSE;13;castellum;ROMLA;ROMLB;1;3;7;1;0;1;0;13;4;8;1;1;1;1;1;0;1;0;0;0;0;1;4
+FALSE;14;bridge;ROMLB;ROMLB;0;2;5;0;0;0;0;7;2;5;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;15;"burial(s); road";ROMVB;ROMMB;1;3;0;0;0;0;0;4;4;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;18;"rural settlement; burial(s)";ROMM;ROML;0;4;0;0;0;0;0;4;4;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;20;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;21;"rural settlement; burial(s)";ROMMA;ROMMB;0;5;3;0;1;1;0;10;5;3;2;0;1;1;0;1;1;0;0;0;0;1;4
+FALSE;22;burial(s);ROMVA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;23;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;24;rural settlement?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;25;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;27;burial(s);ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;28;burial(s)?;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;29;road?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;30;burial(s);ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;31;rural settlement;ROMV;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;32;burial(s);ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;33;rural settlement;IJZL;VMEA;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;34;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;35;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;36;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;37;"rural settlement; burial(s)";IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;38;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;39;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;40;rural settlement;IJZL;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;41;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;42;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;43;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;44;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;45;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;47;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;48;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;49;rural settlement;IJZM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;50;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;51;burial(s)?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;52;rural settlement;ROMVA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;53;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;54;rural settlement;IJZL;ROMMB;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;55;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;56;burial(s);IJZL;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;57;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;58;"rural settlement; burial(s)";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;59;rural settlement;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;60;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;61;rural settlement;ROMV;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;63;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;65;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;66;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;67;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;68;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;69;"rural settlement; cult site?";IJZM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;70;"rural settlement; burial(s)";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;72;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;73;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;74;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;75;rural settlement;IJZL;ROML;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;1;0;0;0;1;4
+FALSE;76;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;77;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;79;rural settlement;IJZL;ROMM;0;5;1;0;0;0;0;6;5;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;80;"rural settlement; burial(s)?";IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;81;burial(s);ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;82;"rural settlement; burial(s)?";IJZL;ROML;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;83;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;84;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;85;burial(s);IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;86;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;88;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;89;burial(s);IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;90;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;91;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;92;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;93;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;94;cult site;IJZL;ROMM;0;2;5;1;0;3;1;12;2;6;4;0;1;1;1;0;1;1;0;0;0;1;4
+FALSE;95;rural settlement;ROM;ROM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;96;rural settlement;IJZL;ROML;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;97;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;99;rural settlement;IJZ;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;100;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;101;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;102;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;103;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;104;rural settlement;IJZL;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;105;rural settlement;ROMV;VMEA;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;106;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;107;cult site;IJZL;ROML;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;108;castellum?;ROMLB;ROMLB;0;1;4;1;0;2;0;8;1;5;2;0;1;1;1;0;1;0;0;0;0;1;4
+FALSE;109;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;110;rural settlement, stone-built;IJZL;ROMMB;3;4;7;0;0;4;0;18;7;7;4;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;111;"rural settlement, stone-built; burial(s)";IJZM;ROMMB;0;2;3;0;0;1;1;7;2;3;2;0;1;1;0;0;1;1;0;0;0;1;4
+FALSE;112;"rural settlement; burial(s)";IJZM;LME;3;3;2;0;0;0;0;8;6;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;113;"rural settlement, stone-built?; burial(s)";ROMV;ROMMB;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;114;rural settlement;ROMV;ROML;0;1;3;0;0;0;0;4;1;3;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;115;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;116;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;117;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;118;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;120;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;121;rural settlement?;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;122;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;124;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;125;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;126;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;127;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;128;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;129;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;131;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;132;rural settlement, stone-built;IJZL;ROML;1;1;4;0;1;0;1;8;2;4;2;1;1;1;0;1;0;1;0;0;0;1;4
+FALSE;133;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;134;rural settlement, stone-built?;ROMVA;ROMLA;2;1;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;136;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;138;rural settlement;ROMM;ROML;0;1;2;0;0;0;0;3;1;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;140;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;142;rural settlement;ROMV;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;147;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;148;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;150;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;151;burial(s);ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;152;"rural settlement; burial(s)";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;155;rural settlement;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;158;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;161;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;163;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;169;rural settlement;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;174;rural settlement;ROMV;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;175;"rural settlement; burial(s)?";ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;179;rural settlement;ROMM;ROMM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;181;rural settlement;ROMV;ROML;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;182;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;186;"castellum?; civil settlement?";ROMMA;ROMMB;1;3;3;0;2;0;0;9;4;3;2;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;187;rural settlement;IJZL;ROML;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;191;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;192;rural settlement;ROMV;ROML;0;3;2;0;0;0;0;5;3;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;193;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;195;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;197;rural settlement;IJZL;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;198;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;200;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;202;"rural settlement; burial(s)";IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;206;rural settlement;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;207;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;208;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;209;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;210;rural settlement;IJZL;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;211;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;216;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;218;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;219;rural settlement, stone-built?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;221;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;224;rural settlement?;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;225;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;227;rural settlement?;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;229;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;231;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;232;burial(s)?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;235;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;237;"rural settlement; burial(s)";ROMVB;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;239;burial(s);ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;240;rural settlement;ROMVB;ROMLA;0;0;1;1;0;0;0;2;0;2;0;0;0;1;1;0;0;0;0;0;1;0;3
+FALSE;241;rural settlement;IJZL;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;242;rural settlement;ROMM;ROMM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;244;rural settlement;ROMVA;ROMLA;1;1;1;0;0;0;0;3;2;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;245;"rural settlement; burial(s)?";ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;248;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;251;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;252;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;253;"rural settlement; burial(s)?";ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;254;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;255;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;257;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;258;rural settlement;IJZL;ROMM;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;261;rural settlement;ROMV;ROML;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;267;burial(s)?;ROMV;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;271;rural settlement?;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;273;rural settlement;IJZL;ROML;0;4;2;0;2;1;0;9;4;2;3;0;1;1;0;1;1;0;0;0;0;1;4
+FALSE;276;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;277;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;278;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;280;burial(s);ROMV;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;281;burial(s)?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;282;"rural settlement; burial(s)";ROMV;ROML;1;1;2;0;0;0;0;4;2;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;285;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;289;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;290;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;291;rural settlement;ROMM;ROML;0;2;2;0;0;0;0;4;2;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;293;rural settlement?;ROMM;ROMM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;294;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;297;rural settlement;ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;298;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;299;"rural settlement; cult site?";ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;300;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;301;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;304;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;305;burial(s)?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;306;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;307;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;308;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;309;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;310;rural settlement;IJZL;ROML;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;311;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;312;rural settlement;IJZ;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;315;rural settlement, stone-built;IJZL;ROML;0;2;2;0;1;0;1;6;2;2;2;0;1;1;0;1;0;1;0;0;0;1;4
+FALSE;316;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;317;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;318;burial(s)?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;319;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;320;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;321;"rural settlement; cult site?";IJZL;ROML;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;323;"rural settlement; burial(s)?";IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;324;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;325;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;326;"rural settlement; burial(s)?";IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;327;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;328;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;329;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;330;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;331;rural settlement;IJZL;ROMM;0;1;2;0;0;0;0;3;1;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;332;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;333;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;334;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;335;"rural settlement; cult place?";IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;336;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;337;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;338;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;339;rural settlement;IJZL;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;340;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;341;rural settlement;ROM;ROM;0;6;2;0;0;0;0;8;6;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;342;rural settlement;ROM;ROM;0;2;0;1;0;0;0;3;2;1;0;0;1;0;1;0;0;0;0;0;1;0;3
+FALSE;343;burial(s);IJZM;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;344;"rural settlement; bridge?";ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;345;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;346;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;348;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;349;rural settlement;ROMM;ROMM;1;1;1;0;0;0;0;3;2;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;350;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;351;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;353;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;354;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;355;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;356;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;357;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;358;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;359;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;360;"rural settlement; burial(s)";ROMMA;ROMMB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;361;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;362;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;363;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;364;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;365;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;366;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;367;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;368;"rural settlement; burial(s)";ROMV;ROMM;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;369;"rural settlement; cult site?";IJZL;ROML;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;370;rural settlement;ROMMA;ROMMB;1;3;3;0;0;0;0;7;4;3;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;371;burial(s)?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;372;rural settlement, stone-built?;ROMVA;ROMMB;1;1;2;0;0;0;0;4;2;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;373;rural settlement;IJZL;ROMM;0;1;2;0;0;0;0;3;1;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;374;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;375;rural settlement;ROMMA;VMEB;2;0;0;0;0;0;0;2;2;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;376;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;378;rural settlement;IJZM;ROMMA;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;379;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;380;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;381;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;382;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;383;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;384;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;385;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;386;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;387;rural settlement;IJZL;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;388;rural settlement;ROMV;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;389;rural settlement;IJZ;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;390;"rural settlement; burial(s)";IJZL;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;391;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;392;rural settlement;IJZL;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;393;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;394;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;395;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;396;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;397;rural settlement;ROMM;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;398;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;399;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;403;rural settlement;IJZL;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;404;rural settlement;IJZM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;406;rural settlement;IJZM;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;407;rural settlement;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;408;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;410;rural settlement;IJZM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;411;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;412;rural settlement;IJZ;ROM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;413;"rural settlement?; burial(s)";ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;414;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;415;"rural settlement; burial(s)?";IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;416;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;417;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;418;"rural settlement; burial(s)?";ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;419;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;420;rural settlement;ROMM;ROMM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;421;"rural settlement; road?";ROMV;ROMM;1;2;1;0;0;0;0;4;3;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;422;"rural settlement, stone-built; burial(s)";IJZV;VMEC;0;4;8;1;0;0;0;13;4;9;0;0;1;1;1;0;0;0;0;0;1;0;3
+FALSE;423;rural settlement;ROM;ROM;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;424;rural settlement;ROMV;ROMM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;425;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;426;rural settlement;IJZL;VME;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;427;rural settlement;ROMV;ROMM;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;429;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;430;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;431;rural settlement;IJZL;ROMM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;432;"rural settlement, stone-built?; burial(s)?";ROMM;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;433;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;434;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;435;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;436;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;437;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;438;rural settlement, stone-built;ROMV;ROML;2;5;6;0;0;3;0;16;7;6;3;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;439;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;440;"rural settlement; burial(s)?";IJZL;NT;0;8;1;0;0;0;0;9;8;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;441;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;442;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;443;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;445;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;446;rural settlement;ROML;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;448;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;450;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;451;rural settlement;ROM;ROM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;452;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;453;"rural settlement; burial(s)";IJZL;ROMV;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;454;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;455;rural settlement;IJZM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;458;"rural settlement; burial(s)";IJZ;VME;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;461;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;462;rural settlement;IJZL;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;463;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;464;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;465;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;466;rural settlement;ROMM;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;467;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;468;"rural settlement; watchtower?";IJZL;VME;0;2;2;0;0;0;0;4;2;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;469;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;470;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;471;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;472;"rural settlement; pottery kiln(s)";ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;473;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;474;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;475;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;476;rural settlement, stone-built?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;477;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;478;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;479;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;480;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;481;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;482;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;483;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;484;rural settlement;ROMM;ROMM;0;1;0;0;2;0;0;3;1;0;2;0;1;0;0;1;0;0;0;0;0;1;4
+FALSE;485;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;486;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;487;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;488;rural settlement;IJZL;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;489;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;490;rural settlement;ROMV;ROMM;2;0;0;0;0;0;0;2;2;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;491;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;492;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;493;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;495;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;496;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;497;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;498;rural settlement;ROM;ROM;1;1;2;0;0;0;0;4;2;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;499;"rural settlement; burial(s)";IJZM;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;500;"rural settlement; burial(s)";ROMVA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;502;castellum;ROMVA;ROMMB;2;3;13;1;0;1;0;20;5;14;1;1;1;1;1;0;1;0;0;0;0;1;4
+FALSE;503;rural settlement;ROMM;ROMM;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;504;road;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;505;castellum;ROMVB;ROMMB;3;0;3;0;0;0;0;6;3;3;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;506;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;507;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;508;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;509;"rural settlement; road?";ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;510;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;511;rural settlement;IJZL;LME;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;512;rural settlement;IJZL;ROMMA;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;513;"rural settlement; stone-built?";ROMM;ROML;0;1;2;1;1;0;0;5;1;3;1;0;1;1;1;1;0;0;0;0;0;1;4
+FALSE;514;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;515;rural settlement;IJZM;ROMMB;0;2;2;0;0;0;1;5;2;2;1;0;1;1;0;0;0;1;0;0;0;1;4
+FALSE;516;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;517;"rural settlement; burial(s)";ROMVA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;518;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;519;rural settlement;IJZL;ROML;1;1;2;0;0;0;0;4;2;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;520;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;521;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;522;burial(s);ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;523;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;524;rural settlement;ROMM;ROMM;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;529;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;530;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;532;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;534;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;536;castellum?;ROMV;ROML;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;537;"civil settlement?; cult site?";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;538;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;539;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;540;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;541;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;542;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;543;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;544;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;546;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;547;"castellum; civil settlement; burial(s)";ROMVB;ROMMB;0;2;2;0;0;0;0;4;2;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;548;rural settlement;IJZL;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;549;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;550;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;552;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;553;"rural settlement?; burial(s)";ROMVA;ROMMB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;554;rural settlement;IJZL;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;556;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;557;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;558;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;559;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;560;rural settlement;IJZL;ROMM;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;1;0;0;0;0;1;4
+FALSE;561;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;562;rural settlement;IJZL;ROML;1;1;1;0;0;0;0;3;2;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;563;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;564;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;565;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;566;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;567;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;568;rural settlement;IJZL;ROMM;2;0;1;0;0;0;0;3;2;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;569;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;570;rural settlement;ROMV;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;571;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;572;rural settlement;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;573;rural settlement;ROMV;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;574;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;575;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;576;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;577;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;578;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;579;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;580;rural settlement?;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;582;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;583;"rural settlement; burial(s)";IJZL;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;585;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;586;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;587;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;588;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;589;rural settlement;IJZL;VMEB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;590;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;591;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;592;rural settlement;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;593;rural settlement;ROMV;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;594;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;595;rural settlement;ROMV;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;596;rural settlement;ROMV;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;597;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;598;rural settlement?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;599;rural settlement?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;600;rural settlement?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;601;rural settlement;IJZL;VMEB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;603;"rural settlement?; cult site?";IJZL;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;604;"rural settlement; road?";IJZL;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;606;rural settlement;ROMV;VMEB;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;607;"rural settlement; burial(s)?";IJZM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;608;"rural settlement; burial(s)?";IJZM;ROMM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;609;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;610;rural settlement?;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;611;rural settlement;IJZL;ROML;0;2;4;0;0;0;0;6;2;4;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;612;rural settlement;ROMVA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;613;rural settlement, stone-built;ROMMA;ROMMB;1;1;3;0;2;1;0;8;2;3;3;1;1;1;0;1;1;0;0;0;0;1;4
+FALSE;614;rural settlement;IJZL;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;615;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;616;"rural settlement; burial(s)";ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;617;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;619;rural settlement, stone-built;ROMMA;ROMMB;4;3;6;0;4;2;1;20;7;6;7;1;1;1;0;1;1;1;0;0;0;1;4
+FALSE;620;rural settlement, stone-built?;ROMM;ROMM;0;3;3;0;0;1;0;7;3;3;1;0;1;1;0;0;1;0;0;0;0;1;4
+FALSE;621;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;622;rural settlement;IJZL;ROMM;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;626;rural settlement;IJZL;ROMMB;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;628;rural settlement;IJZL;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;629;rural settlement;IJZM;LMEA;1;3;2;0;0;0;0;6;4;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;630;rural settlement;IJZV;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;631;rural settlement;IJZV;ROMM;1;0;0;1;0;0;0;2;1;1;0;1;0;0;1;0;0;0;0;0;1;0;3
+FALSE;632;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;633;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;635;deposit;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;636;rural settlement;IJZM;VMEA;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;637;rural settlement;IJZL;ROMM;0;1;1;1;0;0;0;3;1;2;0;0;1;1;1;0;0;0;0;0;1;0;3
+FALSE;640;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;641;rural settlement;IJZL;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;643;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;644;"rural settlement; burial(s)?";IJZM;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;645;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;646;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;647;"rural settlement; burial(s)?";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;648;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;649;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;650;rural settlement;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;651;rural settlement;IJZL;VMEB;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;653;rural settlement;IJZM;ROML;0;3;0;0;0;0;1;4;3;0;1;0;1;0;0;0;0;1;0;0;0;1;4
+FALSE;654;"rural settlement; burial(s)?";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;655;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;656;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;657;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;659;rural settlement;IJZM;ROML;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;660;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;661;rural settlement, stone-built;IJZL;ROMM;0;1;2;0;0;0;1;4;1;2;1;0;1;1;0;0;0;1;0;0;0;1;4
+FALSE;662;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;663;rural settlement;IJZL;VMEB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;664;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;665;"rural settlement; burial(s)?";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;666;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;667;"rural settlement; burial(s)";ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;668;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;669;rural settlement;ROMVA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;671;rural settlement;IJZL;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;672;rural settlement;IJZL;ROMM;3;2;5;1;0;0;0;11;5;6;0;1;1;1;1;0;0;0;0;0;1;0;3
+FALSE;673;rural settlement;IJZV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;674;"rural settlement, stone-built?; burial(s)?";IJZL;VMEB;2;3;2;1;0;0;0;8;5;3;0;1;1;1;1;0;0;0;0;0;1;0;3
+FALSE;676;rural settlement;IJZM;ROMM;0;2;1;0;1;0;0;4;2;1;1;0;1;1;0;1;0;0;0;0;0;1;4
+FALSE;677;"rural settlement; burial(s)?";ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;678;"rural settlement; burial(s)";IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;679;rural settlement;IJZL;VMEB;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;680;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;681;rural settlement;IJZM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;682;rural settlement;IJZL;VMEB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;683;rural settlement;ROMM;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;684;rural settlement;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;686;burial(s);ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;687;castellum;ROMV;ROML;1;4;8;0;0;2;0;15;5;8;2;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;689;burial(s)?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;691;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;692;rural settlement;IJZV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;695;rural settlement;ROMVB;ROMMB;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;697;rural settlement;IJZL;ROMLB;2;0;0;0;0;0;0;2;2;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;699;"rural settlement; burial(s)?";IJZL;ROML;1;3;0;0;1;0;0;5;4;0;1;1;1;0;0;1;0;0;0;0;0;1;4
+FALSE;700;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;701;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;702;rural settlement;IJZL;ROMM;2;0;1;1;0;0;0;4;2;2;0;1;0;1;1;0;0;0;0;0;1;0;3
+FALSE;703;rural settlement;IJZM;ROMLB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;704;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;705;rural settlement;IJZL;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;706;rural settlement;ROMVA;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;707;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;708;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;709;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;710;rural settlement;IJZL;VMEB;0;0;2;1;2;0;0;5;0;3;2;0;0;1;1;1;0;0;0;0;0;1;4
+FALSE;711;rural settlement;IJZM;ROMLB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;712;rural settlement;IJZL;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;713;rural settlement;IJZL;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;714;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;715;"rural settlement; burial(s)";ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;716;"cult site; civil settlement?";ROMV;ROMM;4;9;13;1;2;5;0;34;13;14;7;1;1;1;1;1;1;0;0;0;0;1;4
+FALSE;717;"rural settlement; burial(s)";IJZL;ROML;1;2;2;0;0;0;0;5;3;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;718;rural settlement, stone-built?;ROMMB;ROMMB;0;2;2;0;0;0;0;4;2;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;719;"rural settlement; burial(s)";ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;720;rural settlement;IJZM;ROMMB;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;722;"cult site; rural settlement?";ROMV;ROMM;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;723;burial(s)?;ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;724;"rural settlement; burial(s)";IJZL;ROML;0;1;4;0;0;0;0;5;1;4;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;725;"rural settlement, stone-built; burial(s); military settlement?";IJZM;ROML;3;9;11;1;2;2;1;29;12;12;5;1;1;1;1;1;1;1;0;0;0;1;4
+FALSE;727;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;729;rural settlement;IJZV;VMEB;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;730;rural settlement, stone-built;IJZM;ROML;1;3;4;0;1;0;0;9;4;4;1;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;731;rural settlement, stone-built?;ROMM;ROML;6;6;4;1;2;0;0;19;12;5;2;1;1;1;1;1;0;0;0;0;0;1;4
+FALSE;732;rural settlement;IJZL;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;733;"castellum; road; burial(s)";ROMVA;ROMVB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;734;castra;ROMVA;ROMVA;3;0;1;0;0;0;0;4;3;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;735;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;736;road?;ROM;ROM;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;737;"rural settlement; burial(s)";ROMVB;ROMMB;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;739;"castra; road";ROMMA;ROMMA;12;6;21;0;0;0;0;39;18;21;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;740;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;742;rural settlement;IJZL;ROML;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;743;rural settlement;IJZL;ROMM;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;744;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;745;rural settlement;IJZL;ROML;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;746;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;747;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;748;rural settlement;IJZL;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;749;rural settlement;IJZL;VMEB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;750;rural settlement;IJZL;ROMM;1;2;1;0;0;0;0;4;3;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;751;rural settlement;ROMVA;ROMMB;2;2;0;0;0;0;0;4;4;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;752;rural settlement;IJZL;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;753;rural settlement;IJZM;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;754;rural settlement;IJZM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;755;rural settlement;ROMVA;ROMVB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;756;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;757;"rural settlement; burial(s)";IJZL;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;758;rural settlement;IJZL;ROMV;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;759;rural settlement, stone-built;ROMVB;ROMMB;1;2;2;0;2;0;0;7;3;2;2;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;760;rural settlement, stone-built?;ROMV;ROMM;1;3;2;0;1;0;0;7;4;2;1;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;761;rural settlement;ROMMA;VME;1;5;2;0;0;0;0;8;6;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;762;rural settlement, stone-built?;ROMMB;ROMMB;0;0;1;1;0;0;0;2;0;2;0;0;0;1;1;0;0;0;0;0;1;0;3
+FALSE;763;"castellum?; waterworks";ROMV;ROMM;0;2;2;0;2;2;0;8;2;2;4;0;1;1;0;1;1;0;0;0;0;1;4
+FALSE;764;"rural settlement; cult site?";ROMM;ROMM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;766;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;767;rural settlement;IJZL;ROMM;0;1;2;0;0;0;1;4;1;2;1;0;1;1;0;0;0;1;0;0;0;1;4
+FALSE;768;rural settlement?;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;771;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;772;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;776;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;777;rural settlement, stone-built;ROMVA;ROMLB;2;2;4;0;2;0;1;11;4;4;3;1;1;1;0;1;0;1;0;0;0;1;4
+FALSE;779;"rural settlement; road";IJZV;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;780;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;781;castellum;ROMVB;ROMMB;2;0;2;1;0;0;0;5;2;3;0;1;0;1;1;0;0;0;0;0;1;0;3
+FALSE;782;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;783;rural settlement;IJZL;ROM;0;3;1;1;0;0;0;5;3;2;0;0;1;1;1;0;0;0;0;0;1;0;3
+FALSE;784;rural settlement;ROMV;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;785;"rural settlement; road; 2 watchtowers; shipwreck(s)";ROMVB;ROMMB;3;1;5;0;0;0;0;9;4;5;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;786;rural settlement;ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;787;"rural settlement; road";ROMMA;ROMMB;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;788;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;789;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;790;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;791;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;792;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;793;rural settlement;ROMV;ROMV;1;3;0;0;0;0;0;4;4;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;794;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;795;"rural settlement; burial(s)?";IJZL;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;796;rural settlement;ROM;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;797;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;798;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;799;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;800;rural settlement;ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;801;rural settlement;ROMV;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;802;rural settlement;ROMM;ROMM;1;2;1;0;1;0;0;5;3;1;1;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;803;rural settlement;ROMM;ROMM;2;0;1;0;0;0;0;3;2;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;804;rural settlement?;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;805;rural settlement;ROMV;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;806;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;807;rural settlement;IJZL;ROMM;3;5;0;0;0;0;0;8;8;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;808;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;809;"rural settlement; burial(s)";ROMV;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;810;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;811;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;814;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;816;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;817;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;818;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;819;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;820;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;821;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;822;bridge;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;823;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;824;rural settlement;ROMV;ROMM;0;3;1;0;0;0;0;4;3;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;825;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;826;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;827;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;828;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;829;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;830;"rural settlement; watchtower";ROMV;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;831;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;832;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;833;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;835;"rural settlement; watchtower?";ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;837;rural settlement;IJZL;ROMVB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;839;castellum?;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;840;castellum?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;841;"civil settlement; road; cult site";ROMMA;ROMMB;10;4;7;0;0;1;0;22;14;7;1;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;842;"civil settlement; military camp(s)";ROMVA;ROMVB;3;2;8;3;1;2;0;19;5;11;3;1;1;1;1;1;1;0;0;0;0;1;4
+FALSE;844;cult site?;IJZL;ROMVB;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;845;castellum;ROMVB;ROMM;3;9;2;0;0;0;0;14;12;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;847;rural settlement;IJZL;ROMV;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;848;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;849;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;853;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;855;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;856;rural settlement;IJZL;ROM;0;1;0;0;0;0;1;2;1;0;1;0;1;0;0;0;0;1;0;0;0;1;4
+FALSE;857;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;859;rural settlement;ROM;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;860;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;862;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;863;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;864;"rural settlement; road; burial(s)";ROMVA;ROMMA;4;1;0;0;0;0;0;5;5;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;865;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;866;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;867;rural settlement;IJZL;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;868;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;869;rural settlement;IJZL;ROM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;870;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;871;rural settlement;ROM;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;872;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;873;"rural settlement; burial(s)?; road?";ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;875;"military settlement; burial(s); road";ROMMA;ROMMA;3;12;6;0;0;3;0;24;15;6;3;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;879;rural settlement, stone-built;ROMMA;ROMLA;0;3;5;0;1;0;0;9;3;5;1;0;1;1;0;1;0;0;0;0;0;1;4
+FALSE;880;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;881;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;882;rural settlement;ROMMA;ROMMB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;883;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;884;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;886;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;887;burial(s)?;ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;888;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;889;rural settlement;ROMMA;ROMMB;5;4;2;0;2;0;0;13;9;2;2;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;890;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;891;rural settlement;IJZM;ROML;1;2;0;0;0;0;1;4;3;0;1;1;1;0;0;0;0;1;0;0;0;1;4
+FALSE;896;burial(s);ROMVB;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;897;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;898;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;899;burial(s);IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;900;rural settlement;ROMVA;ROMMB;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;901;"rural settlement; burial(s)";ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;902;rural settlement;ROMVB;ROMMA;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;903;burial(s);ROMVB;ROMMB;0;0;0;1;0;0;0;1;0;1;0;0;0;0;1;0;0;0;0;0;1;0;3
+FALSE;904;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1000;rural settlement;IJZL;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;1001;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1002;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1003;rural settlement;ROMV;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1004;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1005;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1006;"rural settlement; cult site?";IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1007;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1008;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1009;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1011;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1012;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1013;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1014;rural settlement?;ROMV;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1015;rural settlement;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1016;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1017;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1018;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1019;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1020;rural settlement, stone-built?;ROMV;ROMM;0;3;0;0;1;1;0;5;3;0;2;0;1;0;0;1;1;0;0;0;0;1;4
+FALSE;1021;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1022;rural settlement;IJZL;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;1023;rural settlement;IJZL;ROMMB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1024;burial(s);ROMMA;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1025;"rural settlement; burial(s)?";ROMM;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;1026;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1027;rural settlement;IJZL;ROMM;1;0;1;1;0;0;0;3;1;2;0;1;0;1;1;0;0;0;0;0;1;0;3
+FALSE;1028;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1029;rural settlement;ROMM;ROML;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1031;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1032;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1033;rural settlement;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1034;"rural settlement; burial(s)";IJZL;ROMM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;1035;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1036;rural settlement;ROMV;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1038;rural settlement?;ROMM;ROML;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1039;rural settlement;IJZL;ROM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1040;"rural settlement; road?";ROMMA;ROMMB;0;3;1;0;0;0;0;4;3;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1041;rural settlement, stone-built?;ROMVB;ROMMB;0;2;2;0;0;0;0;4;2;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1042;rural settlement;ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;1043;"rural settlement; burial(s)";IJZL;ROMM;0;1;0;0;0;2;0;3;1;0;2;0;1;0;0;0;1;0;0;0;0;1;4
+FALSE;1044;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1045;burial(s);ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1046;rural settlement;IJZL;ROMM;0;5;0;0;0;0;0;5;5;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1047;burial(s);ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1048;burial(s);ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1049;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1050;burial(s);ROMVA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1051;rural settlement;ROMVA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1052;rural settlement;IJZL;ROMM;1;3;1;0;0;0;0;5;4;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1053;"rural settlement; burial(s)";IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1054;rural settlement?;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1056;"rural settlement, stone-built; burial(s)";ROMMA;ROMLB;4;2;1;0;1;2;0;10;6;1;3;1;1;1;0;1;1;0;0;0;0;1;4
+FALSE;1058;"burial(s); rural settlement";IJZL;ROMM;0;0;3;0;0;0;0;3;0;3;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;1059;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1060;rural settlement;IJZL;ROMM;3;9;3;0;0;0;0;15;12;3;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1062;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1063;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1064;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1065;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1066;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1067;watchtower;ROML;ROML;1;1;1;0;0;0;0;3;2;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1068;burial(s);ROMMB;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1069;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1070;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1071;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1072;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1073;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1074;"military settlement; pottery kiln(s); burial(s)";ROMM;ROMM;9;14;1;0;2;1;0;27;23;1;3;1;1;1;0;1;1;0;0;0;0;1;4
+FALSE;1075;rural settlement, stone-built;IJZL;ROML;1;6;2;0;1;0;0;10;7;2;1;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;1076;rural settlement, stone-built;ROMMA;ROMMB;0;5;2;0;2;2;0;11;5;2;4;0;1;1;0;1;1;0;0;0;0;1;4
+FALSE;1077;castellum?;ROMVA;ROMMA;2;8;1;0;0;0;0;11;10;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1079;"rural settlement; cult site?";ROMVA;ROMMA;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1080;"burial(s); rural settlement?";ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1081;military settlement?;ROMMA;ROMMB;2;1;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1083;rural settlement?;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1084;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1086;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1087;rural settlement;IJZM;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1088;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1092;road?;ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1093;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1094;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1095;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1096;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1097;burial(s);ROMVB;ROMMA;2;0;0;0;0;0;0;2;2;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;1098;"rural settlement; road?";IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1099;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1100;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1101;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1102;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1103;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1104;rural settlement, stone-built;IJZL;ROMM;1;2;3;1;2;1;0;10;3;4;3;1;1;1;1;1;1;0;0;0;0;1;4
+FALSE;1105;burial(s);ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1106;rural settlement?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1108;"rural settlement; burial(s)";IJZL;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1109;burial(s);ROMMA;ROMMB;0;2;0;0;1;0;0;3;2;0;1;0;1;0;0;1;0;0;0;0;0;1;4
+FALSE;1110;burial(s);ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1111;rural settlement;IJZL;ROML;1;10;1;0;0;0;0;12;11;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1115;road?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1116;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1117;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1118;burial(s);ROMMA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1119;"civil settlement?; burial(s)";ROMVB;ROMMB;5;8;4;0;0;0;2;19;13;4;2;1;1;1;0;0;0;1;0;0;0;1;4
+FALSE;1120;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1121;rural settlement;ROMM;ROMM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1122;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1123;rural settlement, stone-built?;IJZL;ROML;1;4;2;0;1;0;1;9;5;2;2;1;1;1;0;1;0;1;0;0;0;1;4
+FALSE;1124;"rural settlement, stone-built; burial(s)";ROMVA;VMEA;6;8;6;0;4;1;1;26;14;6;6;1;1;1;0;1;1;1;0;0;0;1;4
+FALSE;1125;rural settlement;ROMV;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1126;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1127;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1128;rural settlement;ROMM;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1130;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1131;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1132;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1133;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1135;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1136;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1138;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1139;rural settlement;IJZL;ROM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1140;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1141;burial(s);ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1142;burial(s);ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1143;rural settlement;IJZL;ROML;0;1;4;0;0;0;0;5;1;4;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1144;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1145;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1146;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1147;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1148;"rural settlement; burial(s)";ROMLB;VMEA;2;2;3;0;2;0;1;10;4;3;3;1;1;1;0;1;0;1;0;0;0;1;4
+FALSE;1149;burial(s);ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1151;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1152;rural settlement;IJZL;ROMM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;1153;burial(s);IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1154;"burial(s); rural settlement";ROMMA;ROMMB;0;3;2;0;0;0;0;5;3;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1155;burial(s);ROMLA;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1156;rural settlement?;IJZL;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1158;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1159;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1160;rural settlement;ROMMA;ROMMB;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;1162;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1163;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1164;rural settlement;ROM;ROM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1166;rural settlement;ROMMA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1168;rural settlement;IJZL;ROM;0;1;0;0;1;0;0;2;1;0;1;0;1;0;0;1;0;0;0;0;0;1;4
+FALSE;1169;rural settlement;ROMVA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1170;rural settlement;ROMVA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1171;cult site?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1172;rural settlement;ROMVA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;1173;rural settlement, stone-built?;ROM;ROM;0;0;2;1;0;0;0;3;0;3;0;0;0;1;1;0;0;0;0;0;1;0;3
+FALSE;1176;burial(s);ROM;ROM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1177;civil settlement;ROMVB;ROMMB;2;3;4;0;0;0;0;9;5;4;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;1178;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1179;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;1180;watchtower?;ROMM;ROMM;1;3;1;0;0;0;0;5;4;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2001;burial(s)?;ROM;ROM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2003;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2004;rural settlement?;IJZL;ROM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2005;burial(s)?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2006;rural settlement?;IJZL;ROM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2007;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2008;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2009;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2010;burial(s);ROMMB;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2011;watchtower;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2012;rural settlement;IJZ;ROM;0;1;0;1;0;0;0;2;1;1;0;0;1;0;1;0;0;0;0;0;1;0;3
+FALSE;2013;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2014;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2015;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2016;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2017;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2018;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2019;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2020;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2021;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2022;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2023;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2024;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2025;"rural settlement; road";IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2026;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2027;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2028;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2029;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2030;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2031;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2033;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2034;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2035;rural settlement;IJZ;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2036;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2037;rural settlement;IJZM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2038;rural settlement;IJZM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2039;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2040;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2041;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2042;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2043;"burial(s); rural settlement?";IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2044;"rural settlement; burial(s)";ROMM;VMEB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2045;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2046;"burial(s); rural settlement?";IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2047;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2048;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2049;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2050;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2051;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2052;rural settlement;ROM;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2053;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2054;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2055;"rural settlement?; ford?";ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2056;burial(s);ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2057;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2058;rural settlement;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2061;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2062;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2063;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2064;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2065;rural settlement;ROMV;ROML;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2066;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2067;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2068;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2069;road;ROM;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2070;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2071;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2072;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2073;"rural settlement?; burial(s)";ROMMB;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2074;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2075;road;ROM;ROM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2076;road;ROM;ROM;1;1;2;0;0;0;0;4;2;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2077;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2078;"rural settlement; burial(s)?";ROM;VMEB;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2079;deposit;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2080;"rural settlement?; burial(s)";ROMLB;VMEB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2082;burial(s)?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2083;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2084;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2086;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2087;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2088;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2089;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2091;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2092;rural settlement;IJZ;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2093;burial(s)?;ROM;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2095;rural settlement;IJZL;ROMV;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2096;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2097;rural settlement;IJZL;ROM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2098;rural settlement;IJZL;ROMM;0;2;1;0;0;0;0;3;2;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2099;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2100;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2102;rural settlement?;ROM;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2103;rural settlement;ROM;LME;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2104;burial(s);ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2105;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2106;"rural settlement; cult site?; burial(s)";ROMMB;ROMMB;3;4;0;0;2;0;0;9;7;0;2;1;1;0;0;1;0;0;0;0;0;1;4
+FALSE;2107;rural settlement;IJZM;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2108;rural settlement?;IJZM;ROM;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2109;deposit?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2110;military settlement?;ROMM;ROML;0;2;4;0;0;0;0;6;2;4;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;2111;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2112;rural settlement;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2113;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2114;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2115;rural settlement?;IJZL;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2116;rural settlement;IJZL;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2117;rural settlement;IJZM;ROMV;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2118;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2119;deposit;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2120;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2121;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2122;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2123;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2124;rural settlement;IJZL;ROMM;2;0;1;0;0;0;0;3;2;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2125;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2126;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2127;burial(s);ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2128;burial(s);ROMVA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2129;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2130;road;ROMMA;ROMMB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;2131;burial(s);IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2132;rural settlement;IJZL;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2133;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2134;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2135;rural settlement;IJZL;ROMVB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2136;"civil settlement; castellum; burial(s); road";ROMLA;ROMLB;0;1;1;0;1;0;0;3;1;1;1;0;1;1;0;1;0;0;0;0;0;1;4
+FALSE;2137;burial(s);IJZL;ROMVB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;2138;burial(s);ROMVA;ROMMB;2;0;1;0;0;0;0;3;2;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2139;burial(s);ROMVB;ROMMA;2;1;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2140;civil settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2141;civil settlement;ROMMA;ROMMB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;2142;"rural settlement; road?";ROM;ROM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2143;burial(s);ROM;VME;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2144;"rural settlement; burial(s)?";ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;2145;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2146;rural settlement;IJZL;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;2147;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2148;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2149;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2150;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2151;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2152;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2153;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2154;aquaduct?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2155;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2156;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2157;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2159;cult site;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2160;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2161;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2162;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2163;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2164;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2165;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2166;rural settlement;ROMMA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2167;"rural settlement; burial(s); cult site";ROMVA;ROMMB;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2168;rural settlement;ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2169;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2170;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2171;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2172;"civil settlement?; burial(s)";IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2173;rural settlement;IJZL;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;2174;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2175;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2176;rural settlement;ROMM;ROMM;0;1;0;0;0;1;0;2;1;0;1;0;1;0;0;0;1;0;0;0;0;1;4
+FALSE;2177;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2178;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2179;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2180;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2181;rural settlement?;ROMV;ROMM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;2182;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2183;rural settlement?;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2184;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2185;rural settlement?;ROMM;ROML;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2186;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2187;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2189;cult place?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;2190;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3002;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3003;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3007;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3009;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3011;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3016;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3017;rural settlement;IJZL;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;3018;rural settlement;IJZL;ROM;2;1;1;0;0;0;0;4;3;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3019;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3021;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3025;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3029;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3030;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3031;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3032;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3033;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3034;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3035;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3037;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3039;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3043;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3044;rural settlement;ROM;VME;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3045;rural settlement;IJZ;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;3046;rural settlement;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3051;"rural settlement; burial(s); road";ROMVB;ROMMB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3052;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3054;"civil settlement; road; harbour?";ROMVB;ROMMB;0;3;2;0;0;1;0;6;3;2;1;0;1;1;0;0;1;0;0;0;0;1;4
+FALSE;3056;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3057;"rural settlement?; burial(s)";ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3059;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3061;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3062;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3063;rural settlement;ROMM;ROMM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;3064;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3065;"rural settlement; road";ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3068;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3069;"rural settlement; road?";ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;3070;"rural settlement; road";ROM;ROM;1;0;1;1;0;0;0;3;1;2;0;1;0;1;1;0;0;0;0;0;1;0;3
+FALSE;3071;"rural settlement; jetty?; road";ROMV;ROMM;0;5;1;0;0;0;0;6;5;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3072;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3073;road;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3074;"rural settlement; road";ROMVB;ROMLA;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;3076;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3080;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3081;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3082;"civil settlement; mini-castellum; burial(s)";ROMMB;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3083;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3084;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3085;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3086;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3087;rural settlement;IJZL;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3089;rural settlement;ROMMA;ROMMB;2;2;1;0;0;0;0;5;4;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3090;burial(s)?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3091;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3092;rural settlement, stone-built;ROMV;ROMM;3;0;7;1;0;0;0;11;3;8;0;1;0;1;1;0;0;0;0;0;1;0;3
+FALSE;3093;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3094;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3095;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3096;rural settlement;ROMVB;ROMMB;3;2;3;0;1;0;1;10;5;3;2;1;1;1;0;1;0;1;0;0;0;1;4
+FALSE;3097;rural settlement;ROMM;ROMM;1;3;2;0;0;1;0;7;4;2;1;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;3098;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3099;rural settlement;ROMVB;ROMMB;4;4;10;0;4;2;0;24;8;10;6;1;1;1;0;1;1;0;0;0;0;1;4
+FALSE;3100;rural settlement;ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3101;"rural settlement; burial(s)";ROMM;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;3102;"rural settlement; burial(s)?";ROMMB;ROMLA;0;1;0;0;1;0;0;2;1;0;1;0;1;0;0;1;0;0;0;0;0;1;4
+FALSE;3103;"rural settlement; burial(s)?";ROMM;ROMM;1;3;0;0;0;0;0;4;4;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3104;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3105;"rural settlement; burial(s); cult place?";ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3107;rural settlement;IJZL;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3108;rural settlement?;IJZV;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3110;rural settlement;ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3111;rural settlement;ROMVB;ROMMB;2;1;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3112;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3113;"rural settlement; road";IJZL;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;3117;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3119;rural settlement;IJZ;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3120;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3121;rural settlement;IJZV;VME;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;3125;"rural settlement; road";ROMMB;ROMMB;1;1;1;0;0;0;0;3;2;1;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3126;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3128;rural settlement;ROMV;ROMM;2;4;2;0;0;0;0;8;6;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3129;rural settlement;ROMV;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3132;"castellum?; civil settlement?";ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3137;"rural settlement; military settlement";ROMMB;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3141;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3143;rural settlement;IJZ;ROM;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;3145;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3146;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3147;"rural settlement?; burial(s)?";IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3148;civil settlement?;ROMM;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3152;road;ROMV;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3153;civil settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3154;"rural settlement; road";IJZL;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3155;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3156;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3157;rural settlement;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3158;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3159;"rural settlement; road";ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3160;rural settlement;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3161;rural settlement;IJZM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3162;civil settlement;ROMM;ROMM;0;3;2;0;0;0;0;5;3;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3163;rural settlement;ROMM;ROMM;1;3;0;0;0;0;0;4;4;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3164;"mini-castellum; watchtower; horrea; civil settlement; burial(s); road";ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;3165;"harbour; road; civil settlement; burial(s)";ROMVB;ROMMB;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3166;"civil settlement; burial(s); road";ROMMA;ROMMB;3;6;1;2;0;0;0;12;9;3;0;1;1;1;1;0;0;0;0;0;1;0;3
+FALSE;3167;"civil settlement; burial(s)";ROMMA;ROMMB;3;3;3;2;0;0;1;12;6;5;1;1;1;1;1;0;0;1;0;0;0;1;4
+FALSE;3168;"civil settlement; harbour; burial(s); road; shipwreck(s)";ROMVB;ROMMB;3;11;3;0;2;0;0;19;14;3;2;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;3169;"civil settlement; bridge";ROMVB;ROMM;4;1;1;1;0;0;1;8;5;2;1;1;1;1;1;0;0;1;0;0;0;1;4
+FALSE;3170;"civil settlement; harbour; road";ROMVB;ROMM;0;2;2;0;0;1;0;5;2;2;1;0;1;1;0;0;1;0;0;0;0;1;4
+FALSE;3171;"civil settlement; road; burial(s); harbour; shipwreck(s)";ROMVB;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3172;rural settlement;IJZL;ROM;0;2;3;0;0;0;0;5;2;3;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;3173;"rural settlement; burial(s)?; cult place";ROMVB;ROMMB;2;3;1;0;1;0;0;7;5;1;1;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;3174;"rural settlement; road";ROMVB;ROMMB;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;3175;"town; harbour; canal";ROMVB;ROMMB;26;25;53;10;6;7;3;130;51;63;16;1;1;1;1;1;1;1;0;0;0;1;4
+FALSE;3176;civil settlement;ROMVB;ROMMB;2;6;1;1;0;0;0;10;8;2;0;1;1;1;1;0;0;0;0;0;1;0;3
+FALSE;4001;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4002;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4003;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4004;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4005;"road; civil / rural settlement?";ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4006;civil settlement?;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4009;"road?; military settlement?";ROM;ROM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4010;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4011;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4012;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4013;road;ROMMA;ROMMB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4016;"2 watchtowers; road";ROMVB;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4017;"rural settlement?; cult site?";IJZL;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;4018;"burial(s); road";ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4019;"rural settlement; military settlement; road";ROMV;ROMM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;4020;canal;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4021;castellum;ROMVB;ROMLB;1;2;7;0;0;1;0;11;3;7;1;1;1;1;0;0;1;0;0;0;0;1;4
+FALSE;4022;castellum;ROMVB;ROMMB;2;7;3;0;0;0;0;12;9;3;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4023;castellum;ROMVB;ROMVB;1;3;1;1;0;0;0;6;4;2;0;1;1;1;1;0;0;0;0;0;1;0;3
+FALSE;4025;road;ROMMB;VMEB;1;3;2;0;0;0;0;6;4;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4027;road;ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;4028;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4029;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4030;road;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4031;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4033;road;ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4034;road;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4035;road;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4036;road;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4037;road;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4038;road;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4039;road;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4040;road;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4041;road;ROM;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;4043;road;ROM;ROM;0;1;0;1;0;0;0;2;1;1;0;0;1;0;1;0;0;0;0;0;1;0;3
+FALSE;4044;road;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4045;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4046;road?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4047;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4048;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4049;road?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4050;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4051;road?;ROMMB;ROMMB;0;0;2;0;0;0;0;2;0;2;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;4052;road;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4053;road;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4054;road;ROMMA;ROMMB;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4055;road?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4056;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4057;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4058;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4059;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4060;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4061;road;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4062;road;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4063;road;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4064;castellum;ROMMA;ROMMB;0;3;0;1;0;1;0;5;3;1;1;0;1;0;1;0;1;0;0;0;0;1;4
+FALSE;4065;"canal; harbour";ROMVB;ROMMA;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4066;castellum;ROMVB;ROMMB;0;2;1;0;0;1;1;5;2;1;2;0;1;1;0;0;1;1;0;0;0;1;4
+FALSE;4070;road;ROM;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;4071;"rural settlement; burial(s); road";ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4072;rural settlement;ROMVB;ROMMB;0;3;1;0;0;0;0;4;3;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4073;rural settlement;ROMV;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4074;"rural settlement; burial(s)";ROMMA;ROMMB;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;4075;rural settlement;ROMMA;ROMMB;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4076;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4077;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4078;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4079;rural settlement;ROMMA;ROMMB;2;1;2;0;0;0;0;5;3;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4080;rural settlement;ROMM;ROMM;0;2;0;0;0;0;0;2;2;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4081;rural settlement;ROMM;ROMM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4082;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4083;"rural settlement, stone-built; burial(s)?";ROMVB;ROMMB;1;5;2;0;0;0;0;8;6;2;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4084;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4085;rural settlement;IJZL;ROMM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;4086;"rural settlement; road";ROMVA;ROMMA;0;1;2;0;0;0;0;3;1;2;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4087;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4088;burial(s);ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4089;"rural settlement; road?; canal?";ROM;ROM;2;0;0;0;0;0;0;2;2;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;4090;rural settlement;ROM;ROM;0;0;1;0;0;0;0;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;3
+FALSE;4091;cult site?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4092;"rural settlement, stone-built?; burial(s)";ROMMA;ROMMB;6;5;7;0;2;2;1;23;11;7;5;1;1;1;0;1;1;1;0;0;0;1;4
+FALSE;4093;rural settlement;ROMVB;ROMMB;2;2;6;0;1;0;0;11;4;6;1;1;1;1;0;1;0;0;0;0;0;1;4
+FALSE;4094;"rural settlement; road?";ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4095;rural settlement;ROMM;ROMM;0;1;0;0;1;0;0;2;1;0;1;0;1;0;0;1;0;0;0;0;0;1;4
+FALSE;4096;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4097;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4098;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4099;rural settlement?;ROM;ROM;6;4;4;0;0;0;0;14;10;4;0;1;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4100;"rural settlement?; road?";ROM;ROM;1;0;1;0;0;0;0;2;1;1;0;1;0;1;0;0;0;0;0;0;1;0;3
+FALSE;4101;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4102;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4103;rural settlement;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4104;rural settlement?;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4105;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4106;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4107;rural settlement?;IJZL;ROMV;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4108;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4109;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4110;"rural settlement; burial(s)";ROMMB;ROMMB;2;1;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4111;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4112;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4113;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4114;rural settlement;ROMVB;ROMMA;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4115;rural settlement;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4116;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4117;rural settlement;ROM;ROM;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4118;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4119;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4120;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4121;rural settlement;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4122;"rural settlement; waterworks";IJZL;ROMM;1;2;0;0;0;0;0;3;3;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4123;"rural settlement; waterworks";ROMMA;ROMMB;0;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4124;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4125;waterworks;ROMMB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4126;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4127;rural settlement;ROMV;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4128;rural settlement;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4129;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4130;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4131;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4132;rural settlement;ROMVA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4133;rural settlement?;IJZL;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4134;rural settlement?;IJZL;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4135;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4136;rural settlement;ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4137;rural settlement;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4138;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4139;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4140;"rural settlement; road?";ROMMA;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4141;rural settlement?;ROM;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4142;rural settlement?;IJZ;ROM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4143;rural settlement;ROMVB;ROMMB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4144;rural settlement;ROMMA;ROMMB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4145;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4146;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4147;rural settlement;ROMM;ROMM;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4148;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4149;"rural settlement; road?";ROMM;ROMM;0;3;0;0;0;0;0;3;3;0;0;0;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4150;rural settlement?;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4151;"rural settlement; cult site?";IJZM;ROMM;2;1;0;1;0;0;0;4;3;1;0;1;1;0;1;0;0;0;0;0;1;0;3
+FALSE;4152;"rural settlement; burial(s)";ROMM;ROMM;2;3;0;1;0;0;0;6;5;1;0;1;1;0;1;0;0;0;0;0;1;0;3
+FALSE;4153;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4154;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4155;rural settlement;ROMMA;ROMMB;2;2;0;0;0;0;0;4;4;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4156;rural settlement;ROM;ROM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4157;rural settlement;ROMM;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4158;"rural settlement; waterworks";ROMMB;ROMMB;1;1;0;0;0;0;0;2;2;0;0;1;1;0;0;0;0;0;0;1;0;0;2
+FALSE;4159;rural settlement;ROMV;ROMM;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;4160;rural settlement;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4161;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4162;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4163;rural settlement?;ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4164;"rural settlement; waterworks";ROMV;ROMM;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4165;burial(s);ROMVB;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;4166;rural settlement?;ROM;ROM;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;1;0;0;2
+FALSE;4167;road;ROMMA;ROMMA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;5001;castellum;ROMVB;ROMMB;0;1;1;0;0;0;0;2;1;1;0;0;1;1;0;0;0;0;0;0;1;0;3
+FALSE;5002;"military settlement; glass kiln";ROMLB;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;5003;"mini-castellum; civil settlement";ROMMA;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;5004;"castellum; civil settlement";ROMMA;ROMLB;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+FALSE;5005;"castellum; civil settlement; burial(s)";ROMVB;ROMLA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;

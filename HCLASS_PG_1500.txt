@@ -1,0 +1,1086 @@
+fid;LimesLimit_ID;HCLASS;element;Totals_1500m_Nb_num;Totals_1500m_Nb_mean;Totals_1500m_Nb_sd;Palaeogeography_ID;Palaeogeography_Area;Palaeogeography_simplified
+"1";1;3;high floodplain;"3";5.33333333333333;"0.577350269189628";"11";257.74600000000;floodplain
+"2";2;7;fluvial terraces;"2";5;"0";"32";351.08200000000;fluvial terraces
+"3";3;5;fluvial terraces;"1";3;#DIV/0!;"32";351.08200000000;fluvial terraces
+"4";4;5;coversands;"2";4.5;"2.1213203435596424";"28";1532.04000000000;Pleistocene sands
+"5";6;6;coversands;"3";4.66666666666667;"1.5275252316519474";"28";1532.04000000000;Pleistocene sands
+"6";7;6;fluvial terraces;"1";6;#DIV/0!;"32";351.08200000000;fluvial terraces
+"7";10;5;fluvial terraces;"3";5.33333333333333;"1.5275252316519474";"32";351.08200000000;fluvial terraces
+"8";18;5;fluvial terraces;"2";6.5;"0.70710678118654757";"32";351.08200000000;fluvial terraces
+"9";20;5;fluvial terraces;"1";4;#DIV/0!;"32";351.08200000000;fluvial terraces
+"10";21;7;fluvial terraces;"4";3.75;"3.2015621187164243";"32";351.08200000000;fluvial terraces
+"11";24;4;fluvial terraces;"2";5;"0";"32";351.08200000000;fluvial terraces
+"12";25;5;fluvial terraces;"3";5.33333333333333;"1.5275252316519474";"32";351.08200000000;fluvial terraces
+"13";31;5;high floodplain;;;;"11";257.74600000000;floodplain
+"14";33;6;coversands;"1";3;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"15";34;3;coversands;"1";6;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"16";35;4;moderately high natural levee;"2";3;"2.8284271247461903";"4";612.23400000000;high natural levee
+"17";36;1;moderately high natural levee;"2";4.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"18";37;5;river dunes;"4";2.5;"1.2909944487358056";"31";10.53170000000;high natural levee
+"19";38;3;river dunes;"4";3.75;"1.5";"31";10.53170000000;high natural levee
+"20";39;2;river dunes;"5";4.2;"1.0954451150103319";"31";10.53170000000;high natural levee
+"21";40;5;river dunes;"7";2.85714285714286;"1.3451854182690983";"31";10.53170000000;high natural levee
+"22";41;1;low natural levee;"4";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"23";42;2;moderately high natural levee;"2";1.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"24";43;4;coversands;"1";4;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"25";44;4;coversands;"1";4;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"26";45;4;coversands;"1";3;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"27";47;3;coversands;"2";3.5;"2.1213203435596424";"28";1532.04000000000;Pleistocene sands
+"28";48;5;coversands;"2";2.5;"0.70710678118654757";"28";1532.04000000000;Pleistocene sands
+"29";49;4;coversands;"1";4;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"30";50;4;coversands;"1";4;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"31";52;3;fluvial terraces;"4";2.5;"2.3804761428476167";"32";351.08200000000;fluvial terraces
+"32";53;1;fluvial terraces;"2";4.5;"2.1213203435596424";"32";351.08200000000;fluvial terraces
+"33";54;6;fluvial terraces;"5";2.4;"1.6733200530681511";"32";351.08200000000;fluvial terraces
+"34";55;1;coversands;"5";4;"1.5811388300841898";"28";1532.04000000000;Pleistocene sands
+"35";57;4;coversands;"5";3;"1.5811388300841898";"28";1532.04000000000;Pleistocene sands
+"36";58;3;fluvial terraces;"4";4;"0.81649658092772603";"32";351.08200000000;fluvial terraces
+"37";59;4;fluvial terraces;"4";3.5;"0.57735026918962573";"32";351.08200000000;fluvial terraces
+"38";60;2;fluvial terraces;"5";3.8;"1.9235384061671343";"32";351.08200000000;fluvial terraces
+"39";61;5;fluvial terraces;"5";3.2;"1.9235384061671343";"32";351.08200000000;fluvial terraces
+"40";63;3;moderately high natural levee;"5";3.4;"1.5165750888103104";"4";612.23400000000;high natural levee
+"41";65;2;river dunes;"7";3.71428571428571;"1.4960264830861913";"31";10.53170000000;high natural levee
+"42";66;1;river dunes;"4";3.25;"1.2583057392117916";"31";10.53170000000;high natural levee
+"43";67;5;low natural levee;"8";2.875;"1.2464234547582249";"7";628.67200000000;low natural levee
+"44";68;4;low natural levee;"7";3;"1.5275252316519468";"7";628.67200000000;low natural levee
+"45";69;3;moderately high natural levee;"8";3.375;"1.407885953173359";"4";612.23400000000;high natural levee
+"46";70;4;low natural levee;"5";3.6;"0.8944271909999163";"7";628.67200000000;low natural levee
+"47";72;5;moderately high natural levee;"8";2.875;"1.1259916264596033";"4";612.23400000000;high natural levee
+"48";73;3;low natural levee;"9";3.44444444444444;"1.9436506316151003";"7";628.67200000000;low natural levee
+"49";74;4;low natural levee;"7";3.42857142857143;"2.0701966780270622";"7";628.67200000000;low natural levee
+"50";75;7;moderately high natural levee;"7";2.42857142857143;"0.97590007294853331";"4";612.23400000000;high natural levee
+"51";76;2;low natural levee;"6";3.16666666666667;"2.1369760566432809";"7";628.67200000000;low natural levee
+"52";77;3;low natural levee;"8";2.625;"1.8468119248354136";"7";628.67200000000;low natural levee
+"53";79;6;low natural levee;"2";4.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"54";80;4;low natural levee;"2";5.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"55";82;5;river dunes;"5";4.4;"1.1401754250991383";"31";10.53170000000;high natural levee
+"56";83;4;low natural levee;"5";3.2;"1.7888543819998315";"7";628.67200000000;low natural levee
+"57";84;3;low natural levee;"4";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"58";86;5;low natural levee;"4";3.25;"1.707825127659933";"7";628.67200000000;low natural levee
+"59";88;2;low natural levee;"2";2.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"60";90;3;fluvial terraces;"5";3.6;"1.1401754250991383";"32";351.08200000000;fluvial terraces
+"61";91;2;fluvial terraces;"3";2.66666666666667;"1.5275252316519468";"32";351.08200000000;fluvial terraces
+"62";92;3;fluvial terraces;;;;"32";351.08200000000;fluvial terraces
+"63";93;3;high floodplain;"3";4.33333333333333;"1.154700538379251";"11";257.74600000000;floodplain
+"64";95;5;low floodplain;"3";3.66666666666667;"1.154700538379251";"12";958.21900000000;floodplain
+"65";96;5;low floodplain;"4";3.5;"1";"12";958.21900000000;floodplain
+"66";97;3;coversands;"3";4.33333333333333;"1.154700538379251";"28";1532.04000000000;Pleistocene sands
+"67";99;5;low floodplain;"1";3;#DIV/0!;"12";958.21900000000;floodplain
+"68";100;3;low floodplain;"2";5;"0";"12";958.21900000000;floodplain
+"69";101;4;high floodplain;;;;"11";257.74600000000;floodplain
+"70";102;4;moderately high natural levee;"2";3;"2.8284271247461903";"4";612.23400000000;high natural levee
+"71";103;1;moderately high natural levee;"1";4;#DIV/0!;"4";612.23400000000;high natural levee
+"72";104;5;moderately high natural levee;"4";3;"1.8257418583505538";"4";612.23400000000;high natural levee
+"73";105;5;low natural levee;"1";5;#DIV/0!;"7";628.67200000000;low natural levee
+"74";106;2;moderately high natural levee;"2";3;"2.8284271247461903";"4";612.23400000000;high natural levee
+"75";109;3;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"76";110;7;high floodplain;"11";4.63636363636364;"1.8586407545691699";"11";257.74600000000;floodplain
+"77";111;7;moderately high natural levee (uncertain);"8";4.875;"2.1001700611413079";"5";174.49300000000;high natural levee
+"78";112;6;moderately high natural levee (uncertain);"7";5;"2.3804761428476167";"5";174.49300000000;high natural levee
+"79";113;6;moderately high natural levee (uncertain);"8";4.75;"2.0528725518857018";"5";174.49300000000;high natural levee
+"80";114;6;moderately high natural levee;"3";3.33333333333333;"2.0816659994661326";"4";612.23400000000;high natural levee
+"81";115;4;low natural levee;"3";4;"2.6457513110645907";"7";628.67200000000;low natural levee
+"82";116;1;moderately high natural levee;"2";5;"1.4142135623730951";"4";612.23400000000;high natural levee
+"83";117;3;low natural levee;"3";2;"1";"7";628.67200000000;low natural levee
+"84";118;4;high natural levee;"10";4;"1.699673171197595";"1";30.20850000000;high natural levee
+"85";120;4;low natural levee;"1";4;#DIV/0!;"7";628.67200000000;low natural levee
+"86";121;1;low natural levee;"5";1.6;"0.89442719099991574";"7";628.67200000000;low natural levee
+"87";122;4;moderately high natural levee;"5";3;"2";"4";612.23400000000;high natural levee
+"88";124;5;high floodplain;"4";3.25;"2.8722813232690143";"11";257.74600000000;floodplain
+"89";125;1;low natural levee;"4";3.5;"3";"7";628.67200000000;low natural levee
+"90";126;2;low natural levee (uncertain);"7";1.85714285714286;"1.0690449676496976";"8";69.83340000000;low natural levee
+"91";127;1;moderately high natural levee;"6";2.16666666666667;"1.602081978759722";"4";612.23400000000;high natural levee
+"92";128;1;moderately high natural levee;"8";2.375;"1.407885953173359";"4";612.23400000000;high natural levee
+"93";129;3;high floodplain;"6";2.5;"1.51657508881031";"11";257.74600000000;floodplain
+"94";131;4;moderately high natural levee;"10";4.5;"1.0801234497346435";"4";612.23400000000;high natural levee
+"95";132;7;moderately high natural levee;"11";4.27272727272727;"0.64666979068286368";"4";612.23400000000;high natural levee
+"96";133;4;moderately high natural levee;"5";4.2;"1.3038404810405295";"4";612.23400000000;high natural levee
+"97";134;5;moderately high natural levee;"5";5.2;"1.0954451150103335";"4";612.23400000000;high natural levee
+"98";136;3;low natural levee;"4";3;"1.6329931618554521";"7";628.67200000000;low natural levee
+"99";138;6;moderately high natural levee;"6";3;"1.8973665961010275";"4";612.23400000000;high natural levee
+"100";140;3;moderately high natural levee;"7";3.85714285714286;"1.9518001458970666";"4";612.23400000000;high natural levee
+"101";142;5;moderately high natural levee;"8";3.875;"1.5526475085202969";"4";612.23400000000;high natural levee
+"102";147;1;moderately high natural levee;"6";4;"0.89442719099991586";"4";612.23400000000;high natural levee
+"103";148;4;low floodplain;"8";3.5;"1.5118578920369088";"12";958.21900000000;floodplain
+"104";150;5;low floodplain (uncertain);"7";3.42857142857143;"2.0701966780270622";"13";330.41500000000;floodplain
+"105";152;3;moderately high natural levee;"9";3.33333333333333;"1.7320508075688772";"4";612.23400000000;high natural levee
+"106";155;4;moderately high natural levee;"6";3.16666666666667;"1.4719601443879746";"4";612.23400000000;high natural levee
+"107";158;3;moderately high natural levee;"8";3.625;"1.8468119248354136";"4";612.23400000000;high natural levee
+"108";161;3;moderately high natural levee;"12";3.08333333333333;"1.5642792899510296";"4";612.23400000000;high natural levee
+"109";163;5;moderately high natural levee;"7";3.57142857142857;"1.1338934190276813";"4";612.23400000000;high natural levee
+"110";169;3;moderately high natural levee;"10";4;"1.699673171197595";"4";612.23400000000;high natural levee
+"111";174;2;high natural levee;"10";3.8;"1.4757295747452435";"1";30.20850000000;high natural levee
+"112";175;5;moderately high natural levee;"9";3.55555555555556;"1.5898986690282431";"4";612.23400000000;high natural levee
+"113";179;6;moderately high natural levee;"11";3.27272727272727;"1.4206272622267315";"4";612.23400000000;high natural levee
+"114";181;6;low natural levee;"6";2.83333333333333;"1.3291601358251259";"7";628.67200000000;low natural levee
+"115";182;4;low natural levee;"6";4.16666666666667;"1.1690451944500118";"7";628.67200000000;low natural levee
+"116";187;6;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"117";191;3;moderately high natural levee;"5";4.6;"0.8944271909999163";"4";612.23400000000;high natural levee
+"118";192;6;moderately high natural levee;"5";4;"0.70710678118654757";"4";612.23400000000;high natural levee
+"119";193;5;moderately high natural levee;"7";4.71428571428571;"1.6035674514745457";"4";612.23400000000;high natural levee
+"120";195;5;low natural levee;"10";2.6;"1.5776212754932311";"7";628.67200000000;low natural levee
+"121";197;2;rivers and streams;"8";3.625;"1.5059406173077154";"0";118.33000000000;water
+"122";198;5;low natural levee;"12";2.91666666666667;"1.6213537179739279";"7";628.67200000000;low natural levee
+"123";200;3;moderately high natural levee;"6";2;"1.2649110640673518";"4";612.23400000000;high natural levee
+"124";202;3;moderately high natural levee;"8";2.375;"1.5059406173077154";"4";612.23400000000;high natural levee
+"125";206;4;moderately high natural levee;"9";2.55555555555556;"1.5898986690282426";"4";612.23400000000;high natural levee
+"126";208;1;rivers and streams;"13";2.84615384615385;"1.6251232694862383";"0";118.33000000000;water
+"127";209;3;moderately high natural levee;"8";3.375;"1.8468119248354136";"4";612.23400000000;high natural levee
+"128";210;5;rivers and streams;"6";3.33333333333333;"1.6329931618554518";"0";118.33000000000;water
+"129";211;2;low natural levee;"10";3.1;"1.7288403306519922";"7";628.67200000000;low natural levee
+"130";216;1;rivers and streams;"13";2.84615384615385;"1.6251232694862383";"0";118.33000000000;water
+"131";218;3;moderately high natural levee;"10";3.4;"1.7126976771553508";"4";612.23400000000;high natural levee
+"132";219;2;low natural levee;"14";2.78571428571429;"1.7177163475234933";"7";628.67200000000;low natural levee
+"133";221;2;high floodplain;"4";2.75;"1.2583057392117916";"11";257.74600000000;floodplain
+"134";224;1;low natural levee;"7";3.14285714285714;"1.8644544714716089";"7";628.67200000000;low natural levee
+"135";225;1;low natural levee;"7";3.14285714285714;"1.8644544714716089";"7";628.67200000000;low natural levee
+"136";227;1;moderately high natural levee;"5";3.4;"1.1401754250991383";"4";612.23400000000;high natural levee
+"137";229;4;moderately high natural levee;"8";2.75;"1.9086270308410553";"4";612.23400000000;high natural levee
+"138";231;1;low natural levee;"10";3;"1.6329931618554521";"7";628.67200000000;low natural levee
+"139";235;3;moderately high natural levee (uncertain);"3";2.33333333333333;"0.57735026918962629";"5";174.49300000000;high natural levee
+"140";237;2;low natural levee (uncertain);"1";3;#DIV/0!;"8";69.83340000000;low natural levee
+"141";240;6;moderately high natural levee;"4";3.5;"2.0816659994661326";"4";612.23400000000;high natural levee
+"142";241;4;moderately high natural levee;"5";5.2;"2.3874672772626648";"4";612.23400000000;high natural levee
+"143";242;6;low floodplain;"2";2.5;"2.1213203435596424";"12";958.21900000000;floodplain
+"144";244;6;moderately high natural levee;"4";4.5;"2.6457513110645907";"4";612.23400000000;high natural levee
+"145";245;4;moderately high natural levee;"4";3.25;"1.707825127659933";"4";612.23400000000;high natural levee
+"146";248;3;moderately high natural levee;"9";4.11111111111111;"2.1473497877875207";"4";612.23400000000;high natural levee
+"147";251;5;moderately high natural levee;"12";3.83333333333333;"1.8989630344113086";"4";612.23400000000;high natural levee
+"148";252;3;moderately high natural levee;"1";1;#DIV/0!;"4";612.23400000000;high natural levee
+"149";253;4;high floodplain;"5";3.2;"0.83666002653407512";"11";257.74600000000;floodplain
+"150";254;3;low floodplain;"3";4;"1";"12";958.21900000000;floodplain
+"151";255;5;high floodplain;"6";3;"1.7888543819998317";"11";257.74600000000;floodplain
+"152";257;3;moderately high natural levee;"3";5.33333333333333;"0.57735026918962784";"4";612.23400000000;high natural levee
+"153";258;5;moderately high natural levee;"7";2.71428571428571;"1.4960264830861913";"4";612.23400000000;high natural levee
+"154";261;5;moderately high natural levee;"4";3;"1.6329931618554521";"4";612.23400000000;high natural levee
+"155";271;5;low natural levee;"2";5;"1.4142135623730951";"7";628.67200000000;low natural levee
+"156";273;7;moderately high natural levee;"4";5.25;"1.2583057392117916";"4";612.23400000000;high natural levee
+"157";276;3;high natural levee;"8";3.75;"1.9820624179302297";"1";30.20850000000;high natural levee
+"158";277;3;moderately high natural levee;"10";4;"2.0548046676563256";"4";612.23400000000;high natural levee
+"159";278;2;moderately high natural levee;"12";3.91666666666667;"1.8319554050414559";"4";612.23400000000;high natural levee
+"160";282;6;moderately high natural levee;"12";3.41666666666667;"1.7298624923456321";"4";612.23400000000;high natural levee
+"161";285;5;low natural levee;"12";3.83333333333333;"1.8989630344113086";"7";628.67200000000;low natural levee
+"162";289;1;rivers and streams;"1";3;#DIV/0!;"0";118.33000000000;water
+"163";290;1;moderately high natural levee;"3";2.66666666666667;"2.0816659994661331";"4";612.23400000000;high natural levee
+"164";291;6;moderately high natural levee;"12";3.58333333333333;"1.7816403745544227";"4";612.23400000000;high natural levee
+"165";293;1;low natural levee;;;;"7";628.67200000000;low natural levee
+"166";294;1;low natural levee;"2";1.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"167";297;5;moderately high natural levee;"5";3.2;"1.3038404810405295";"4";612.23400000000;high natural levee
+"168";298;4;low natural levee;"6";3.16666666666667;"1.4719601443879746";"7";628.67200000000;low natural levee
+"169";299;4;moderately high natural levee;"7";3.57142857142857;"1.7182493859684487";"4";612.23400000000;high natural levee
+"170";300;1;high floodplain;"7";2.14285714285714;"1.8644544714716087";"11";257.74600000000;floodplain
+"171";301;3;low natural levee;"5";2.2;"2.16794833886788";"7";628.67200000000;low natural levee
+"172";304;3;moderately high natural levee;"12";3.66666666666667;"1.8748737331221839";"4";612.23400000000;high natural levee
+"173";307;4;low natural levee;"4";2;"1.4142135623730951";"7";628.67200000000;low natural levee
+"174";308;5;low natural levee;"5";3.8;"1.3038404810405295";"7";628.67200000000;low natural levee
+"175";310;6;moderately high natural levee;"13";3.53846153846154;"1.713446070320696";"4";612.23400000000;high natural levee
+"176";311;2;river dunes;"1";5;#DIV/0!;"31";10.53170000000;high natural levee
+"177";312;5;low floodplain;"1";2;#DIV/0!;"12";958.21900000000;floodplain
+"178";315;7;low natural levee;"2";5;"1.4142135623730951";"7";628.67200000000;low natural levee
+"179";316;5;moderately high natural levee;"10";2.3;"1.4181364924121764";"4";612.23400000000;high natural levee
+"180";317;4;low natural levee;"9";4;"1.3228756555322954";"7";628.67200000000;low natural levee
+"181";319;2;moderately high natural levee;"7";3.85714285714286;"1.6761634196950517";"4";612.23400000000;high natural levee
+"182";320;5;low natural levee;"7";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"183";321;5;high floodplain;"8";4;"1.3093073414159542";"11";257.74600000000;floodplain
+"184";323;5;moderately high natural levee;"8";3.125;"1.1259916264596033";"4";612.23400000000;high natural levee
+"185";324;4;moderately high natural levee;"6";3.66666666666667;"1.0327955589886442";"4";612.23400000000;high natural levee
+"186";325;4;moderately high natural levee;"7";3.28571428571429;"1.3801311186847085";"4";612.23400000000;high natural levee
+"187";326;5;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"188";327;4;moderately high natural levee;"7";3.71428571428571;"0.95118973121134198";"4";612.23400000000;high natural levee
+"189";328;4;moderately high natural levee;"7";3.42857142857143;"0.78679579246944253";"4";612.23400000000;high natural levee
+"190";329;3;high floodplain;"8";3.75;"0.88640526042791834";"11";257.74600000000;floodplain
+"191";330;2;low floodplain;"9";3.77777777777778;"0.66666666666666552";"12";958.21900000000;floodplain
+"192";331;6;low floodplain (uncertain);;;;"13";330.41500000000;floodplain
+"193";332;2;low natural levee;;;;"7";628.67200000000;low natural levee
+"194";333;3;low floodplain;"5";2.2;"1.0954451150103324";"12";958.21900000000;floodplain
+"195";334;3;low floodplain (uncertain);"5";2.2;"1.0954451150103324";"13";330.41500000000;floodplain
+"196";335;3;high floodplain;"7";2.28571428571429;"1.4960264830861913";"11";257.74600000000;floodplain
+"197";336;4;low floodplain;;;;"12";958.21900000000;floodplain
+"198";337;3;high floodplain;"9";2;"1";"11";257.74600000000;floodplain
+"199";338;5;moderately high natural levee;"2";1;"0";"4";612.23400000000;high natural levee
+"200";339;5;moderately high natural levee;"5";2.8;"1.0954451150103319";"4";612.23400000000;high natural levee
+"201";340;4;moderately high natural levee;"6";4.33333333333333;"1.9663841605003498";"4";612.23400000000;high natural levee
+"202";341;6;moderately high natural levee (uncertain);"7";3.42857142857143;"1.7182493859684487";"5";174.49300000000;high natural levee
+"203";342;6;low floodplain (uncertain);"5";3.8;"1.9235384061671343";"13";330.41500000000;floodplain
+"204";344;4;high floodplain;"1";3;#DIV/0!;"11";257.74600000000;floodplain
+"205";345;1;moderately high natural levee (uncertain);"7";4.14285714285714;"1.5735915849388864";"5";174.49300000000;high natural levee
+"206";346;2;low natural levee (uncertain);"2";1;"0";"8";69.83340000000;low natural levee
+"207";348;4;low floodplain;;;;"12";958.21900000000;floodplain
+"208";349;6;high floodplain;"4";2.75;"0.9574271077563381";"11";257.74600000000;floodplain
+"209";350;2;moderately high natural levee;"5";3.6;"1.8165902124584952";"4";612.23400000000;high natural levee
+"210";351;3;residual gully;"1";3;#DIV/0!;"9";7.02155000000;other
+"211";353;1;moderately high natural levee;"4";3.25;"0.9574271077563381";"4";612.23400000000;high natural levee
+"212";354;1;high floodplain;"9";2.22222222222222;"0.97182531580755016";"11";257.74600000000;floodplain
+"213";355;1;moderately high natural levee;"10";2.5;"1.2692955176439846";"4";612.23400000000;high natural levee
+"214";356;4;moderately high natural levee;"6";4.5;"1.3784048752090221";"4";612.23400000000;high natural levee
+"215";357;4;low natural levee;"9";4.88888888888889;"1.3642254619787415";"7";628.67200000000;low natural levee
+"216";358;4;moderately high natural levee;"9";4.55555555555556;"1.1303883305208784";"4";612.23400000000;high natural levee
+"217";359;3;moderately high natural levee;"11";4.45454545454545;"1.0357254813546262";"4";612.23400000000;high natural levee
+"218";360;5;moderately high natural levee;"9";4.44444444444444;"1.1303883305208784";"4";612.23400000000;high natural levee
+"219";361;2;moderately high natural levee;"8";3.25;"1.6690459207925603";"4";612.23400000000;high natural levee
+"220";362;1;low natural levee;"11";3.72727272727273;"1.4206272622267315";"7";628.67200000000;low natural levee
+"221";363;1;moderately high natural levee;"12";4.16666666666667;"1.696699112626596";"4";612.23400000000;high natural levee
+"222";364;1;moderately high natural levee;"11";4.09090909090909;"1.7580981459830651";"4";612.23400000000;high natural levee
+"223";365;4;moderately high natural levee;"7";4.28571428571429;"1.3801311186847076";"4";612.23400000000;high natural levee
+"224";366;5;low natural levee;"4";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"225";367;3;low natural levee;"6";4.33333333333333;"1.0327955589886442";"7";628.67200000000;low natural levee
+"226";368;6;moderately high natural levee;"5";4.4;"1.1401754250991383";"4";612.23400000000;high natural levee
+"227";369;6;moderately high natural levee;"2";3.5;"3.5355339059327378";"4";612.23400000000;high natural levee
+"228";370;6;moderately high natural levee;"4";3.5;"2.0816659994661326";"4";612.23400000000;high natural levee
+"229";372;6;low natural levee;"5";4.8;"1.3038404810405295";"7";628.67200000000;low natural levee
+"230";373;6;low natural levee;"4";4;"1.6329931618554521";"7";628.67200000000;low natural levee
+"231";374;4;low floodplain;"4";4.25;"1.707825127659933";"12";958.21900000000;floodplain
+"232";375;5;moderately high natural levee;"2";5;"1.4142135623730951";"4";612.23400000000;high natural levee
+"233";376;4;moderately high natural levee;"4";4.5;"2.3804761428476167";"4";612.23400000000;high natural levee
+"234";378;5;low natural levee;"3";2.33333333333333;"1.1547005383792517";"7";628.67200000000;low natural levee
+"235";379;1;low natural levee;"2";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"236";380;2;low natural levee;"6";4;"2";"7";628.67200000000;low natural levee
+"237";381;3;low natural levee;"9";3.55555555555556;"1.7400510848184252";"7";628.67200000000;low natural levee
+"238";382;4;low natural levee;"7";3;"0.57735026918962573";"7";628.67200000000;low natural levee
+"239";383;3;low natural levee;"6";3.33333333333333;"0.51639777949432131";"7";628.67200000000;low natural levee
+"240";384;3;low natural levee;"8";3.25;"1.1649647450214351";"7";628.67200000000;low natural levee
+"241";385;3;river dunes;"6";3.33333333333333;"0.51639777949432131";"31";10.53170000000;high natural levee
+"242";386;3;low natural levee;"3";4;"1.7320508075688772";"7";628.67200000000;low natural levee
+"243";387;6;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"244";388;5;low natural levee;"2";6;"1.4142135623730951";"7";628.67200000000;low natural levee
+"245";389;5;low natural levee;"3";4.66666666666667;"2.5166114784235836";"7";628.67200000000;low natural levee
+"246";390;2;low natural levee;"1";5;#DIV/0!;"7";628.67200000000;low natural levee
+"247";391;5;low natural levee;"1";4;#DIV/0!;"7";628.67200000000;low natural levee
+"248";392;5;low natural levee;"2";4.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"249";393;4;low natural levee;"2";5;"0";"7";628.67200000000;low natural levee
+"250";394;3;moderately high natural levee;"4";4.5;"1.9148542155126762";"4";612.23400000000;high natural levee
+"251";395;4;low natural levee;"4";4.25;"2.0615528128088303";"7";628.67200000000;low natural levee
+"252";396;5;low floodplain;"4";5;"1.4142135623730951";"12";958.21900000000;floodplain
+"253";397;6;low floodplain;"2";4;"1.4142135623730951";"12";958.21900000000;floodplain
+"254";398;3;low floodplain;"3";5.66666666666667;"0.57735026918962784";"12";958.21900000000;floodplain
+"255";879;7;moderately high natural levee;"4";3.25;"1.707825127659933";"4";612.23400000000;high natural levee
+"256";880;1;moderately high natural levee;"3";5;"2";"4";612.23400000000;high natural levee
+"257";881;4;moderately high natural levee;"4";2.75;"0.9574271077563381";"4";612.23400000000;high natural levee
+"258";882;5;moderately high natural levee;"3";5.66666666666667;"1.5275252316519474";"4";612.23400000000;high natural levee
+"259";883;3;moderately high natural levee;"3";5.33333333333333;"1.5275252316519474";"4";612.23400000000;high natural levee
+"260";884;1;low natural levee;"6";4.5;"1.8708286933869707";"7";628.67200000000;low natural levee
+"261";886;4;moderately high natural levee;"2";6.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"262";888;4;low natural levee;"4";3.25;"1.8929694486000912";"7";628.67200000000;low natural levee
+"263";889;7;low natural levee;"2";6.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"264";890;2;low natural levee;"6";4.5;"1.8708286933869707";"7";628.67200000000;low natural levee
+"265";891;7;low floodplain;"8";4.25;"1.6690459207925603";"12";958.21900000000;floodplain
+"266";897;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"267";898;3;low natural levee;"4";3.25;"2.0615528128088303";"7";628.67200000000;low natural levee
+"268";900;5;moderately high natural levee (uncertain);"4";3;"1.6329931618554521";"5";174.49300000000;high natural levee
+"269";901;3;low natural levee;"4";3.5;"1.9148542155126762";"7";628.67200000000;low natural levee
+"270";902;5;moderately high natural levee;"5";3.2;"1.4832396974191324";"4";612.23400000000;high natural levee
+"271";904;1;high floodplain;"4";4;"1.1547005383792515";"11";257.74600000000;floodplain
+"272";1000;6;moderately high natural levee;"5";2.6;"0.8944271909999163";"4";612.23400000000;high natural levee
+"273";1002;3;low natural levee;"9";2.77777777777778;"1.3017082793177759";"7";628.67200000000;low natural levee
+"274";1003;3;moderately high natural levee;"9";2.77777777777778;"1.3017082793177759";"4";612.23400000000;high natural levee
+"275";1004;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"276";1005;2;low natural levee;"2";4.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"277";1006;4;moderately high natural levee;"2";2.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"278";1007;4;rivers and streams;"2";3.5;"0.70710678118654757";"0";118.33000000000;water
+"279";1008;3;moderately high natural levee;"3";3.66666666666667;"0.57735026918962473";"4";612.23400000000;high natural levee
+"280";1009;3;moderately high natural levee;"2";3;"0";"4";612.23400000000;high natural levee
+"281";403;6;river dunes;"6";3.83333333333333;"1.4719601443879742";"31";10.53170000000;high natural levee
+"282";404;2;river dunes;"5";4;"2.1213203435596424";"31";10.53170000000;high natural levee
+"283";406;6;moderately high natural levee;"7";3.71428571428571;"1.7994708216848749";"4";612.23400000000;high natural levee
+"284";407;1;moderately high natural levee;"5";4.6;"1.5165750888103104";"4";612.23400000000;high natural levee
+"285";408;4;river dunes;"5";3.2;"0.44721359549995715";"31";10.53170000000;high natural levee
+"286";410;5;low natural levee;"4";4.25;"2.2173557826083452";"7";628.67200000000;low natural levee
+"287";411;5;low natural levee;"6";4.33333333333333;"1.751190071541826";"7";628.67200000000;low natural levee
+"288";412;5;moderately high natural levee;"6";3.83333333333333;"1.6020819787597218";"4";612.23400000000;high natural levee
+"289";413;5;low natural levee;"6";4.16666666666667;"0.98319208025017457";"7";628.67200000000;low natural levee
+"290";414;4;low natural levee;"4";4.5;"1";"7";628.67200000000;low natural levee
+"291";415;5;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"292";416;4;moderately high natural levee;"5";3.6;"1.3416407864998741";"4";612.23400000000;high natural levee
+"293";417;2;high floodplain;"14";3.42857142857143;"1.3985864135061354";"11";257.74600000000;floodplain
+"294";418;2;low natural levee;"13";3.23076923076923;"1.5358952955766092";"7";628.67200000000;low natural levee
+"295";419;2;high floodplain;"11";3.45454545454545;"1.5075567228888178";"11";257.74600000000;floodplain
+"296";420;5;low floodplain;"5";5.2;"1.3038404810405309";"12";958.21900000000;floodplain
+"297";421;6;low natural levee;"4";3.75;"2.2173557826083452";"7";628.67200000000;low natural levee
+"298";422;6;moderately high natural levee;"9";4.11111111111111;"1.6914819275153699";"4";612.23400000000;high natural levee
+"299";423;5;moderately high natural levee;"7";4.71428571428571;"1.3801311186847076";"4";612.23400000000;high natural levee
+"300";424;6;moderately high natural levee;"8";4.625;"1.1877349391654208";"4";612.23400000000;high natural levee
+"301";425;5;moderately high natural levee;"7";4.85714285714286;"0.89973541084243769";"4";612.23400000000;high natural levee
+"302";426;5;moderately high natural levee;"9";4.55555555555556;"1.0137937550497036";"4";612.23400000000;high natural levee
+"303";427;5;moderately high natural levee;"4";5.5;"0.57735026918962573";"4";612.23400000000;high natural levee
+"304";429;4;low floodplain;"5";4.6;"1.5165750888103104";"12";958.21900000000;floodplain
+"305";430;3;moderately high natural levee;"6";5;"1.2649110640673518";"4";612.23400000000;high natural levee
+"306";431;6;moderately high natural levee;"8";4.5;"1.0690449676496976";"4";612.23400000000;high natural levee
+"307";432;6;moderately high natural levee;"7";3.85714285714286;"1.9518001458970666";"4";612.23400000000;high natural levee
+"308";433;5;moderately high natural levee;"10";3.9;"2.0789954839350235";"4";612.23400000000;high natural levee
+"309";434;3;moderately high natural levee;"9";4.66666666666667;"1.9364916731037085";"4";612.23400000000;high natural levee
+"310";435;1;moderately high natural levee;"10";4.7;"1.567021236472421";"4";612.23400000000;high natural levee
+"311";436;3;moderately high natural levee;"10";4;"1.9436506316151001";"4";612.23400000000;high natural levee
+"312";437;3;residual gully;"13";3.76923076923077;"1.9215378456610459";"9";7.02155000000;other
+"313";438;7;moderately high natural levee;"14";3.71428571428571;"1.6837947722821909";"4";612.23400000000;high natural levee
+"314";439;3;high natural levee;"14";3.71428571428571;"1.9386185179765922";"1";30.20850000000;high natural levee
+"315";440;6;moderately high natural levee;"16";3.3125;"1.8154430129677255";"4";612.23400000000;high natural levee
+"316";441;1;moderately high natural levee;"15";3.53333333333333;"1.5976172734359602";"4";612.23400000000;high natural levee
+"317";442;4;low natural levee;"16";3.375;"1.6278820596099706";"7";628.67200000000;low natural levee
+"318";443;4;moderately high natural levee;"18";3.61111111111111;"1.6851911704746589";"4";612.23400000000;high natural levee
+"319";445;3;moderately high natural levee;"17";3.52941176470588;"1.5048939771136509";"4";612.23400000000;high natural levee
+"320";446;1;moderately high natural levee;"16";3.75;"1.4832396974191326";"4";612.23400000000;high natural levee
+"321";448;5;low natural levee;"16";3.3125;"1.4476993242152645";"7";628.67200000000;low natural levee
+"322";450;3;moderately high natural levee;"16";3.6875;"1.4930394055974097";"4";612.23400000000;high natural levee
+"323";451;5;high floodplain;"15";3.46666666666667;"1.2459458063579456";"11";257.74600000000;floodplain
+"324";452;3;high floodplain;"11";3.72727272727273;"1.4206272622267315";"11";257.74600000000;floodplain
+"325";453;5;moderately high natural levee;"16";3.75;"1.2909944487358056";"4";612.23400000000;high natural levee
+"326";454;3;moderately high natural levee (uncertain);"14";4.42857142857143;"1.2224996910042538";"5";174.49300000000;high natural levee
+"327";455;5;low floodplain;"12";3.75;"1.4847711791873706";"12";958.21900000000;floodplain
+"328";458;6;moderately high natural levee (uncertain);"10";4.4;"1.264911064067352";"5";174.49300000000;high natural levee
+"329";461;5;moderately high natural levee (uncertain);"5";4.6;"1.5165750888103104";"5";174.49300000000;high natural levee
+"330";462;3;high natural levee;"7";4.85714285714286;"1.3451854182690988";"1";30.20850000000;high natural levee
+"331";463;4;moderately high natural levee (uncertain);"9";4.77777777777778;"1.3017082793177752";"5";174.49300000000;high natural levee
+"332";464;3;moderately high natural levee;"5";4.4;"0.8944271909999163";"4";612.23400000000;high natural levee
+"333";465;3;moderately high natural levee;"8";4.625;"0.74402380914284494";"4";612.23400000000;high natural levee
+"334";466;5;moderately high natural levee;"8";4.125;"1.8850918886280925";"4";612.23400000000;high natural levee
+"335";467;5;moderately high natural levee;"8";4.25;"1.0350983390135313";"4";612.23400000000;high natural levee
+"336";468;6;moderately high natural levee;"6";3.5;"1.7606816861659009";"4";612.23400000000;high natural levee
+"337";469;3;moderately high natural levee;"8";4.25;"2.1213203435596424";"4";612.23400000000;high natural levee
+"338";470;3;moderately high natural levee;"9";4.44444444444444;"1.8782379449307745";"4";612.23400000000;high natural levee
+"339";471;5;high floodplain;"4";4;"1.8257418583505538";"11";257.74600000000;floodplain
+"340";472;4;moderately high natural levee;"3";3.66666666666667;"2.3094010767585029";"4";612.23400000000;high natural levee
+"341";473;5;low floodplain;"6";3.66666666666667;"1.5055453054181618";"12";958.21900000000;floodplain
+"342";474;5;low floodplain;"6";4.16666666666667;"0.75277265270908045";"12";958.21900000000;floodplain
+"343";475;5;low floodplain;"7";4.57142857142857;"0.97590007294853387";"12";958.21900000000;floodplain
+"344";476;4;high natural levee;"6";4.66666666666667;"1.0327955589886455";"1";30.20850000000;high natural levee
+"345";477;3;moderately high natural levee;"7";4.85714285714286;"0.6900655593423547";"4";612.23400000000;high natural levee
+"346";478;4;high natural levee;"7";4.71428571428571;"0.95118973121134076";"1";30.20850000000;high natural levee
+"347";479;5;moderately high natural levee;"5";4.4;"1.1401754250991383";"4";612.23400000000;high natural levee
+"348";480;3;low floodplain;"1";4;#DIV/0!;"12";958.21900000000;floodplain
+"349";481;4;low natural levee;"5";4.4;"0.54772255750516674";"7";628.67200000000;low natural levee
+"350";482;4;moderately high natural levee;"7";4.42857142857143;"0.97590007294853387";"4";612.23400000000;high natural levee
+"351";483;4;moderately high natural levee;"9";3.88888888888889;"1.4529663145135576";"4";612.23400000000;high natural levee
+"352";484;7;low natural levee (uncertain);"5";2.2;"1.7888543819998317";"8";69.83340000000;low natural levee
+"353";485;5;low floodplain;"1";1;#DIV/0!;"12";958.21900000000;floodplain
+"354";486;4;low natural levee;"1";5;#DIV/0!;"7";628.67200000000;low natural levee
+"355";487;1;low natural levee;"5";2.8;"2.4899799195977463";"7";628.67200000000;low natural levee
+"356";488;4;high natural levee;"6";4.66666666666667;"1.0327955589886455";"1";30.20850000000;high natural levee
+"357";489;3;moderately high natural levee;"7";4.71428571428571;"0.75592894601845306";"4";612.23400000000;high natural levee
+"358";490;5;high natural levee;"7";3.85714285714286;"0.89973541084243769";"1";30.20850000000;high natural levee
+"359";491;5;high natural levee;"6";4;"0.89442719099991586";"1";30.20850000000;high natural levee
+"360";492;4;low natural levee;"10";4.3;"1.05934990547138";"7";628.67200000000;low natural levee
+"361";493;4;high natural levee;"2";4;"1.4142135623730951";"1";30.20850000000;high natural levee
+"362";495;3;moderately high natural levee;"1";4;#DIV/0!;"4";612.23400000000;high natural levee
+"363";496;5;high natural levee;"4";4.25;"1.2583057392117916";"1";30.20850000000;high natural levee
+"364";497;4;moderately high natural levee;"4";4.5;"1.2909944487358056";"4";612.23400000000;high natural levee
+"365";498;6;high natural levee;"5";4;"0.70710678118654757";"1";30.20850000000;high natural levee
+"366";499;3;moderately high natural levee (uncertain);"5";3.6;"1.8165902124584952";"5";174.49300000000;high natural levee
+"367";500;1;moderately high natural levee (uncertain);"3";3.33333333333333;"0.57735026918962473";"5";174.49300000000;high natural levee
+"368";503;6;moderately high natural levee;"2";5;"0";"4";612.23400000000;high natural levee
+"369";506;4;low floodplain (uncertain);"6";4.66666666666667;"1.0327955589886455";"13";330.41500000000;floodplain
+"370";507;5;low natural levee;"6";4.5;"1.0488088481701516";"7";628.67200000000;low natural levee
+"371";508;5;moderately high natural levee;"7";4.28571428571429;"0.75592894601845306";"4";612.23400000000;high natural levee
+"372";509;4;moderately high natural levee;"8";4.625;"0.91612538131290433";"4";612.23400000000;high natural levee
+"373";510;3;low floodplain (uncertain);"8";4.75;"0.70710678118654757";"13";330.41500000000;floodplain
+"374";511;5;moderately high natural levee;"8";4.625;"1.0606601717798212";"4";612.23400000000;high natural levee
+"375";512;5;moderately high natural levee (uncertain);"9";4.88888888888889;"1.3642254619787415";"5";174.49300000000;high natural levee
+"376";513;7;high natural levee;"3";4.66666666666667;"1.5275252316519474";"1";30.20850000000;high natural levee
+"377";514;4;moderately high natural levee;"5";4.6;"1.1401754250991383";"4";612.23400000000;high natural levee
+"378";515;7;low floodplain (uncertain);"7";4.71428571428571;"2.2146697055682822";"13";330.41500000000;floodplain
+"379";516;4;moderately high natural levee (uncertain);"8";4.875;"2.2951812875799469";"5";174.49300000000;high natural levee
+"380";517;4;moderately high natural levee (uncertain);"9";4.33333333333333;"1.1180339887498949";"5";174.49300000000;high natural levee
+"381";518;3;low natural levee;"1";4;#DIV/0!;"7";628.67200000000;low natural levee
+"382";519;6;low floodplain;"6";4.16666666666667;"0.98319208025017457";"12";958.21900000000;floodplain
+"383";521;1;moderately high natural levee;"4";5.5;"1";"4";612.23400000000;high natural levee
+"384";523;2;low natural levee;"6";2.66666666666667;"2.0655911179772892";"7";628.67200000000;low natural levee
+"385";524;6;moderately high natural levee;"7";4;"0.81649658092772603";"4";612.23400000000;high natural levee
+"386";529;5;low natural levee;"9";5;"1.2247448713915889";"7";628.67200000000;low natural levee
+"387";530;1;moderately high natural levee;"5";2.8;"0.44721359549995715";"4";612.23400000000;high natural levee
+"388";532;3;low floodplain;;;;"12";958.21900000000;floodplain
+"389";534;2;low natural levee (uncertain);"1";5;#DIV/0!;"8";69.83340000000;low natural levee
+"390";538;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"391";539;3;rivers and streams;"1";2;#DIV/0!;"0";118.33000000000;water
+"392";540;2;low floodplain;"1";3;#DIV/0!;"12";958.21900000000;floodplain
+"393";541;1;low natural levee;"5";3;"1.8708286933869707";"7";628.67200000000;low natural levee
+"394";542;1;low natural levee;"4";1;"0";"7";628.67200000000;low natural levee
+"395";543;3;low floodplain;"8";4.125;"1.807721533549109";"12";958.21900000000;floodplain
+"396";544;1;low natural levee;"4";4;"0.81649658092772603";"7";628.67200000000;low natural levee
+"397";546;1;moderately high natural levee;"1";4;#DIV/0!;"4";612.23400000000;high natural levee
+"398";548;5;moderately high natural levee;"4";3;"1.4142135623730951";"4";612.23400000000;high natural levee
+"399";549;3;high floodplain;"4";3.5;"1.7320508075688772";"11";257.74600000000;floodplain
+"400";550;4;moderately high natural levee;"4";3.25;"1.707825127659933";"4";612.23400000000;high natural levee
+"401";552;3;moderately high natural levee;"2";4.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"402";553;5;moderately high natural levee;"4";3.25;"0.9574271077563381";"4";612.23400000000;high natural levee
+"403";554;4;moderately high natural levee;"4";3.5;"1.2909944487358056";"4";612.23400000000;high natural levee
+"404";556;4;moderately high natural levee;"5";3.4;"1.1401754250991383";"4";612.23400000000;high natural levee
+"405";557;2;moderately high natural levee;"5";3.8;"0.83666002653407512";"4";612.23400000000;high natural levee
+"406";558;5;low natural levee;"1";6;#DIV/0!;"7";628.67200000000;low natural levee
+"407";559;5;moderately high natural levee;"9";3.77777777777778;"2.0480342879074174";"4";612.23400000000;high natural levee
+"408";560;7;moderately high natural levee;"1";7;#DIV/0!;"4";612.23400000000;high natural levee
+"409";561;2;moderately high natural levee (uncertain);"2";4;"2.8284271247461903";"5";174.49300000000;high natural levee
+"410";562;6;moderately high natural levee;"4";2;"0";"4";612.23400000000;high natural levee
+"411";563;2;moderately high natural levee;"4";3;"2";"4";612.23400000000;high natural levee
+"412";564;2;low natural levee (uncertain);"2";2;"0";"8";69.83340000000;low natural levee
+"413";565;2;low natural levee (uncertain);"2";2;"0";"8";69.83340000000;low natural levee
+"414";566;2;moderately high natural levee (uncertain);"3";2;"0";"5";174.49300000000;high natural levee
+"415";567;2;low natural levee (uncertain);"1";2;#DIV/0!;"8";69.83340000000;low natural levee
+"416";568;6;river dunes;"1";5;#DIV/0!;"31";10.53170000000;high natural levee
+"417";569;3;moderately high natural levee;"4";3.5;"1.9148542155126762";"4";612.23400000000;high natural levee
+"418";570;6;river dunes;"4";2.5;"1";"31";10.53170000000;high natural levee
+"419";571;3;high floodplain;"4";3.25;"2.0615528128088303";"11";257.74600000000;floodplain
+"420";572;3;low natural levee;"4";3.25;"2.0615528128088303";"7";628.67200000000;low natural levee
+"421";573;1;moderately high natural levee;"4";3.75;"1.5";"4";612.23400000000;high natural levee
+"422";574;3;rivers and streams;"5";2.8;"2.0493901531919194";"0";118.33000000000;water
+"423";575;1;rivers and streams;"1";3;#DIV/0!;"0";118.33000000000;water
+"424";576;5;moderately high natural levee;"1";4;#DIV/0!;"4";612.23400000000;high natural levee
+"425";577;4;moderately high natural levee;"3";4;"1";"4";612.23400000000;high natural levee
+"426";578;3;moderately high natural levee;"2";3.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"427";579;3;rivers and streams;"2";2;"1.4142135623730951";"0";118.33000000000;water
+"428";580;1;moderately high natural levee;"2";2;"1.4142135623730951";"4";612.23400000000;high natural levee
+"429";582;2;moderately high natural levee;"3";2.33333333333333;"2.3094010767585034";"4";612.23400000000;high natural levee
+"430";583;5;rivers and streams;"3";1.33333333333333;"0.57735026918962584";"0";118.33000000000;water
+"431";585;4;low natural levee;"2";4.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"432";586;4;low natural levee;"4";4.25;"1.707825127659933";"7";628.67200000000;low natural levee
+"433";587;3;low natural levee;"5";4.6;"1.9493588689617929";"7";628.67200000000;low natural levee
+"434";588;1;low natural levee;"10";3.2;"1.2292725943057181";"7";628.67200000000;low natural levee
+"435";589;5;low natural levee;"5";2;"1";"7";628.67200000000;low natural levee
+"436";590;5;low natural levee;"3";3.33333333333333;"1.154700538379251";"7";628.67200000000;low natural levee
+"437";591;2;low natural levee;;;;"7";628.67200000000;low natural levee
+"438";592;3;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"439";593;3;moderately high natural levee;"6";2.5;"1.51657508881031";"4";612.23400000000;high natural levee
+"440";594;1;low natural levee;"6";2.83333333333333;"1.3291601358251259";"7";628.67200000000;low natural levee
+"441";595;4;low natural levee;"10";3.2;"1.2292725943057181";"7";628.67200000000;low natural levee
+"442";596;6;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"443";597;3;moderately high natural levee;"3";4.33333333333333;"2.0816659994661326";"4";612.23400000000;high natural levee
+"444";598;2;moderately high natural levee;"7";3.57142857142857;"0.78679579246944253";"4";612.23400000000;high natural levee
+"445";599;2;low natural levee;"8";3;"1.5118578920369088";"7";628.67200000000;low natural levee
+"446";600;3;low natural levee;"3";3;"2";"7";628.67200000000;low natural levee
+"447";601;5;moderately high natural levee;"5";3;"0.70710678118654757";"4";612.23400000000;high natural levee
+"448";603;5;low natural levee;"7";2.71428571428571;"0.95118973121134198";"7";628.67200000000;low natural levee
+"449";604;4;moderately high natural levee;"3";6;"1";"4";612.23400000000;high natural levee
+"450";606;6;moderately high natural levee;"5";5.4;"1.1401754250991367";"4";612.23400000000;high natural levee
+"451";607;5;moderately high natural levee;"3";6.33333333333333;"0.57735026918962784";"4";612.23400000000;high natural levee
+"452";608;6;moderately high natural levee;"1";6;#DIV/0!;"4";612.23400000000;high natural levee
+"453";609;4;moderately high natural levee;"2";5;"2.8284271247461903";"4";612.23400000000;high natural levee
+"454";610;3;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"455";611;6;low natural levee;"3";4;"3";"7";628.67200000000;low natural levee
+"456";612;3;moderately high natural levee;"4";3;"1.1547005383792515";"4";612.23400000000;high natural levee
+"457";613;7;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"458";614;3;low natural levee;"1";7;#DIV/0!;"7";628.67200000000;low natural levee
+"459";615;1;low natural levee;"1";4;#DIV/0!;"7";628.67200000000;low natural levee
+"460";616;4;low natural levee;"7";3.57142857142857;"2.4397501823713328";"7";628.67200000000;low natural levee
+"461";617;4;low natural levee;;;;"7";628.67200000000;low natural levee
+"462";619;7;moderately high natural levee;"5";3.2;"1.9235384061671343";"4";612.23400000000;high natural levee
+"463";620;7;low natural levee;"3";5.66666666666667;"1.5275252316519474";"7";628.67200000000;low natural levee
+"464";621;5;moderately high natural levee;"4";3.5;"2.5166114784235831";"4";612.23400000000;high natural levee
+"465";622;6;low natural levee;"3";6;"1.7320508075688772";"7";628.67200000000;low natural levee
+"466";626;5;low natural levee;"8";4.875;"2.0310096011589902";"7";628.67200000000;low natural levee
+"467";628;5;low natural levee;"7";4.57142857142857;"1.9880595947760102";"7";628.67200000000;low natural levee
+"468";629;6;low natural levee;"8";4.375;"1.9226098333849673";"7";628.67200000000;low natural levee
+"469";630;5;low floodplain;"8";4.625;"1.7677669529663689";"12";958.21900000000;floodplain
+"470";631;6;low natural levee;"7";4.14285714285714;"1.9518001458970666";"7";628.67200000000;low natural levee
+"471";632;3;river dunes;"4";3.75;"2.2173557826083452";"31";10.53170000000;high natural levee
+"472";633;3;river dunes;"1";2;#DIV/0!;"31";10.53170000000;high natural levee
+"473";636;5;moderately high natural levee;"4";3.75;"2.2173557826083452";"4";612.23400000000;high natural levee
+"474";637;6;river dunes;"2";5;"0";"31";10.53170000000;high natural levee
+"475";640;2;moderately high natural levee;"2";5;"2.8284271247461903";"4";612.23400000000;high natural levee
+"476";641;6;river dunes;"2";3;"0";"31";10.53170000000;high natural levee
+"477";643;3;moderately high natural levee;"2";2.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"478";644;3;river dunes;"4";4.5;"1.7320508075688772";"31";10.53170000000;high natural levee
+"479";645;3;river dunes;"2";5.5;"0.70710678118654757";"31";10.53170000000;high natural levee
+"480";646;3;low natural levee;"5";3.6;"1.3416407864998741";"7";628.67200000000;low natural levee
+"481";647;3;low natural levee;"1";1;#DIV/0!;"7";628.67200000000;low natural levee
+"482";648;3;river dunes;"6";4.16666666666667;"0.98319208025017457";"31";10.53170000000;high natural levee
+"483";649;3;river dunes;"5";4;"1.4142135623730951";"31";10.53170000000;high natural levee
+"484";650;1;low natural levee;"3";4;"1.7320508075688772";"7";628.67200000000;low natural levee
+"485";651;5;river dunes;"8";3.75;"1.9820624179302297";"31";10.53170000000;high natural levee
+"486";653;7;coversands;"9";4.33333333333333;"1.8027756377319946";"28";1532.04000000000;Pleistocene sands
+"487";654;3;low natural levee;"8";5;"1.7728105208558367";"7";628.67200000000;low natural levee
+"488";655;2;low natural levee;"5";4.4;"2.0736441353327724";"7";628.67200000000;low natural levee
+"489";656;5;river dunes;"7";3;"1.2909944487358056";"31";10.53170000000;high natural levee
+"490";657;4;river dunes;"6";4.5;"1.8708286933869707";"31";10.53170000000;high natural levee
+"491";659;5;river dunes;"2";5.5;"0.70710678118654757";"31";10.53170000000;high natural levee
+"492";660;5;coversands;"3";5.33333333333333;"0.57735026918962784";"28";1532.04000000000;Pleistocene sands
+"493";661;7;low natural levee;"2";3.5;"2.1213203435596424";"7";628.67200000000;low natural levee
+"494";662;3;fluvial terraces;"2";3;"0";"32";351.08200000000;fluvial terraces
+"495";663;6;coversands;"4";4.5;"1";"28";1532.04000000000;Pleistocene sands
+"496";664;5;low natural levee;"6";5;"2.0976176963403033";"7";628.67200000000;low natural levee
+"497";665;3;moderately high natural levee;"7";3.42857142857143;"2.0701966780270622";"4";612.23400000000;high natural levee
+"498";666;3;river dunes;"3";3.66666666666667;"1.154700538379251";"31";10.53170000000;high natural levee
+"499";667;4;coversands;"9";4.44444444444444;"2.2973414586817036";"28";1532.04000000000;Pleistocene sands
+"500";668;3;low natural levee;"7";4.57142857142857;"1.9880595947760102";"7";628.67200000000;low natural levee
+"501";669;3;low natural levee;"1";5;#DIV/0!;"7";628.67200000000;low natural levee
+"502";671;5;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"503";672;6;low natural levee;"5";5.2;"1.3038404810405309";"7";628.67200000000;low natural levee
+"504";673;3;low natural levee;"4";3.5;"2.3804761428476167";"7";628.67200000000;low natural levee
+"505";674;6;low natural levee;"2";4;"2.8284271247461903";"7";628.67200000000;low natural levee
+"506";676;7;moderately high natural levee;"4";4.5;"1";"4";612.23400000000;high natural levee
+"507";677;5;moderately high natural levee;"4";5;"1.6329931618554521";"4";612.23400000000;high natural levee
+"508";678;5;moderately high natural levee;"4";5;"1.6329931618554521";"4";612.23400000000;high natural levee
+"509";679;5;low natural levee;"3";5.66666666666667;"1.1547005383792526";"7";628.67200000000;low natural levee
+"510";680;2;low floodplain;"3";5.66666666666667;"0.57735026918962784";"12";958.21900000000;floodplain
+"511";681;3;moderately high natural levee;"1";4;#DIV/0!;"4";612.23400000000;high natural levee
+"512";682;6;low natural levee;"6";4.66666666666667;"1.7511900715418269";"7";628.67200000000;low natural levee
+"513";683;2;low natural levee;"5";5.2;"1.3038404810405309";"7";628.67200000000;low natural levee
+"514";684;3;low natural levee;"6";5.83333333333333;"0.75277265270908222";"7";628.67200000000;low natural levee
+"515";692;4;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"516";695;5;low natural levee;"2";3.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"517";697;5;low natural levee;"5";3.4;"0.8944271909999163";"7";628.67200000000;low natural levee
+"518";699;7;moderately high natural levee;"3";6;"0";"4";612.23400000000;high natural levee
+"519";700;3;low natural levee;"5";3.4;"1.6733200530681513";"7";628.67200000000;low natural levee
+"520";701;2;moderately high natural levee;"4";5;"1.4142135623730951";"4";612.23400000000;high natural levee
+"521";702;6;moderately high natural levee;"2";3;"0";"4";612.23400000000;high natural levee
+"522";703;5;moderately high natural levee;"4";4.5;"1";"4";612.23400000000;high natural levee
+"523";704;3;low natural levee;"3";3.66666666666667;"2.0816659994661326";"7";628.67200000000;low natural levee
+"524";705;3;moderately high natural levee;"4";3.75;"2.2173557826083452";"4";612.23400000000;high natural levee
+"525";706;3;river dunes;"2";3.5;"2.1213203435596424";"31";10.53170000000;high natural levee
+"526";707;3;moderately high natural levee;"5";2.8;"1.4832396974191324";"4";612.23400000000;high natural levee
+"527";708;3;moderately high natural levee;"3";3;"0";"4";612.23400000000;high natural levee
+"528";709;2;low natural levee;"5";4.8;"1.7888543819998315";"7";628.67200000000;low natural levee
+"529";710;7;moderately high natural levee;"6";4.66666666666667;"1.5055453054181624";"4";612.23400000000;high natural levee
+"530";711;5;moderately high natural levee;"5";4.4;"2.1908902300206647";"4";612.23400000000;high natural levee
+"531";712;3;low natural levee;"5";4;"2";"7";628.67200000000;low natural levee
+"532";713;3;moderately high natural levee;"4";2.5;"1";"4";612.23400000000;high natural levee
+"533";715;5;moderately high natural levee;"6";3.66666666666667;"1.9663841605003498";"4";612.23400000000;high natural levee
+"534";717;6;moderately high natural levee;"1";7;#DIV/0!;"4";612.23400000000;high natural levee
+"535";718;6;moderately high natural levee;"4";3.25;"1.2583057392117916";"4";612.23400000000;high natural levee
+"536";719;3;low natural levee;"8";4;"1.6903085094570331";"7";628.67200000000;low natural levee
+"537";720;6;moderately high natural levee;"3";5;"2.6457513110645907";"4";612.23400000000;high natural levee
+"538";722;6;low natural levee;"7";3.57142857142857;"1.8126539343499313";"7";628.67200000000;low natural levee
+"539";724;6;moderately high natural levee;"5";4;"1.8708286933869707";"4";612.23400000000;high natural levee
+"540";725;7;low natural levee;"3";3;"2";"7";628.67200000000;low natural levee
+"541";727;4;fluvial terraces;;;;"32";351.08200000000;fluvial terraces
+"542";729;5;low natural levee;"7";4.42857142857143;"1.8126539343499317";"7";628.67200000000;low natural levee
+"543";730;7;low natural levee;"3";5.66666666666667;"0.57735026918962784";"7";628.67200000000;low natural levee
+"544";731;7;moderately high natural levee;"6";3.16666666666667;"2.3166067138525408";"4";612.23400000000;high natural levee
+"545";732;5;coversands;"1";5;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"546";735;5;low natural levee;"4";6;"0.81649658092772603";"7";628.67200000000;low natural levee
+"547";737;5;high Pleistocene sands;;;;"25";583.69700000000;Pleistocene sands
+"548";740;3;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"549";742;6;low natural levee;"3";3.66666666666667;"1.5275252316519463";"7";628.67200000000;low natural levee
+"550";743;6;moderately high natural levee;"4";4.25;"1.707825127659933";"4";612.23400000000;high natural levee
+"551";744;4;low natural levee;"5";5;"1.7320508075688772";"7";628.67200000000;low natural levee
+"552";745;6;low natural levee;"3";2.66666666666667;"1.1547005383792517";"7";628.67200000000;low natural levee
+"553";746;2;moderately high natural levee;"1";6;#DIV/0!;"4";612.23400000000;high natural levee
+"554";747;2;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"555";748;4;low natural levee;"1";6;#DIV/0!;"7";628.67200000000;low natural levee
+"556";749;5;low natural levee;"6";4.16666666666667;"1.3291601358251253";"7";628.67200000000;low natural levee
+"557";750;6;low natural levee;"3";4;"1";"7";628.67200000000;low natural levee
+"558";751;5;low natural levee;"4";3.25;"1.2583057392117916";"7";628.67200000000;low natural levee
+"559";752;3;low natural levee;"4";3;"1.4142135623730951";"7";628.67200000000;low natural levee
+"560";753;2;moderately high natural levee;"3";3.66666666666667;"2.0816659994661326";"4";612.23400000000;high natural levee
+"561";754;2;moderately high natural levee;"3";3.33333333333333;"1.5275252316519463";"4";612.23400000000;high natural levee
+"562";755;3;low floodplain;"3";4.33333333333333;"1.154700538379251";"12";958.21900000000;floodplain
+"563";756;3;low natural levee;"4";4.75;"1.2583057392117916";"7";628.67200000000;low natural levee
+"564";757;5;river dunes;"3";4;"2.6457513110645907";"31";10.53170000000;high natural levee
+"565";758;5;river dunes;"3";5.66666666666667;"1.5275252316519474";"31";10.53170000000;high natural levee
+"566";759;7;high Pleistocene sands;"3";5.33333333333333;"0.57735026918962784";"25";583.69700000000;Pleistocene sands
+"567";760;7;low natural levee;"5";3.4;"2.0736441353327724";"7";628.67200000000;low natural levee
+"568";761;6;high Pleistocene sands;;;;"25";583.69700000000;Pleistocene sands
+"569";762;6;high Pleistocene sands;"2";6;"1.4142135623730951";"25";583.69700000000;Pleistocene sands
+"570";764;6;low natural levee;"2";6.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"571";766;3;low natural levee;"2";6;"1.4142135623730951";"7";628.67200000000;low natural levee
+"572";767;7;low natural levee;"4";2.75;"2.3629078131263039";"7";628.67200000000;low natural levee
+"573";768;2;coversands;"12";4.16666666666667;"2.0375267241229378";"28";1532.04000000000;Pleistocene sands
+"574";771;2;fluvial terraces;"5";2.6;"1.8165902124584952";"32";351.08200000000;fluvial terraces
+"575";772;5;coversands;"4";2;"1.4142135623730951";"28";1532.04000000000;Pleistocene sands
+"576";776;4;fluvial terraces;"4";2.25;"1.8929694486000912";"32";351.08200000000;fluvial terraces
+"577";777;7;low natural levee;"2";5;"0";"7";628.67200000000;low natural levee
+"578";779;4;moderately high natural levee;"7";4;"2.0816659994661326";"4";612.23400000000;high natural levee
+"579";780;1;moderately high natural levee;"10";4.2;"1.3984117975602017";"4";612.23400000000;high natural levee
+"580";782;5;moderately high natural levee;"8";3.625;"1.8468119248354136";"4";612.23400000000;high natural levee
+"581";783;6;moderately high natural levee;"8";3.5;"1.6903085094570331";"4";612.23400000000;high natural levee
+"582";784;3;high natural levee;"8";4.75;"1.6690459207925603";"1";30.20850000000;high natural levee
+"583";785;6;moderately high natural levee;"3";4.66666666666667;"1.5275252316519474";"4";612.23400000000;high natural levee
+"584";786;4;moderately high natural levee;"5";4.4;"1.9493588689617929";"4";612.23400000000;high natural levee
+"585";787;5;low floodplain;"9";4.33333333333333;"1.5811388300841898";"12";958.21900000000;floodplain
+"586";788;3;moderately high natural levee;"2";1.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"587";789;4;high natural levee;"8";4.25;"1.8322507626258087";"1";30.20850000000;high natural levee
+"588";790;4;residual gully;"8";3.75;"1.9820624179302297";"9";7.02155000000;other
+"589";791;4;moderately high natural levee;"6";3.33333333333333;"2.2509257354845507";"4";612.23400000000;high natural levee
+"590";792;3;low natural levee;"9";4.22222222222222;"2.1081851067789192";"7";628.67200000000;low natural levee
+"591";793;5;high natural levee;"11";3.54545454545455;"1.6348477827391981";"1";30.20850000000;high natural levee
+"592";794;4;residual gully;"9";3.66666666666667;"1.8708286933869707";"9";7.02155000000;other
+"593";795;6;high natural levee;"12";3.41666666666667;"1.4433756729740641";"1";30.20850000000;high natural levee
+"594";796;6;moderately high natural levee;"10";3.6;"1.3498971154211061";"4";612.23400000000;high natural levee
+"595";797;4;moderately high natural levee;"9";3.55555555555556;"1.8782379449307745";"4";612.23400000000;high natural levee
+"596";798;1;moderately high natural levee;"11";3.81818181818182;"1.4709304414677";"4";612.23400000000;high natural levee
+"597";799;5;low floodplain (uncertain);"9";4;"1.8708286933869707";"13";330.41500000000;floodplain
+"598";800;5;moderately high natural levee (uncertain);"9";4.22222222222222;"1.8559214542766735";"5";174.49300000000;high natural levee
+"599";801;5;moderately high natural levee (uncertain);"5";5.8;"0.83666002653407723";"5";174.49300000000;high natural levee
+"600";802;7;moderately high natural levee (uncertain);"6";4.83333333333333;"0.98319208025017601";"5";174.49300000000;high natural levee
+"601";803;6;low floodplain (uncertain);"7";4.57142857142857;"0.97590007294853387";"13";330.41500000000;floodplain
+"602";804;5;moderately high natural levee (uncertain);"5";5.8;"0.83666002653407723";"5";174.49300000000;high natural levee
+"603";805;6;moderately high natural levee (uncertain);"9";4.66666666666667;"1.7320508075688772";"5";174.49300000000;high natural levee
+"604";806;1;moderately high natural levee (uncertain);"10";3.8;"1.4757295747452435";"5";174.49300000000;high natural levee
+"605";807;5;residual gully (uncertain);"5";3.6;"1.9493588689617929";"10";1.50964000000;water
+"606";808;4;moderately high natural levee (uncertain);;;;"5";174.49300000000;high natural levee
+"607";809;6;moderately high natural levee (uncertain);"1";2;#DIV/0!;"5";174.49300000000;high natural levee
+"608";810;2;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"609";811;3;moderately high natural levee (uncertain);"6";4.16666666666667;"1.8348478592697177";"5";174.49300000000;high natural levee
+"610";814;1;low natural levee (uncertain);;;;"8";69.83340000000;low natural levee
+"611";816;2;low natural levee;;;;"7";628.67200000000;low natural levee
+"612";817;3;low natural levee (uncertain);;;;"8";69.83340000000;low natural levee
+"613";818;2;moderately high natural levee;"3";3.33333333333333;"2.3094010767585029";"4";612.23400000000;high natural levee
+"614";819;2;moderately high natural levee;"6";4;"1.8973665961010275";"4";612.23400000000;high natural levee
+"615";820;5;moderately high natural levee;"3";2.33333333333333;"0.57735026918962629";"4";612.23400000000;high natural levee
+"616";821;3;moderately high natural levee (uncertain);"3";3;"1.7320508075688772";"5";174.49300000000;high natural levee
+"617";823;2;moderately high natural levee;"2";4;"1.4142135623730951";"4";612.23400000000;high natural levee
+"618";824;6;moderately high natural levee;"2";1.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"619";825;1;moderately high natural levee;"1";6;#DIV/0!;"4";612.23400000000;high natural levee
+"620";826;3;low natural levee;"2";2;"0";"7";628.67200000000;low natural levee
+"621";827;2;low natural levee;"2";2.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"622";828;2;moderately high natural levee;"2";2.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"623";830;4;high natural levee;"6";3.5;"2.16794833886788";"1";30.20850000000;high natural levee
+"624";831;2;high natural levee;"2";1;"0";"1";30.20850000000;high natural levee
+"625";832;1;high natural levee;"5";2.6;"1.8165902124584952";"1";30.20850000000;high natural levee
+"626";833;1;high natural levee;"6";2.83333333333333;"2.1369760566432809";"1";30.20850000000;high natural levee
+"627";835;5;moderately high natural levee;"2";4;"2.8284271247461903";"4";612.23400000000;high natural levee
+"628";837;1;moderately high natural levee;"5";4;"1.8708286933869707";"4";612.23400000000;high natural levee
+"629";847;6;high natural levee;"6";2;"1.5491933384829668";"1";30.20850000000;high natural levee
+"630";848;1;moderately high natural levee (uncertain);"3";3;"2.6457513110645907";"5";174.49300000000;high natural levee
+"631";849;4;high natural levee;"6";2.16666666666667;"1.602081978759722";"1";30.20850000000;high natural levee
+"632";855;4;moderately high natural levee;"4";4;"2.4494897427831779";"4";612.23400000000;high natural levee
+"633";856;7;rivers and streams;"5";3.2;"1.3038404810405295";"0";118.33000000000;water
+"634";857;1;low natural levee;"5";4.4;"1.5165750888103104";"7";628.67200000000;low natural levee
+"635";859;1;moderately high natural levee;"2";2.5;"2.1213203435596424";"4";612.23400000000;high natural levee
+"636";860;3;low floodplain (uncertain);"7";6;"1.1547005383792515";"13";330.41500000000;floodplain
+"637";862;1;low natural levee;"3";3.33333333333333;"2.0816659994661326";"7";628.67200000000;low natural levee
+"638";863;1;high natural levee;"5";2.4;"2.0736441353327719";"1";30.20850000000;high natural levee
+"639";864;5;moderately high natural levee;"9";4.22222222222222;"1.5634719199411427";"4";612.23400000000;high natural levee
+"640";865;4;moderately high natural levee;"7";4.14285714285714;"1.0690449676496978";"4";612.23400000000;high natural levee
+"641";866;3;moderately high natural levee;"10";4.5;"1.7159383568311668";"4";612.23400000000;high natural levee
+"642";867;5;moderately high natural levee;"10";4;"1.8856180831641267";"4";612.23400000000;high natural levee
+"643";868;4;moderately high natural levee;"12";4.08333333333333;"1.8319554050414559";"4";612.23400000000;high natural levee
+"644";869;6;moderately high natural levee;"15";3.6;"1.7647338933351153";"4";612.23400000000;high natural levee
+"645";870;1;low natural levee;"14";4.64285714285714;"1.4468609447374665";"7";628.67200000000;low natural levee
+"646";871;6;moderately high natural levee;"14";3.64285714285714;"1.7368026705655186";"4";612.23400000000;high natural levee
+"647";872;3;high natural levee;"18";3.55555555555556;"1.7225911474978353";"1";30.20850000000;high natural levee
+"648";873;3;moderately high natural levee;"14";3.28571428571429;"1.5898026693500449";"4";612.23400000000;high natural levee
+"649";1011;3;moderately high natural levee;"3";3;"0";"4";612.23400000000;high natural levee
+"650";1012;3;moderately high natural levee (uncertain);"3";2.66666666666667;"0.57735026918962629";"5";174.49300000000;high natural levee
+"651";1013;2;low natural levee (uncertain);"3";2.33333333333333;"1.1547005383792517";"8";69.83340000000;low natural levee
+"652";1014;1;low floodplain;"2";4.5;"3.5355339059327378";"12";958.21900000000;floodplain
+"653";1015;4;moderately high natural levee;"3";4;"1";"4";612.23400000000;high natural levee
+"654";1016;5;rivers and streams;"2";3.5;"0.70710678118654757";"0";118.33000000000;water
+"655";1017;3;moderately high natural levee (uncertain);"2";4.5;"0.70710678118654757";"5";174.49300000000;high natural levee
+"656";1018;2;rivers and streams;"2";4;"1.4142135623730951";"0";118.33000000000;water
+"657";1019;3;low floodplain;;;;"12";958.21900000000;floodplain
+"658";1020;7;rivers and streams;;;;"0";118.33000000000;water
+"659";1021;3;moderately high natural levee (uncertain);"3";2.66666666666667;"0.57735026918962629";"5";174.49300000000;high natural levee
+"660";1022;6;low floodplain;"4";4.75;"1.8929694486000912";"12";958.21900000000;floodplain
+"661";1023;6;low natural levee;"5";5.2;"1.3038404810405309";"7";628.67200000000;low natural levee
+"662";1025;5;moderately high natural levee;"5";5.2;"1.7888543819998326";"4";612.23400000000;high natural levee
+"663";1026;1;high floodplain;;;;"11";257.74600000000;floodplain
+"664";1027;6;low natural levee;"1";4;#DIV/0!;"7";628.67200000000;low natural levee
+"665";1028;4;low floodplain (uncertain);"1";6;#DIV/0!;"13";330.41500000000;floodplain
+"666";1029;6;moderately high natural levee;"3";4.66666666666667;"2.5166114784235836";"4";612.23400000000;high natural levee
+"667";1031;3;low natural levee;"6";4.66666666666667;"1.366260102127947";"7";628.67200000000;low natural levee
+"668";1032;3;moderately high natural levee;"5";4.6;"1.5165750888103104";"4";612.23400000000;high natural levee
+"669";1033;5;moderately high natural levee;"8";4.125;"1.5526475085202969";"4";612.23400000000;high natural levee
+"670";1034;6;low natural levee;"8";3.75;"1.6690459207925603";"7";628.67200000000;low natural levee
+"671";1035;2;moderately high natural levee;"8";4.625;"2.0658792662827961";"4";612.23400000000;high natural levee
+"672";1036;2;moderately high natural levee;"7";4.28571428571429;"2.5634797778466227";"4";612.23400000000;high natural levee
+"673";1038;5;moderately high natural levee;"5";5.2;"0.44721359549996109";"4";612.23400000000;high natural levee
+"674";1039;5;moderately high natural levee;"2";5;"0";"4";612.23400000000;high natural levee
+"675";1040;6;low natural levee;"5";5.2;"1.4832396974191335";"7";628.67200000000;low natural levee
+"676";1041;6;low natural levee;"4";5.75;"0.9574271077563381";"7";628.67200000000;low natural levee
+"677";1042;5;moderately high natural levee;"6";3.5;"2.7386127875258306";"4";612.23400000000;high natural levee
+"678";1043;7;moderately high natural levee;"6";3.16666666666667;"2.3166067138525408";"4";612.23400000000;high natural levee
+"679";1044;1;moderately high natural levee;"5";4.6;"2.5099800796022267";"4";612.23400000000;high natural levee
+"680";1046;5;coversands;"1";5;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"681";1051;5;coversands;"5";3.4;"2.5099800796022267";"28";1532.04000000000;Pleistocene sands
+"682";1052;6;fluvial terraces;"6";3.83333333333333;"2.5625508125043424";"32";351.08200000000;fluvial terraces
+"683";1053;3;coversands;"4";6;"0.81649658092772603";"28";1532.04000000000;Pleistocene sands
+"684";1054;1;fluvial terraces;"5";5;"2.3452078799117149";"32";351.08200000000;fluvial terraces
+"685";1056;7;coversands;"3";5;"1.7320508075688772";"28";1532.04000000000;Pleistocene sands
+"686";1058;6;coversands;"3";5.33333333333333;"2.0816659994661335";"28";1532.04000000000;Pleistocene sands
+"687";1060;6;coversands;"2";6.5;"0.70710678118654757";"28";1532.04000000000;Pleistocene sands
+"688";1064;1;fluvial terraces;"4";3.5;"1.2909944487358056";"32";351.08200000000;fluvial terraces
+"689";1065;3;fluvial terraces;"1";1;#DIV/0!;"32";351.08200000000;fluvial terraces
+"690";1069;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"691";1070;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"692";1071;3;high natural levee;;;;"1";30.20850000000;high natural levee
+"693";1072;5;low natural levee;"2";2.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"694";1073;3;high natural levee;"2";3.5;"2.1213203435596424";"1";30.20850000000;high natural levee
+"695";1075;7;fluvial terraces;"6";5;"1.7888543819998317";"32";351.08200000000;fluvial terraces
+"696";1076;7;high Pleistocene sands;"3";4;"2.6457513110645907";"25";583.69700000000;Pleistocene sands
+"697";1079;5;high Pleistocene sands;"2";5;"1.4142135623730951";"25";583.69700000000;Pleistocene sands
+"698";1080;3;low natural levee;"2";4.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"699";1083;2;low natural levee;"3";5.33333333333333;"1.1547005383792526";"7";628.67200000000;low natural levee
+"700";1087;2;low natural levee;"1";6;#DIV/0!;"7";628.67200000000;low natural levee
+"701";1088;3;low natural levee;"2";3.5;"2.1213203435596424";"7";628.67200000000;low natural levee
+"702";1094;4;fluvial terraces;"1";5;#DIV/0!;"32";351.08200000000;fluvial terraces
+"703";1095;1;moderately high natural levee;"2";3;"1.4142135623730951";"4";612.23400000000;high natural levee
+"704";1096;4;moderately high natural levee;"3";1.66666666666667;"0.57735026918962551";"4";612.23400000000;high natural levee
+"705";1098;2;moderately high natural levee;"5";3.4;"2.3021728866442679";"4";612.23400000000;high natural levee
+"706";1099;2;moderately high natural levee;"4";4;"2.1602468994692869";"4";612.23400000000;high natural levee
+"707";1100;3;moderately high natural levee;"6";4;"2.3664319132398464";"4";612.23400000000;high natural levee
+"708";1101;3;moderately high natural levee;"3";4.33333333333333;"2.3094010767585029";"4";612.23400000000;high natural levee
+"709";1102;3;moderately high natural levee;"5";5.2;"2.0493901531919203";"4";612.23400000000;high natural levee
+"710";1104;7;moderately high natural levee;"6";4.66666666666667;"1.8618986725025259";"4";612.23400000000;high natural levee
+"711";1106;3;fluvial terraces;;;;"32";351.08200000000;fluvial terraces
+"712";1108;3;high Pleistocene sands;"1";7;#DIV/0!;"25";583.69700000000;Pleistocene sands
+"713";1111;6;fluvial terraces;"3";5;"2.6457513110645907";"32";351.08200000000;fluvial terraces
+"714";1116;2;low natural levee;"4";4.75;"0.9574271077563381";"7";628.67200000000;low natural levee
+"715";1120;3;moderately high natural levee;"1";1;#DIV/0!;"4";612.23400000000;high natural levee
+"716";1121;5;moderately high natural levee;"3";4;"2.6457513110645907";"4";612.23400000000;high natural levee
+"717";1122;2;moderately high natural levee;"4";4.5;"1.9148542155126762";"4";612.23400000000;high natural levee
+"718";1123;7;moderately high natural levee;"4";3.25;"1.2583057392117916";"4";612.23400000000;high natural levee
+"719";1124;7;coversands;"9";3.66666666666667;"2.179449471770337";"28";1532.04000000000;Pleistocene sands
+"720";1125;3;moderately high natural levee;"3";3;"1";"4";612.23400000000;high natural levee
+"721";1126;3;low natural levee;"6";3.5;"1.8708286933869707";"7";628.67200000000;low natural levee
+"722";1127;3;moderately high natural levee;"4";4.25;"2.2173557826083452";"4";612.23400000000;high natural levee
+"723";1128;5;low natural levee;"3";4.33333333333333;"1.5275252316519463";"7";628.67200000000;low natural levee
+"724";1130;4;moderately high natural levee;"5";4.4;"1.1401754250991383";"4";612.23400000000;high natural levee
+"725";1131;4;moderately high natural levee;"5";4;"1.2247448713915889";"4";612.23400000000;high natural levee
+"726";1132;3;low natural levee;"6";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"727";1133;5;moderately high natural levee;"5";3.6;"1.5165750888103104";"4";612.23400000000;high natural levee
+"728";1135;2;low natural levee;"5";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"729";1136;3;low natural levee;"6";3.33333333333333;"1.8618986725025253";"7";628.67200000000;low natural levee
+"730";1138;3;coversands;"2";4.5;"3.5355339059327378";"28";1532.04000000000;Pleistocene sands
+"731";1139;2;low natural levee;"5";4.2;"1.9235384061671343";"7";628.67200000000;low natural levee
+"732";1143;6;fluvial terraces;"5";4.8;"1.9235384061671343";"32";351.08200000000;fluvial terraces
+"733";1144;4;coversands;"5";4.4;"2.3021728866442679";"28";1532.04000000000;Pleistocene sands
+"734";1145;2;fluvial terraces;"1";2;#DIV/0!;"32";351.08200000000;fluvial terraces
+"735";1146;3;fluvial terraces;"1";7;#DIV/0!;"32";351.08200000000;fluvial terraces
+"736";1148;7;fluvial terraces;"1";3;#DIV/0!;"32";351.08200000000;fluvial terraces
+"737";1151;2;fluvial terraces;;;;"32";351.08200000000;fluvial terraces
+"738";1152;6;fluvial terraces;"7";3.42857142857143;"2.2253945610567469";"32";351.08200000000;fluvial terraces
+"739";1154;6;coversands;"8";4.375;"2.4458419526091331";"28";1532.04000000000;Pleistocene sands
+"740";1156;2;coversands;"9";4.66666666666667;"2.2360679774997898";"28";1532.04000000000;Pleistocene sands
+"741";1158;2;river dunes;"5";4.2;"2.16794833886788";"31";10.53170000000;high natural levee
+"742";1159;3;river dunes;"6";4.33333333333333;"2.2509257354845507";"31";10.53170000000;high natural levee
+"743";1160;6;moderately high natural levee (uncertain);;;;"5";174.49300000000;high natural levee
+"744";1163;2;fluvial terraces;"6";5;"1.7888543819998317";"32";351.08200000000;fluvial terraces
+"745";1164;5;fluvial terraces;"5";4.2;"2.2803508501982757";"32";351.08200000000;fluvial terraces
+"746";1166;1;fluvial terraces;"5";5.4;"2.5099800796022262";"32";351.08200000000;fluvial terraces
+"747";1168;7;fluvial terraces;"5";4;"2.8284271247461903";"32";351.08200000000;fluvial terraces
+"748";1169;3;fluvial terraces;"3";3.66666666666667;"0.57735026918962473";"32";351.08200000000;fluvial terraces
+"749";1170;4;fluvial terraces;"6";3.83333333333333;"0.75277265270908045";"32";351.08200000000;fluvial terraces
+"750";1172;2;fluvial terraces;"2";1.5;"0.70710678118654757";"32";351.08200000000;fluvial terraces
+"751";1173;6;fluvial terraces;"2";1;"0";"32";351.08200000000;fluvial terraces
+"752";1178;2;moderately high natural levee (uncertain);"1";2;#DIV/0!;"5";174.49300000000;high natural levee
+"753";1179;2;moderately high natural levee (uncertain);"1";2;#DIV/0!;"5";174.49300000000;high natural levee
+"754";2003;1;low natural levee (uncertain);"7";6;"1.1547005383792515";"8";69.83340000000;low natural levee
+"755";2004;5;low floodplain;"15";4.46666666666667;"1.7674302033770739";"12";958.21900000000;floodplain
+"756";2006;5;high natural levee;"9";4;"0.8660254037844386";"1";30.20850000000;high natural levee
+"757";2007;1;low floodplain;"1";1;#DIV/0!;"12";958.21900000000;floodplain
+"758";2008;2;low natural levee;"4";4.75;"1.2583057392117916";"7";628.67200000000;low natural levee
+"759";2009;5;moderately high natural levee;"7";4.14285714285714;"1.8644544714716089";"4";612.23400000000;high natural levee
+"760";2012;6;moderately high natural levee (uncertain);"5";4.2;"0.83666002653407512";"5";174.49300000000;high natural levee
+"761";2013;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"762";2014;1;low floodplain;;;;"12";958.21900000000;floodplain
+"763";2015;3;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"764";2016;3;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"765";2019;1;high Pleistocene sands;;;;"25";583.69700000000;Pleistocene sands
+"766";2020;2;coversands;"1";1;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"767";2021;1;coversands;"1";2;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"768";2022;3;high Pleistocene sands;;;;"25";583.69700000000;Pleistocene sands
+"769";2023;2;high Pleistocene sands;;;;"25";583.69700000000;Pleistocene sands
+"770";2024;3;coversands;;;;"28";1532.04000000000;Pleistocene sands
+"771";2025;3;moderately high natural levee;"6";3.83333333333333;"1.7224014243685082";"4";612.23400000000;high natural levee
+"772";2026;1;coversands;;;;"28";1532.04000000000;Pleistocene sands
+"773";2027;2;moderately high natural levee;"1";6;#DIV/0!;"4";612.23400000000;high natural levee
+"774";2028;3;low floodplain;"10";3.7;"1.8287822299126935";"12";958.21900000000;floodplain
+"775";2029;3;moderately high natural levee;"13";3.92307692307692;"2.0191391920625676";"4";612.23400000000;high natural levee
+"776";2030;3;moderately high natural levee;"11";3.90909090909091;"1.7580981459830651";"4";612.23400000000;high natural levee
+"777";2031;1;low floodplain;"5";4.4;"1.1401754250991383";"12";958.21900000000;floodplain
+"778";2033;1;moderately high natural levee;"1";1;#DIV/0!;"4";612.23400000000;high natural levee
+"779";2034;1;high Pleistocene sands;"3";1;"0";"25";583.69700000000;Pleistocene sands
+"780";2035;1;high Pleistocene sands;"4";1;"0";"25";583.69700000000;Pleistocene sands
+"781";2036;1;high Pleistocene sands;"5";1;"0";"25";583.69700000000;Pleistocene sands
+"782";2037;1;high Pleistocene sands;"6";1.33333333333333;"0.81649658092772603";"25";583.69700000000;Pleistocene sands
+"783";2038;1;high Pleistocene sands;"6";1.16666666666667;"0.40824829046386318";"25";583.69700000000;Pleistocene sands
+"784";2039;1;high Pleistocene sands;"6";1.33333333333333;"0.51639777949432231";"25";583.69700000000;Pleistocene sands
+"785";2040;2;high Pleistocene sands;"4";1.25;"0.5";"25";583.69700000000;Pleistocene sands
+"786";2041;1;high Pleistocene sands;"4";1.5;"0.57735026918962573";"25";583.69700000000;Pleistocene sands
+"787";2042;2;high Pleistocene sands;"3";1.33333333333333;"0.57735026918962584";"25";583.69700000000;Pleistocene sands
+"788";2043;3;high Pleistocene sands;"2";3.5;"2.1213203435596424";"25";583.69700000000;Pleistocene sands
+"789";2044;5;high Pleistocene sands;"2";2.5;"0.70710678118654757";"25";583.69700000000;Pleistocene sands
+"790";2045;2;high Pleistocene sands;"2";4;"1.4142135623730951";"25";583.69700000000;Pleistocene sands
+"791";2046;1;high Pleistocene sands;"4";1.75;"0.5";"25";583.69700000000;Pleistocene sands
+"792";2047;2;high Pleistocene sands;"5";1.6;"0.54772255750516596";"25";583.69700000000;Pleistocene sands
+"793";2048;2;high Pleistocene sands;"5";1.6;"0.54772255750516596";"25";583.69700000000;Pleistocene sands
+"794";2049;1;high Pleistocene sands;"5";1.8;"0.44721359549995815";"25";583.69700000000;Pleistocene sands
+"795";2050;2;high Pleistocene sands;"4";1.5;"0.57735026918962573";"25";583.69700000000;Pleistocene sands
+"796";2051;2;high Pleistocene sands;"3";1.66666666666667;"0.57735026918962551";"25";583.69700000000;Pleistocene sands
+"797";2052;2;coversands;"1";3;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"798";2053;3;high Pleistocene sands;"1";2;#DIV/0!;"25";583.69700000000;Pleistocene sands
+"799";2054;1;moderately high natural levee (uncertain);"1";4;#DIV/0!;"5";174.49300000000;high natural levee
+"800";2055;4;moderately high natural levee (uncertain);"1";1;#DIV/0!;"5";174.49300000000;high natural levee
+"801";2057;3;low natural levee (uncertain);"4";2.75;"2.8722813232690143";"8";69.83340000000;low natural levee
+"802";2058;2;high floodplain;"2";2;"1.4142135623730951";"11";257.74600000000;floodplain
+"803";2062;3;low floodplain;"9";4.22222222222222;"1.7159383568311664";"12";958.21900000000;floodplain
+"804";2063;4;low natural levee;"4";3.25;"1.2583057392117916";"7";628.67200000000;low natural levee
+"805";2064;3;moderately high natural levee;"8";4.375;"1.5059406173077154";"4";612.23400000000;high natural levee
+"806";2065;5;low natural levee;"7";4.14285714285714;"1.5735915849388864";"7";628.67200000000;low natural levee
+"807";2066;4;moderately high natural levee;"5";5.2;"1.0954451150103335";"4";612.23400000000;high natural levee
+"808";2067;4;moderately high natural levee;"2";4.5;"2.1213203435596424";"4";612.23400000000;high natural levee
+"809";2068;1;low natural levee;"5";5;"1.4142135623730951";"7";628.67200000000;low natural levee
+"810";2070;3;moderately high natural levee;"8";3.25;"1.3887301496588271";"4";612.23400000000;high natural levee
+"811";2071;3;moderately high natural levee;"9";3.11111111111111;"1.3642254619787415";"4";612.23400000000;high natural levee
+"812";2072;2;low floodplain;"2";3.5;"0.70710678118654757";"12";958.21900000000;floodplain
+"813";2073;5;low natural levee;"5";2.4;"0.89442719099991574";"7";628.67200000000;low natural levee
+"814";2074;3;moderately high natural levee;"2";3;"0";"4";612.23400000000;high natural levee
+"815";2077;1;moderately high natural levee;"5";4;"1.4142135623730951";"4";612.23400000000;high natural levee
+"816";2078;6;low floodplain;;;;"12";958.21900000000;floodplain
+"817";2080;3;high Pleistocene sands;"2";2.5;"0.70710678118654757";"25";583.69700000000;Pleistocene sands
+"818";2083;3;coversands;"2";2.5;"0.70710678118654757";"28";1532.04000000000;Pleistocene sands
+"819";2084;2;high Pleistocene sands;"2";3;"0";"25";583.69700000000;Pleistocene sands
+"820";2086;3;high Pleistocene sands;"1";2;#DIV/0!;"25";583.69700000000;Pleistocene sands
+"821";2087;2;high Pleistocene sands;"1";3;#DIV/0!;"25";583.69700000000;Pleistocene sands
+"822";2088;4;low natural levee;"2";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"823";2089;3;moderately high natural levee;"4";4;"1.1547005383792515";"4";612.23400000000;high natural levee
+"824";2091;5;low natural levee;"3";5.33333333333333;"1.1547005383792526";"7";628.67200000000;low natural levee
+"825";2092;6;moderately high natural levee;"2";4;"2.8284271247461903";"4";612.23400000000;high natural levee
+"826";2095;6;low natural levee;"2";3.5;"3.5355339059327378";"7";628.67200000000;low natural levee
+"827";2096;1;river dunes;"2";6;"0";"31";10.53170000000;high natural levee
+"828";2097;6;river dunes;"2";3.5;"3.5355339059327378";"31";10.53170000000;high natural levee
+"829";2098;6;low natural levee;;;;"7";628.67200000000;low natural levee
+"830";2099;3;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"831";2100;2;low natural levee;;;;"7";628.67200000000;low natural levee
+"832";2102;3;low natural levee;;;;"7";628.67200000000;low natural levee
+"833";2103;6;moderately high natural levee;"3";5.33333333333333;"2.0816659994661335";"4";612.23400000000;high natural levee
+"834";2105;2;low natural levee;"2";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"835";2106;7;coversands;"1";3;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"836";2107;4;high Pleistocene sands;"2";5.5;"0.70710678118654757";"25";583.69700000000;Pleistocene sands
+"837";2108;6;high Pleistocene sands;"2";4.5;"0.70710678118654757";"25";583.69700000000;Pleistocene sands
+"838";2111;2;fluvial terraces;"1";2;#DIV/0!;"32";351.08200000000;fluvial terraces
+"839";2112;5;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"840";2113;1;coversands;"3";3.66666666666667;"1.5275252316519463";"28";1532.04000000000;Pleistocene sands
+"841";2114;2;fluvial terraces;"2";2;"0";"32";351.08200000000;fluvial terraces
+"842";2115;1;fluvial terraces;"5";4.6;"2.8809720581775866";"32";351.08200000000;fluvial terraces
+"843";2116;4;fluvial terraces;"1";5;#DIV/0!;"32";351.08200000000;fluvial terraces
+"844";2117;6;fluvial terraces;"4";5;"2.8284271247461903";"32";351.08200000000;fluvial terraces
+"845";2118;1;fluvial terraces;;;;"32";351.08200000000;fluvial terraces
+"846";2120;4;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"847";2121;3;fluvial terraces;"1";4;#DIV/0!;"32";351.08200000000;fluvial terraces
+"848";2122;3;rivers and streams;"2";2.5;"0.70710678118654757";"0";118.33000000000;water
+"849";2123;1;fluvial terraces;"5";5;"2.3452078799117149";"32";351.08200000000;fluvial terraces
+"850";2124;6;coversands;"11";3.90909090909091;"2.1191765124474862";"28";1532.04000000000;Pleistocene sands
+"851";2125;1;coversands;"7";4.57142857142857;"1.9880595947760102";"28";1532.04000000000;Pleistocene sands
+"852";2126;1;moderately high natural levee;"4";4;"1.1547005383792515";"4";612.23400000000;high natural levee
+"853";2129;3;river dunes;"2";3;"0";"31";10.53170000000;high natural levee
+"854";2132;2;river dunes;"1";3;#DIV/0!;"31";10.53170000000;high natural levee
+"855";2135;1;low natural levee;"6";5.16666666666667;"1.3291601358251264";"7";628.67200000000;low natural levee
+"856";2142;6;high Pleistocene sands;;;;"25";583.69700000000;Pleistocene sands
+"857";2144;5;low natural levee;"5";3.6;"1.8165902124584952";"7";628.67200000000;low natural levee
+"858";2145;2;low natural levee;"8";4.375;"1.7677669529663689";"7";628.67200000000;low natural levee
+"859";2146;6;moderately high natural levee;"8";4.375;"1.8468119248354136";"4";612.23400000000;high natural levee
+"860";2147;2;moderately high natural levee;"4";5;"2.8284271247461903";"4";612.23400000000;high natural levee
+"861";2155;3;coversands;"1";4;#DIV/0!;"28";1532.04000000000;Pleistocene sands
+"862";2156;2;fluvial terraces;"2";1.5;"0.70710678118654757";"32";351.08200000000;fluvial terraces
+"863";2157;1;fluvial terraces;"2";2;"0";"32";351.08200000000;fluvial terraces
+"864";2160;1;low natural levee;"2";4.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"865";2161;2;low natural levee;"5";3;"0.70710678118654757";"7";628.67200000000;low natural levee
+"866";2162;3;moderately high natural levee;"3";2.33333333333333;"0.57735026918962629";"4";612.23400000000;high natural levee
+"867";2163;2;low natural levee;"5";3.4;"2.0736441353327724";"7";628.67200000000;low natural levee
+"868";2164;1;low natural levee;"6";3.5;"1.8708286933869707";"7";628.67200000000;low natural levee
+"869";2165;2;low natural levee;"8";3.375;"1.9226098333849673";"7";628.67200000000;low natural levee
+"870";2166;2;coversands;"2";3;"2.8284271247461903";"28";1532.04000000000;Pleistocene sands
+"871";2167;5;coversands;"2";1.5;"0.70710678118654757";"28";1532.04000000000;Pleistocene sands
+"872";2168;1;coversands;"2";3.5;"2.1213203435596424";"28";1532.04000000000;Pleistocene sands
+"873";2169;2;coversands;"2";4;"1.4142135623730951";"28";1532.04000000000;Pleistocene sands
+"874";2170;3;low natural levee;"8";3.5;"0.7559289460184544";"7";628.67200000000;low natural levee
+"875";2171;1;moderately high natural levee;"2";3.5;"2.1213203435596424";"4";612.23400000000;high natural levee
+"876";2173;5;low floodplain;"2";4;"2.8284271247461903";"12";958.21900000000;floodplain
+"877";2174;2;moderately high natural levee (uncertain);;;;"5";174.49300000000;high natural levee
+"878";2175;4;rivers and streams;;;;"0";118.33000000000;water
+"879";2176;7;rivers and streams;"1";1;#DIV/0!;"0";118.33000000000;water
+"880";2177;1;low natural levee (uncertain);;;;"8";69.83340000000;low natural levee
+"881";2178;3;high floodplain;;;;"11";257.74600000000;floodplain
+"882";2179;3;high floodplain;"2";3;"0";"11";257.74600000000;floodplain
+"883";2180;3;high floodplain;"1";3;#DIV/0!;"11";257.74600000000;floodplain
+"884";2181;5;low natural levee;"2";2.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"885";2182;3;low natural levee;"2";4;"1.4142135623730951";"7";628.67200000000;low natural levee
+"886";2183;1;moderately high natural levee;"3";2.66666666666667;"2.0816659994661331";"4";612.23400000000;high natural levee
+"887";2184;1;low natural levee;"4";2.25;"1.8929694486000912";"7";628.67200000000;low natural levee
+"888";2185;3;high floodplain;"3";3.33333333333333;"1.154700538379251";"11";257.74600000000;floodplain
+"889";2186;1;low floodplain;"6";3.66666666666667;"2.4221202832779931";"12";958.21900000000;floodplain
+"890";2187;1;low natural levee;"5";1.6;"0.89442719099991574";"7";628.67200000000;low natural levee
+"891";2190;1;moderately high natural levee;"4";3.5;"1";"4";612.23400000000;high natural levee
+"892";3002;1;eutrophic peatlands;"1";1;#DIV/0!;"14";811.00900000000;peatlands
+"893";3003;1;dunes and beach ridges;"1";1;#DIV/0!;"20";192.17200000000;dunes and beaches
+"894";3007;1;dunes and beach ridges;"1";2;#DIV/0!;"20";192.17200000000;dunes and beaches
+"895";3009;1;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"896";3011;2;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"897";3016;4;dunes and beach ridges;"2";2;"1.4142135623730951";"20";192.17200000000;dunes and beaches
+"898";3017;1;dunes and beach ridges;"3";4.33333333333333;"1.5275252316519463";"20";192.17200000000;dunes and beaches
+"899";3018;6;moderately high natural levee;"2";2;"1.4142135623730951";"4";612.23400000000;high natural levee
+"900";3019;2;low floodplain;"1";1;#DIV/0!;"12";958.21900000000;floodplain
+"901";3021;3;dunes and beach ridges;"3";3.66666666666667;"2.5166114784235831";"20";192.17200000000;dunes and beaches
+"902";3025;2;dunes and beach ridges;"2";3.5;"2.1213203435596424";"20";192.17200000000;dunes and beaches
+"903";3029;2;high floodplain;"2";3.5;"2.1213203435596424";"11";257.74600000000;floodplain
+"904";3030;3;low natural levee;"2";1;"0";"7";628.67200000000;low natural levee
+"905";3031;1;low natural levee (uncertain);"5";1.6;"0.89442719099991574";"8";69.83340000000;low natural levee
+"906";3032;2;low natural levee;"3";1;"0";"7";628.67200000000;low natural levee
+"907";3033;1;low floodplain;"4";1.5;"0.57735026918962573";"12";958.21900000000;floodplain
+"908";3034;1;moderately high natural levee (uncertain);"7";2.28571428571429;"1.7994708216848749";"5";174.49300000000;high natural levee
+"909";3035;1;low natural levee (uncertain);"5";2.6;"2.0736441353327724";"8";69.83340000000;low natural levee
+"910";3037;3;moderately high natural levee (uncertain);"4";3;"2.1602468994692869";"5";174.49300000000;high natural levee
+"911";3039;3;moderately high natural levee;"3";3.66666666666667;"2.0816659994661326";"4";612.23400000000;high natural levee
+"912";3043;1;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"913";3044;5;moderately high natural levee;"2";1.5;"0.70710678118654757";"4";612.23400000000;high natural levee
+"914";3045;2;moderately high natural levee (uncertain);"6";2.5;"1.9748417658131499";"5";174.49300000000;high natural levee
+"915";3046;1;moderately high natural levee;"5";2.8;"1.7888543819998315";"4";612.23400000000;high natural levee
+"916";3051;6;dunes and beach ridges;"1";5;#DIV/0!;"20";192.17200000000;dunes and beaches
+"917";3052;2;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"918";3056;2;dunes and beach ridges;"1";3;#DIV/0!;"20";192.17200000000;dunes and beaches
+"919";3057;3;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"920";3059;2;dunes and beach ridges;"1";6;#DIV/0!;"20";192.17200000000;dunes and beaches
+"921";3061;2;dunes and beach ridges;"1";3;#DIV/0!;"20";192.17200000000;dunes and beaches
+"922";3062;3;low floodplain;;;;"12";958.21900000000;floodplain
+"923";3063;6;moderately high natural levee;"2";3;"2.8284271247461903";"4";612.23400000000;high natural levee
+"924";3064;2;low natural levee;"1";1;#DIV/0!;"7";628.67200000000;low natural levee
+"925";3065;4;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"926";3068;2;low floodplain;"1";2;#DIV/0!;"12";958.21900000000;floodplain
+"927";3069;2;moderately high natural levee;"3";4.33333333333333;"2.0816659994661326";"4";612.23400000000;high natural levee
+"928";3070;6;moderately high natural levee;"1";2;#DIV/0!;"4";612.23400000000;high natural levee
+"929";3071;6;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"930";3072;5;moderately high natural levee;"1";6;#DIV/0!;"4";612.23400000000;high natural levee
+"931";3074;6;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"932";3076;3;moderately high natural levee;;;;"4";612.23400000000;high natural levee
+"933";3080;2;eutrophic peatlands;;;;"14";811.00900000000;peatlands
+"934";3081;2;dunes and beach ridges;"1";5;#DIV/0!;"20";192.17200000000;dunes and beaches
+"935";3083;1;dunes and beach ridges;"1";2;#DIV/0!;"20";192.17200000000;dunes and beaches
+"936";3084;2;dunes and beach ridges;"3";1;"0";"20";192.17200000000;dunes and beaches
+"937";3085;1;dunes and beach ridges;"2";1.5;"0.70710678118654757";"20";192.17200000000;dunes and beaches
+"938";3086;1;dunes and beach ridges;"2";1.5;"0.70710678118654757";"20";192.17200000000;dunes and beaches
+"939";3087;2;eutrophic peatlands;;;;"14";811.00900000000;peatlands
+"940";3089;6;low floodplain;"4";5.25;"1.707825127659933";"12";958.21900000000;floodplain
+"941";3091;3;low floodplain;"9";4.33333333333333;"2.2912878474779199";"12";958.21900000000;floodplain
+"942";3092;6;moderately high natural levee;"8";4.375;"2.1339098923270936";"4";612.23400000000;high natural levee
+"943";3093;4;low floodplain;"7";3.85714285714286;"2.6095064302514777";"12";958.21900000000;floodplain
+"944";3094;1;dunes and beach ridges;"9";3.88888888888889;"2.1473497877875207";"20";192.17200000000;dunes and beaches
+"945";3095;1;dunes and beach ridges;"6";3.83333333333333;"2.1369760566432805";"20";192.17200000000;dunes and beaches
+"946";3096;7;moderately high natural levee;"8";2.75;"1.4880476182856899";"4";612.23400000000;high natural levee
+"947";3097;7;moderately high natural levee;"5";3.4;"2.5099800796022267";"4";612.23400000000;high natural levee
+"948";3098;1;moderately high natural levee;"6";5.16666666666667;"2.1369760566432814";"4";612.23400000000;high natural levee
+"949";3099;7;low natural levee;"4";4;"2.9439202887759488";"7";628.67200000000;low natural levee
+"950";3100;2;low natural levee;"6";5;"2.4494897427831779";"7";628.67200000000;low natural levee
+"951";3101;6;low natural levee;"3";3.33333333333333;"3.214550253664318";"7";628.67200000000;low natural levee
+"952";3102;7;moderately high natural levee;"1";2;#DIV/0!;"4";612.23400000000;high natural levee
+"953";3103;5;dunes and beach ridges;"1";7;#DIV/0!;"20";192.17200000000;dunes and beaches
+"954";3104;5;moderately high natural levee;"1";3;#DIV/0!;"4";612.23400000000;high natural levee
+"955";3105;3;moderately high natural levee;"1";5;#DIV/0!;"4";612.23400000000;high natural levee
+"956";3107;2;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"957";3108;2;dunes and beach ridges;"1";7;#DIV/0!;"20";192.17200000000;dunes and beaches
+"958";3110;4;low floodplain;"2";3;"2.8284271247461903";"12";958.21900000000;floodplain
+"959";3111;5;dunes and beach ridges;"2";5;"1.4142135623730951";"20";192.17200000000;dunes and beaches
+"960";3112;3;moderately high natural levee;"1";4;#DIV/0!;"4";612.23400000000;high natural levee
+"961";3113;6;low natural levee;"5";4.6;"1.1401754250991383";"7";628.67200000000;low natural levee
+"962";3117;3;high natural levee;"5";2.6;"1.8165902124584952";"1";30.20850000000;high natural levee
+"963";3119;5;high natural levee;"8";2.375;"1.8468119248354136";"1";30.20850000000;high natural levee
+"964";3120;1;high natural levee;"5";3;"1.5811388300841898";"1";30.20850000000;high natural levee
+"965";3121;2;high natural levee;"7";3;"2.0816659994661326";"1";30.20850000000;high natural levee
+"966";3125;6;high natural levee;;;;"1";30.20850000000;high natural levee
+"967";3126;1;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"968";3128;6;moderately high natural levee (uncertain);"5";2;"1";"5";174.49300000000;high natural levee
+"969";3129;5;low natural levee (uncertain);"3";3.33333333333333;"2.3094010767585029";"8";69.83340000000;low natural levee
+"970";3137;5;eutrophic peatlands;"1";2;#DIV/0!;"14";811.00900000000;peatlands
+"971";3141;1;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"972";3143;6;eutrophic peatlands;"1";2;#DIV/0!;"14";811.00900000000;peatlands
+"973";3145;1;low floodplain;"1";2;#DIV/0!;"12";958.21900000000;floodplain
+"974";3146;1;moderately high natural levee;"1";6;#DIV/0!;"4";612.23400000000;high natural levee
+"975";3147;3;low natural levee;;;;"7";628.67200000000;low natural levee
+"976";3154;1;low natural levee;"2";2.5;"0.70710678118654757";"7";628.67200000000;low natural levee
+"977";3155;3;dunes and beach ridges;"1";2;#DIV/0!;"20";192.17200000000;dunes and beaches
+"978";3156;1;low natural levee (uncertain);"2";2;"1.4142135623730951";"8";69.83340000000;low natural levee
+"979";3157;3;low natural levee (uncertain);"3";1.33333333333333;"0.57735026918962584";"8";69.83340000000;low natural levee
+"980";3158;1;low floodplain (uncertain);"2";2;"1.4142135623730951";"13";330.41500000000;floodplain
+"981";3159;2;low natural levee;"2";2;"1.4142135623730951";"7";628.67200000000;low natural levee
+"982";3160;1;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"983";3161;1;dunes and beach ridges;;;;"20";192.17200000000;dunes and beaches
+"984";3163;5;dunes and beach ridges;"1";6;#DIV/0!;"20";192.17200000000;dunes and beaches
+"985";3172;6;moderately high natural levee;"9";4.33333333333333;"2.1213203435596424";"4";612.23400000000;high natural levee
+"986";3173;7;low floodplain;"8";4.125;"1.807721533549109";"12";958.21900000000;floodplain
+"987";3174;2;low natural levee;"6";4.33333333333333;"2.503331114069145";"7";628.67200000000;low natural levee
+"988";4001;2;high floodplain;"3";2;"1";"11";257.74600000000;floodplain
+"989";4002;2;low floodplain;"5";3;"1.8708286933869707";"12";958.21900000000;floodplain
+"990";4003;2;low floodplain;"7";4.28571428571429;"1.9760470401187069";"12";958.21900000000;floodplain
+"991";4004;2;low floodplain;"6";3.33333333333333;"2.4221202832779931";"12";958.21900000000;floodplain
+"992";4005;5;moderately high natural levee (uncertain);"1";6;#DIV/0!;"5";174.49300000000;high natural levee
+"993";4017;5;moderately high natural levee;"4";3.5;"1.7320508075688772";"4";612.23400000000;high natural levee
+"994";4019;2;moderately high natural levee;"4";3.25;"2.6299556396765835";"4";612.23400000000;high natural levee
+"995";4071;1;low floodplain (uncertain);"8";3.75;"1.9086270308410553";"13";330.41500000000;floodplain
+"996";4072;6;low floodplain;"7";3.28571428571429;"1.9760470401187076";"12";958.21900000000;floodplain
+"997";4073;3;low floodplain;"7";3.14285714285714;"2.0354009783964297";"12";958.21900000000;floodplain
+"998";4074;5;low natural levee;"8";3;"2";"7";628.67200000000;low natural levee
+"999";4075;5;low natural levee;"5";4.6;"1.5165750888103104";"7";628.67200000000;low natural levee
+"1000";4076;3;low floodplain (uncertain);"6";4.83333333333333;"2.2286019533929045";"13";330.41500000000;floodplain
+"1001";4077;4;moderately high natural levee;"7";4.14285714285714;"2.3401261667248794";"4";612.23400000000;high natural levee
+"1002";4078;3;low floodplain (uncertain);"3";3;"2.6457513110645907";"13";330.41500000000;floodplain
+"1003";4079;6;low floodplain (uncertain);"3";2;"1";"13";330.41500000000;floodplain
+"1004";4080;5;low natural levee (uncertain);"2";5.5;"0.70710678118654757";"8";69.83340000000;low natural levee
+"1005";4081;5;low natural levee;"5";4.2;"1.6431676725154982";"7";628.67200000000;low natural levee
+"1006";4083;6;low floodplain;"2";5;"0";"12";958.21900000000;floodplain
+"1007";4084;3;low floodplain;"3";5.33333333333333;"0.57735026918962784";"12";958.21900000000;floodplain
+"1008";4085;6;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"1009";4086;6;low natural levee;"1";3;#DIV/0!;"7";628.67200000000;low natural levee
+"1010";4087;3;low natural levee;"1";6;#DIV/0!;"7";628.67200000000;low natural levee
+"1011";4089;5;low natural levee (uncertain);"3";6.66666666666667;"0.57735026918962162";"8";69.83340000000;low natural levee
+"1012";4090;6;low floodplain (uncertain);"1";3;#DIV/0!;"13";330.41500000000;floodplain
+"1013";4092;7;low natural levee (uncertain);"3";6.33333333333333;"1.1547005383792526";"8";69.83340000000;low natural levee
+"1014";4093;7;low floodplain;"3";6.33333333333333;"1.1547005383792526";"12";958.21900000000;floodplain
+"1015";4094;3;low natural levee;"3";4.33333333333333;"1.5275252316519463";"7";628.67200000000;low natural levee
+"1016";4095;7;low floodplain (uncertain);"4";6.5;"0.57735026918962573";"13";330.41500000000;floodplain
+"1017";4096;3;low floodplain;"6";2.66666666666667;"1.8618986725025257";"12";958.21900000000;floodplain
+"1018";4097;4;low natural levee;"2";3;"0";"7";628.67200000000;low natural levee
+"1019";4098;3;low natural levee;"2";2;"0";"7";628.67200000000;low natural levee
+"1020";4099;6;low natural levee (uncertain);"4";4.25;"2.6299556396765835";"8";69.83340000000;low natural levee
+"1021";4100;6;low floodplain (uncertain);"2";6.5;"0.70710678118654757";"13";330.41500000000;floodplain
+"1022";4101;3;low floodplain;"7";2;"1";"12";958.21900000000;floodplain
+"1023";4102;1;low natural levee;"8";2.75;"1.5811388300841898";"7";628.67200000000;low natural levee
+"1024";4103;3;low natural levee;"7";2.42857142857143;"1.8126539343499315";"7";628.67200000000;low natural levee
+"1025";4104;1;low natural levee;"6";3;"1.6733200530681511";"7";628.67200000000;low natural levee
+"1026";4105;2;low natural levee (uncertain);"6";2.33333333333333;"1.9663841605003503";"8";69.83340000000;low natural levee
+"1027";4106;3;low floodplain;"6";1.5;"0.83666002653407556";"12";958.21900000000;floodplain
+"1028";4107;1;low floodplain;"7";2;"1";"12";958.21900000000;floodplain
+"1029";4108;2;rivers and streams;"3";3.66666666666667;"2.0816659994661326";"0";118.33000000000;water
+"1030";4109;3;high floodplain;"1";1;#DIV/0!;"11";257.74600000000;floodplain
+"1031";4110;5;low floodplain;"4";3.25;"1.707825127659933";"12";958.21900000000;floodplain
+"1032";4111;3;low natural levee (uncertain);"4";3.75;"1.8929694486000912";"8";69.83340000000;low natural levee
+"1033";4112;1;low floodplain;"2";4;"1.4142135623730951";"12";958.21900000000;floodplain
+"1034";4113;3;moderately high natural levee;"3";1.33333333333333;"0.57735026918962584";"4";612.23400000000;high natural levee
+"1035";4114;5;low floodplain;"3";4;"1";"12";958.21900000000;floodplain
+"1036";4115;4;low floodplain;"3";4;"1";"12";958.21900000000;floodplain
+"1037";4116;2;low natural levee (uncertain);"2";4;"1.4142135623730951";"8";69.83340000000;low natural levee
+"1038";4117;5;low floodplain (uncertain);"3";3;"1";"13";330.41500000000;floodplain
+"1039";4118;4;low floodplain (uncertain);"3";4.66666666666667;"0.57735026918962784";"13";330.41500000000;floodplain
+"1040";4119;3;mesotrophic peatlands (uncertain);"5";2.4;"0.89442719099991574";"16";398.21000000000;peatlands
+"1041";4120;3;low floodplain;"5";2.4;"0.89442719099991574";"12";958.21900000000;floodplain
+"1042";4121;3;mesotrophic peatlands (uncertain);"6";2.33333333333333;"0.81649658092772637";"16";398.21000000000;peatlands
+"1043";4122;5;mesotrophic peatlands (uncertain);"1";5;#DIV/0!;"16";398.21000000000;peatlands
+"1044";4123;5;mesotrophic peatlands (uncertain);"1";5;#DIV/0!;"16";398.21000000000;peatlands
+"1045";4124;3;low floodplain (uncertain);"2";3.5;"2.1213203435596424";"13";330.41500000000;floodplain
+"1046";4126;3;high floodplain;"1";2;#DIV/0!;"11";257.74600000000;floodplain
+"1047";4127;2;low floodplain;"8";2.375;"0.91612538131290433";"12";958.21900000000;floodplain
+"1048";4128;3;mesotrophic peatlands (uncertain);"7";2.14285714285714;"0.89973541084243702";"16";398.21000000000;peatlands
+"1049";4129;1;mesotrophic peatlands (uncertain);"7";2.42857142857143;"0.7867957924694432";"16";398.21000000000;peatlands
+"1050";4130;3;mesotrophic peatlands (uncertain);"1";3;#DIV/0!;"16";398.21000000000;peatlands
+"1051";4131;3;low floodplain (uncertain);"1";3;#DIV/0!;"13";330.41500000000;floodplain
+"1052";4132;1;low floodplain;"4";2;"0.81649658092772603";"12";958.21900000000;floodplain
+"1053";4133;2;low floodplain;"5";2;"1";"12";958.21900000000;floodplain
+"1054";4134;3;mesotrophic peatlands (uncertain);"2";3.5;"0.70710678118654757";"16";398.21000000000;peatlands
+"1055";4135;2;low natural levee;"3";2;"1";"7";628.67200000000;low natural levee
+"1056";4136;1;low floodplain;"3";1;"0";"12";958.21900000000;floodplain
+"1057";4137;1;mesotrophic peatlands (uncertain);"2";1;"0";"16";398.21000000000;peatlands
+"1058";4138;1;low natural levee;"4";1.5;"0.57735026918962573";"7";628.67200000000;low natural levee
+"1059";4139;1;low floodplain;"3";1;"0";"12";958.21900000000;floodplain
+"1060";4140;2;low natural levee;"3";2;"1";"7";628.67200000000;low natural levee
+"1061";4141;1;low natural levee;"5";2;"1";"7";628.67200000000;low natural levee
+"1062";4142;1;low natural levee;"6";2.16666666666667;"0.9831920802501749";"7";628.67200000000;low natural levee
+"1063";4143;2;low floodplain;"6";2.83333333333333;"1.8348478592697182";"12";958.21900000000;floodplain
+"1064";4144;6;low floodplain;"5";2;"1";"12";958.21900000000;floodplain
+"1065";4145;3;low floodplain (uncertain);"1";4;#DIV/0!;"13";330.41500000000;floodplain
+"1066";4146;4;low floodplain (uncertain);"1";3;#DIV/0!;"13";330.41500000000;floodplain
+"1067";4147;5;eutrophic peatlands;"1";3;#DIV/0!;"14";811.00900000000;peatlands
+"1068";4148;3;eutrophic peatlands;"1";5;#DIV/0!;"14";811.00900000000;peatlands
+"1069";4149;5;low floodplain;"3";4;"2";"12";958.21900000000;floodplain
+"1070";4150;2;rivers and streams;"3";5.66666666666667;"0.57735026918962784";"0";118.33000000000;water
+"1071";4151;6;high floodplain;"2";2.5;"0.70710678118654757";"11";257.74600000000;floodplain
+"1072";4152;6;low floodplain (uncertain);"3";3.66666666666667;"1.5275252316519463";"13";330.41500000000;floodplain
+"1073";4153;4;low natural levee (uncertain);"2";5.5;"0.70710678118654757";"8";69.83340000000;low natural levee
+"1074";4154;3;moderately high natural levee (uncertain);"1";6;#DIV/0!;"5";174.49300000000;high natural levee
+"1075";4155;5;moderately high natural levee (uncertain);"1";3;#DIV/0!;"5";174.49300000000;high natural levee
+"1076";4156;6;rivers and streams;"1";3;#DIV/0!;"0";118.33000000000;water
+"1077";4157;3;rivers and streams;"1";3;#DIV/0!;"0";118.33000000000;water
+"1078";4158;5;low floodplain (uncertain);;;;"13";330.41500000000;floodplain
+"1079";4159;6;low floodplain;"2";2;"1.4142135623730951";"12";958.21900000000;floodplain
+"1080";4160;3;high floodplain;"1";1;#DIV/0!;"11";257.74600000000;floodplain
+"1081";4161;3;high floodplain;"1";5;#DIV/0!;"11";257.74600000000;floodplain
+"1082";4162;3;rivers and streams;"2";4.5;"2.1213203435596424";"0";118.33000000000;water
+"1083";4163;3;eutrophic peatlands (uncertain);"1";6;#DIV/0!;"30";909.97600000000;peatlands
+"1084";4164;1;low floodplain;"2";4.5;"2.1213203435596424";"12";958.21900000000;floodplain
+"1085";4166;5;low floodplain (uncertain);;;;"13";330.41500000000;floodplain

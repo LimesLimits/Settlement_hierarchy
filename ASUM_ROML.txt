@@ -1,0 +1,353 @@
+"LimesLimits_ID";"X_coordinate";"Y_coordinate";"Place";"Toponym";"Site_type";"Nb_finds";"Nb_runs_ROMLA";Nb_runs_ROMLB
+6;179950;416600;"Escharen";"Rotseweg";"rural settlement";10;1000;1000
+10;182540;416940;"Gassel";"Provincialeweg";"rural settlement";10;987;1000
+18;188265;415195;"Cuijk";"Het Riet";"rural settlement; burial(s)";10;1000;1000
+20;185500;415500;"Beers";"Kerkeveld";"rural settlement";10;1000;1000
+33;173600;416800;"Schaijk";"Kleefsestraat";"rural settlement";10;1000;1000
+37;171650;423750;"Deursen";"Het Steenwerk";"rural settlement; burial(s)";10;1000;1000
+39;170600;423900;"Deursen";"De Woerden";"rural settlement";10;285;706
+40;170100;422950;"Deursen";"Onze Lieve Vrouwenberg";"rural settlement";10;1000;1000
+42;174600;422100;"Neerloon";"Kalfsheuvel";"rural settlement";10;1000;1000
+43;167200;415200;"Nistelrode";"Vorssel I";"rural settlement";10;1000;1000
+45;168840;416120;"Schaijk";"Mun";"rural settlement";10;999;1000
+50;160850;413050;"Vinkel";"Sportpark";"rural settlement";10;1000;1000
+54;163050;420220;"Oss";"Westerveld";"rural settlement";10;1000;1000
+61;164500;420300;"Oss";"Eikenboomgaard";"rural settlement";10;1000;1000
+63;169950;424050;"Deursen";"De Pas";"rural settlement";10;998;1000
+67;169800;422650;"Deursen";"Avenduur";"rural settlement";10;765;972
+69;168550;422800;"Haren";"Spaanse Steeg";"rural settlement; cult site?";10;1000;1000
+70;167950;422050;"Berghem";"Lallenberg I";"rural settlement; burial(s)";10;680;843
+72;167650;422700;"Berghem";"In het Broek";"rural settlement";10;1000;1000
+74;166800;423050;"Berghem";"Het Winkel";"rural settlement";10;1000;1000
+75;166150;423400;"Macharen";"Harense Broek I";"rural settlement";10;1000;1000
+77;165150;423100;"Macharen";"Hoogoord";"rural settlement";10;1000;1000
+79;163100;424550;"Oijen";"De Lange Maaijen";"rural settlement";10;1000;1000
+80;162750;424700;"Oijen";"Klootskamp I";"rural settlement; burial(s)?";10;888;958
+82;162500;423350;"Teeffelen";"De Honig";"rural settlement; burial(s)?";10;1000;1000
+83;162750;422600;"Teeffelen";"Weteringstraat";"rural settlement";10;1000;1000
+84;162700;422950;"Teeffelen";"Rotsestraat";"rural settlement";10;247;393
+86;161850;422500;"Teeffelen";"De Kampen";"rural settlement";10;1000;1000
+96;149860;415420;"Empel";"De Schaapskooi";"rural settlement";10;1000;1000
+99;148300;415500;"'s-Hertogenbosch";"Maaspoort";"rural settlement";10;1000;1000
+102;158250;422800;"Lith";"Tussen de Stegen";"rural settlement";10;1000;1000
+104;159150;423500;"Lith";"Valkse Weg";"rural settlement";10;1000;1000
+111;139500;448750;"Houten";"Burgemeester Wallerweg";"rural settlement, stone-built; burial(s)";10;1000;1000
+112;139130;448760;"Houten";"Tiellandt";"rural settlement; burial(s)";10;1000;1000
+113;138190;449200;"Houten";"Wulven";"rural settlement, stone-built?; burial(s)";10;1000;1000
+118;153450;435400;"Erichem";"Hooge Korn";"rural settlement";10;1000;1000
+120;152150;435935;"Buren";"De Blooten";"rural settlement";10;1000;1000
+122;150150;435950;"Buren";"Hennisdijk";"rural settlement";10;1000;1000
+131;160950;436120;"Echteld";"De Wilmert I";"rural settlement";10;1000;1000
+132;160200;436150;"Echteld";"Oude Weiden";"rural settlement, stone-built";10;1000;1000
+134;159480;435680;"Medel";"Rotonde";"rural settlement, stone-built?";10;1000;1000
+136;142780;431280;"Enspijk";"Oude Weische Blok";"rural settlement";10;795;984
+138;152970;434340;"Erichem";"De Vinkenbuurt";"rural settlement";10;1000;1000
+142;150200;429500;"Est";"Rondweg";"rural settlement";10;1000;1000
+150;147850;432150;"Geldermalsen";"Binnenveld";"rural settlement";10;1000;1000
+152;154780;433480;"Kapel-Avezaath";"Bergakker Noord";"rural settlement; burial(s)";10;883;999
+155;154330;432580;"Kapel-Avezaath";"Hoge Hof";"rural settlement";10;862;996
+163;154590;436160;"Kerk-Avezaath";"Korenbroek II";"rural settlement";10;605;958
+179;154110;434520;"Kerk-Avezaath";"Teisterband";"rural settlement";10;1000;1000
+187;158950;440500;"Maurik";"Zwarte Paard";"rural settlement";10;1000;1000
+192;162450;439400;"Ommeren";"De Eng";"rural settlement";10;1000;1000
+193;160900;437400;"Ommeren";"Blauwe Kamp";"rural settlement";10;1000;1000
+198;152370;427890;"Ophemert";"Wilhelminahoeve";"rural settlement";10;1000;1000
+206;153780;428350;"Ophemert";"Veelust";"rural settlement";10;1000;1000
+210;151100;427750;"Ophemert";"Elzevier";"rural settlement";10;1000;1000
+229;152320;427250;"Opijnen";"Westerbroek";"rural settlement";10;1000;1000
+240;155650;431450;"Tiel";"Oude Tielseweg";"rural settlement";10;1000;1000
+241;156750;431050;"Tiel";"Hogeweg-Zennewijnenseweg";"rural settlement";10;1000;1000
+242;157620;431560;"Tiel";"Uiterwaard I";"rural settlement";10;1000;1000
+244;156100;431000;"Tiel";"Passewaaijse Hogeweg I";"rural settlement";10;1000;1000
+245;154180;440870;"Rijswijk";"Woerdstraat";"rural settlement; burial(s)?";10;1000;1000
+253;146670;428140;"Waardenburg";"De Woerden";"rural settlement; burial(s)?";10;1000;1000
+255;153380;430830;"Wadenoijen";"Henigt";"rural settlement";10;638;965
+258;152200;430450;"Wadenoijen";"Breeuwert";"rural settlement";10;1000;1000
+261;153900;430400;"Wadenoijen";"Ouweling";"rural settlement";10;1000;1000
+273;159600;437530;"Zoelen";"De Hevel";"rural settlement";10;1000;1000
+282;156400;436180;"Zoelen";"Vergarde";"rural settlement; burial(s)";10;1000;1000
+285;157190;436560;"Zoelen";"De Meerboom";"rural settlement";10;651;964
+291;156900;436250;"Zoelen";"Drumptselaan";"rural settlement";10;289;861
+299;154420;433250;"Kapel-Avezaath";"Bergakker";"rural settlement; cult site?";10;1000;1000
+307;150490;436700;"Buren";"Hofkamp I";"rural settlement";10;1000;1000
+308;154330;436330;"Zoelen";"Nije Graaf";"rural settlement";10;1000;1000
+315;156190;429850;"Zennewijnen";"Hoogekamp";"rural settlement, stone-built";10;1000;1000
+321;149650;430100;"Est";"Rijs en Ooyen";"rural settlement; cult site?";10;1000;1000
+323;148950;428600;"Est";"Snelleveld";"rural settlement; burial(s)?";10;1000;1000
+324;148100;428750;"Waardenburg";"Snelleveld";"rural settlement";10;1000;1000
+325;148200;428400;"Neerijnen";"Hoge Tieflaar I";"rural settlement";10;1000;1000
+326;142020;430280;"Gellicum";"Boutenstein I";"rural settlement; burial(s)?";10;1000;1000
+327;147900;428350;"Neerijnen";"Hoge Tieflaar II";"rural settlement";10;1000;1000
+328;147500;428180;"Neerijnen";"Hoge Tieflaar III";"rural settlement";10;1000;1000
+329;148020;427970;"Neerijnen";"Hoge Tieflaar IV";"rural settlement";10;1000;1000
+330;147800;428000;"Neerijnen";"Hoge Tieflaar V";"rural settlement";10;1000;1000
+333;143105;431765;"Deil";"Panweg";"rural settlement";10;1000;1000
+335;145050;431810;"Deil";"Hooiblok";"rural settlement; cult place?";10;1000;1000
+336;140645;434085;"Rumpt";"Betuwestrand";"rural settlement";10;1000;1000
+337;144340;432070;"Deil";"Oude Winkel";"rural settlement";10;1000;1000
+339;145905;431795;"Deil";"Kijfakker";"rural settlement";10;938;1000
+341;147900;431870;"Geldermalsen";"Provincialeweg Oost";"rural settlement";10;999;1000
+342;147400;432100;"Geldermalsen";"Industrieweg";"rural settlement";10;1000;1000
+348;146450;435630;"Tricht";"Oude Hoeven";"rural settlement";10;1000;1000
+349;149500;435100;"Buurmalsen";"Nieuwe Steeg";"rural settlement";10;1000;1000
+356;161120;437100;"Lienden";"Linge";"rural settlement";10;1000;1000
+357;160790;436900;"Echteld";"Linge";"rural settlement";10;1000;1000
+358;161000;436600;"Echteld";"De Wilmert II";"rural settlement";10;1000;1000
+360;160400;435725;"Medel";"Ooijsche Wetering";"rural settlement; burial(s)";10;1000;1000
+365;161300;435450;"Echteld";"Westering";"rural settlement";10;1000;1000
+366;162910;436350;"Echteld";"Hoogbroek";"rural settlement";10;991;1000
+368;163500;435380;"Echteld";"Den Hul";"rural settlement; burial(s)";10;1000;1000
+369;164950;435700;"IJzendoorn";"Het Hof";"rural settlement; cult site?";10;1000;1000
+370;166570;436830;"Kesteren";"Woonwagenkamp";"rural settlement";10;1000;1000
+372;167200;436850;"Kesteren";"De Woerd";"rural settlement, stone-built?";10;1000;1000
+373;168150;437450;"Kesteren";"Peppelenwoerd";"rural settlement";10;1000;1000
+376;166700;436000;"Ochten";"Heuningstraat";"rural settlement";10;991;1000
+382;168750;432050;"Puiflijk";"De Heuf II";"rural settlement";10;628;973
+392;164520;427640;"Maasbommel";"Den Hoedweg I";"rural settlement";10;1000;1000
+396;164550;428920;"Woerd";"Honselaars";"rural settlement";10;1000;1000
+881;177490;436770;"Zetten";"Leigraafseweg";"rural settlement";10;1000;1000
+882;179600;436280;"Herveld-Noord";"Verlengde Kerkstraat";"rural settlement";10;1000;1000
+888;176860;431250;"Beuningen";"Schermersdeel-Zuid";"rural settlement";10;1000;1000
+889;174650;432400;"Deest";"Uivermeertjes";"rural settlement";10;1000;1000
+891;178080;430010;"Ewijk";"De Woerdjes II";"rural settlement";10;1000;1000
+900;147200;423500;"Zaltbommel";"De Wildeman I";"rural settlement";10;1000;1000
+901;147240;423880;"Zaltbommel";"De Wildeman II";"rural settlement; burial(s)";10;1000;1000
+904;147410;423140;"Zaltbommel";"De Wildeman V";"rural settlement";10;981;998
+1000;171220;428565;"Horssen";"Oostweg II";"rural settlement";10;1000;1000
+1004;175250;440200;"Randwijk";"Hokkerden";"rural settlement";10;687;955
+1006;134000;418100;"Genderen";"Hoge Woerd";"rural settlement; cult site?";10;1000;1000
+416;140600;445600;"Schalkwijk";"Polder Vuylkoop";"rural settlement";10;1000;1000
+417;141720;446000;"Schalkwijk";"Polder Biester";"rural settlement";10;998;1000
+420;146260;443840;"Schalkwijk";"Den Oord";"rural settlement";10;998;1000
+421;145650;444000;"Schalkwijk";"Goyerbrug";"rural settlement; road?";10;1000;1000
+422;146455;444445;"Cothen";"De Zemelen";"rural settlement, stone-built; burial(s)";10;1000;1000
+423;147000;444670;"Cothen";"Kapelleweg I";"rural settlement";10;1000;1000
+424;147566;444502;"Cothen";"Kapelleweg II";"rural settlement";10;1000;1000
+425;148650;444100;"Cothen";"De Spiegel";"rural settlement";10;1000;1000
+426;149432;444520;"Cothen";"De Dom I";"rural settlement";10;1000;1000
+427;149046;444985;"Cothen";"Bredeweg";"rural settlement";10;1000;1000
+429;147635;445815;"Cothen";"De Hoop";"rural settlement";10;1000;1000
+430;147360;445360;"Cothen";"Smidsdijk II";"rural settlement";10;905;997
+431;148037;444965;"Cothen";"Dwarsdijk I";"rural settlement";10;1000;1000
+436;144400;445270;"'t Goy";"De Hoogt";"rural settlement";10;1000;1000
+438;144750;445900;"'t Goy";"Tuurdijk I";"rural settlement, stone-built";10;1000;1000
+439;143750;446270;"'t Goy";"Tuurdijk II";"rural settlement";10;637;959
+440;143300;445950;"'t Goy";"Groenedijkje / Beusichemseweg I";"rural settlement; burial(s)?";10;1000;1000
+442;142400;446300;"'t Goy";"Wickenburgseweg II";"rural settlement";10;1000;1000
+443;142640;446500;"'t Goy";"Wickenburgseweg III";"rural settlement";10;1000;1000
+445;141960;446780;"Houten";"Hoogdijk I";"rural settlement";10;1000;1000
+448;141700;446800;"Houten";"Schalkwijkseweg terrein 14 I";"rural settlement";10;1000;1000
+451;141220;446540;"Houten";"De Trip";"rural settlement";10;973;1000
+453;141200;446900;"Houten";"Schalkwijkseweg terrein 14 III";"rural settlement; burial(s)";10;1000;1000
+454;140830;447720;"Houten";"Leeweg";"rural settlement";10;1000;1000
+458;141240;448200;"Houten";"Binnenweg terrein 21/22";"rural settlement; burial(s)";10;1000;1000
+462;141200;448640;"Houten";"Loerik terrein 6";"rural settlement";10;1000;1000
+465;143180;449500;"Werkhoven";"Achterdijk";"rural settlement";10;643;946
+467;142850;447950;"Werkhoven";"Oostromsedijkje-Zuid";"rural settlement";10;1000;1000
+468;144600;448450;"Werkhoven";"De Klaproos";"rural settlement; watchtower?";10;1000;1000
+473;141580;442400;"Schalkwijk";"Noorder Lekdijk";"rural settlement";10;991;1000
+475;142520;442610;"Schalkwijk";"Pothuizerweg I";"rural settlement";10;1000;1000
+476;143230;442920;"Schalkwijk";"Pothuizerweg II";"rural settlement, stone-built?";10;1000;1000
+479;143550;442890;"Schalkwijk";"Pothuizerweg V";"rural settlement";10;1000;1000
+482;149450;443220;"Wijk bij Duurstede";"Lage Maat II";"rural settlement";10;1000;1000
+483;149750;443370;"Wijk bij Duurstede";"Wijkersloot II";"rural settlement";10;1000;1000
+485;146300;438650;"Beusichem";"Hooge Voorkoop I";"rural settlement";10;1000;1000
+488;141270;450450;"Houten";"De Geer";"rural settlement";10;1000;1000
+491;143012;450325;"Odijk";"'t Vagevuur";"rural settlement";10;1000;1000
+493;144025;451380;"Odijk";"De Vork I";"rural settlement";10;1000;1000
+496;141950;452030;"Bunnik";"Groeneweg / Achterdijk";"rural settlement";10;1000;1000
+497;142227;451865;"Bunnik";"Rijsbruggerwetering";"rural settlement";10;1000;1000
+498;141661;451748;"Bunnik";"Groeneweg";"rural settlement";10;1000;1000
+506;136340;451270;"Nieuwegein";"Het Veld";"rural settlement";10;998;1000
+507;137820;451390;"Houten";"Wayense Dijk";"rural settlement";10;1000;1000
+509;137410;450330;"Houten";"Langeweg";"rural settlement; road?";10;861;999
+511;136920;449900;"Laagraven";"Heemsteedse Weg";"rural settlement";10;994;1000
+512;138200;450500;"Houten";"Doornkade";"rural settlement";10;1000;1000
+513;139100;450300;"Houten";"Oud Wulfseweg";"rural settlement; stone-built?";10;1000;1000
+514;136570;449700;"Laagraven";"Heemstederbrug";"rural settlement";10;1000;1000
+515;139550;448070;"Houten";"Houtense Wetering terrein 24";"rural settlement";10;1000;1000
+517;141560;448300;"Houten";"Overdam terrein 8A";"rural settlement; burial(s)";10;1000;1000
+519;149950;430750;"Meteren";"Hondsgemet";"rural settlement";10;1000;1000
+543;146900;431050;"Meteren";"Boog D-Noord";"rural settlement";10;800;996
+548;154580;441080;"Maurik";"De Woerd";"rural settlement";10;1000;1000
+550;155540;440750;"Maurik";"De Park";"rural settlement";10;1000;1000
+552;158310;442590;"Eck en Wiel";"Oude Hofstede";"rural settlement";10;854;1000
+553;158715;442185;"Maurik";"Buitenweg";"rural settlement?; burial(s)";10;1000;1000
+554;158800;442500;"Eck en Wiel";"De Mente I";"rural settlement";10;1000;1000
+556;159850;442580;"Eck en Wiel";"De Kniphoek";"rural settlement";10;1000;1000
+558;158210;439760;"Maurik";"'t Haagje";"rural settlement";10;986;1000
+560;158900;438050;"Zoelen";"De Beldert";"rural settlement";10;1000;1000
+578;144500;421400;"Bruchem";"De Burge";"rural settlement";10;1000;1000
+585;146250;422150;"Bruchem";"De Veluwe";"rural settlement";10;1000;1000
+586;169300;438100;"Kesteren";"Bergzicht";"rural settlement";10;1000;1000
+589;174710;438250;"Opheusden";"De Roetert";"rural settlement";10;1000;1000
+611;170410;433780;"Druten";"Brouwerstraat";"rural settlement";10;995;1000
+619;170400;432850;"Druten";"Klepperhei";"rural settlement, stone-built";10;1000;1000
+626;179450;430500;"Ewijk";"Koningsstraat I";"rural settlement";10;1000;1000
+628;179380;429880;"Beuningen";"Ooigraaf";"rural settlement";10;1000;1000
+636;174850;425550;"Leur";"Fleerde";"rural settlement";10;781;993
+659;175600;427300;"Hernen";"De Loffert II";"rural settlement";10;841;996
+669;180730;439850;"Heteren";"Het Lage Land I";"rural settlement";10;1000;1000
+671;181730;439750;"Heteren";"Uilenburg";"rural settlement";10;1000;1000
+672;185540;439140;"Elst";"Distelheuvel";"rural settlement";10;1000;1000
+673;187330;438020;"Elst";"Groenoord";"rural settlement";10;1000;1000
+674;185750;438400;"Raayen";"De Woerd";"rural settlement, stone-built?; burial(s)?";10;1000;1000
+676;185300;441300;"Driel";"Baarskamp";"rural settlement";10;1000;1000
+677;184700;441800;"Driel";"Ooijevaarsnest";"rural settlement; burial(s)?";10;995;1000
+682;186450;439850;"Driel";"De Laar I";"rural settlement";10;1000;1000
+695;191600;439500;"Huissen";"Loostraat I";"rural settlement";10;1000;1000
+697;189450;435800;"Bredelaar";"Imkershof";"rural settlement";10;1000;1000
+702;185730;434550;"Elst";"Reethsestraat";"rural settlement";10;1000;1000
+712;188280;436550;"Elst";"Aam";"rural settlement";10;942;999
+715;187500;436900;"Elst";"Hoge Hof";"rural settlement; burial(s)";10;1000;1000
+717;187950;434900;"Elst";"Merm";"rural settlement; burial(s)";10;1000;1000
+719;186925;432680;"Oosterhout";"Griftdijk I";"rural settlement; burial(s)";10;1000;1000
+724;186500;436200;"Elst";"Brienenshof";"rural settlement; burial(s)";10;1000;1000
+725;180000;431350;"Ewijk";"De Grote Aalst";"rural settlement, stone-built; burial(s); military settlement?";10;1000;1000
+729;180550;429850;"Beuningen";"De Heuve";"rural settlement";10;994;1000
+730;182400;429800;"Beuningen";"Reekstraat";"rural settlement, stone-built";10;986;999
+731;187950;430470;"Lent";"Dorpsplein";"rural settlement, stone-built?";10;1000;1000
+732;181160;425780;"Wijchen";"Teersdijk";"rural settlement";10;954;1000
+743;195500;435000;"Boerenhoek";"Het Meer";"rural settlement";10;1000;1000
+750;190450;434200;"Bemmel";"Het Hoog";"rural settlement";10;994;1000
+751;191650;436550;"Bergerden";"Het Plaat";"rural settlement";10;1000;1000
+755;190900;436820;"Bergerden";"Kleine Morgen";"rural settlement";10;1000;1000
+757;191850;428150;"Persingen";"Dorp I";"rural settlement; burial(s)";10;1000;1000
+764;200420;430690;"Millingen";"Kerk I";"rural settlement; cult site?";10;1000;1000
+777;163250;432500;"Beneden-Leeuwen";"De Ret";"rural settlement, stone-built";10;1000;1000
+779;132920;455100;"De Meern";"Stadsdam";"rural settlement; road";10;1000;1000
+783;132300;455900;"Utrecht";"Prinses Amaliapark";"rural settlement";10;1000;1000
+785;129922;454638;"De Meern";"De Balije / Veldhuizen";"rural settlement; road; 2 watchtowers; shipwreck(s)";10;1000;1000
+786;131380;454100;"De Meern";"Oudenrijnseweg";"rural settlement";10;1000;1000
+787;132040;454740;"De Meern";"Oudenrijn";"rural settlement; road";10;1000;1000
+789;130740;452150;"Nieuwegein";"Ringkade I";"rural settlement";10;941;997
+791;130100;451250;"IJsselstein";"Noord-IJsseldijk I";"rural settlement";10;991;1000
+793;132100;451660;"Nieuwegein";"Ringkade III";"rural settlement";10;1000;1000
+795;131850;451250;"Nieuwegein";"Vredestein";"rural settlement; burial(s)?";10;1000;1000
+796;131900;450900;"Nieuwegein";"Nedereindseweg II";"rural settlement";10;996;1000
+797;132050;450650;"Nieuwegein";"Nedereindseweg III";"rural settlement";10;893;999
+800;133800;450800;"Nieuwegein";"Weiland";"rural settlement";10;987;1000
+801;134800;451250;"Nieuwegein";"Blokhoeve";"rural settlement";10;1000;1000
+805;134280;449880;"Jutphaas";"Kerkveld";"rural settlement";10;1000;1000
+806;132800;449700;"Nieuwegein";"Rijksweg";"rural settlement";10;346;871
+807;133050;449150;"Jutphaas";"Batau-zuid I";"rural settlement";10;1000;1000
+809;132600;446800;"IJsselstein";"Lage Dijk I";"rural settlement; burial(s)";10;1000;1000
+817;132500;432100;"Oosterwijk";"Lingedijk";"rural settlement";10;1000;1000
+830;131950;456350;"De Meern";"'t Zand II";"rural settlement; watchtower";10;1000;1000
+831;127170;456770;"Harmelen";"Dorpeldijk";"rural settlement";10;1000;1000
+833;127920;457110;"Vleuten";"'t Hoog";"rural settlement";10;717;963
+855;129700;452650;"Nieuwegein";"Steenen Kamer";"rural settlement";10;826;991
+856;129650;452200;"IJsselstein";"Meernhoeve";"rural settlement";10;1000;1000
+857;129950;451750;"IJsselstein";"Noord-IJsseldijk II";"rural settlement";10;480;910
+864;131550;455150;"De Meern";"Hoge Woerd III";"rural settlement; road; burial(s)";10;1000;1000
+865;150300;444150;"Cothen";"Trekweg";"rural settlement";10;1000;1000
+1020;136550;415650;"Heesbeen";"Het Oude Maasje";"rural settlement, stone-built?";10;985;1000
+1021;137220;417950;"Wijk en Aalburg";"De Eng";"rural settlement";10;0;0
+1022;187180;439690;"Elden";"Heusdenstraat";"rural settlement";10;1000;1000
+1023;186230;439880;"Driel";"De Laar II";"rural settlement";10;1000;1000
+1027;127650;429300;"Gorinchem";"Haarweg";"rural settlement";10;1000;1000
+1031;186200;433700;"Oosterhout";"De Grift";"rural settlement";10;570;918
+1034;186795;432075;"Oosterhout";"Van Boetzelaerstraat";"rural settlement; burial(s)";10;1000;1000
+1035;187640;431780;"Lent";"Rijksweg 52";"rural settlement";10;1000;1000
+1036;188150;431660;"Lent";"Smitjesland";"rural settlement";10;422;822
+1041;181500;430500;"Beuningen";"Molenstraat";"rural settlement, stone-built?";10;1000;1000
+1042;188500;430800;"Lent";"Laauwikstraat-Zuid";"rural settlement";10;1000;1000
+1056;182550;422050;"Overasselt";"Scheiwal";"rural settlement, stone-built; burial(s)";10;1000;1000
+1058;182286;421785;"Overasselt";"Bullenkamp";"burial(s); rural settlement";10;1000;1000
+1060;182700;421800;"Overasselt";"Valenberg";"rural settlement";10;1000;1000
+1072;129460;414450;"Meeuwen";"Haagoord";"rural settlement";10;1000;1000
+1075;191250;415700;"Middelaar";"Witteweg";"rural settlement, stone-built";10;1000;1000
+1079;192150;419450;"Groesbeek";"Klein Amerika";"rural settlement; cult site?";10;1000;1000
+1096;196950;427800;"Leuth";"Leuth-Zuid";"rural settlement";10;994;1000
+1098;197400;428300;"Leuth";"Plezenburg";"rural settlement; road?";10;281;767
+1099;197500;428700;"Leuth";"Puthorst";"rural settlement";10;275;779
+1100;197900;429300;"Kekerdom";"Groote Both";"rural settlement";10;812;992
+1102;198700;430400;"Kekerdom";"Kapittelhof";"rural settlement";10;926;1000
+1108;193120;421030;"Groesbeek";"Het Vilje";"rural settlement; burial(s)";10;1000;1000
+1111;190600;416100;"Katerbosch";"Elzenstraat";"rural settlement";10;1000;1000
+1123;162000;441250;"Ingen";"De Poel";"rural settlement, stone-built?";10;1000;1000
+1124;178000;424200;"Wijchen";"Tienakker";"rural settlement, stone-built; burial(s)";10;1000;1000
+1131;163600;439600;"Lienden";"Meerten";"rural settlement";10;1000;1000
+1133;164990;438980;"Lienden";"Hoog-Broek";"rural settlement";10;1000;1000
+1135;165250;438450;"Lienden";"Nelly's Hof";"rural settlement";10;726;975
+1136;165500;438250;"Lienden";"Boutenburg II";"rural settlement";10;1000;1000
+1139;192750;416050;"Milsbeek";"Pastoorsdijk";"rural settlement";10;994;1000
+1145;196400;412700;"Ottersum";"Sportterrein";"rural settlement";10;782;988
+1148;194800;412600;"Gennep";"Stamelberg";"rural settlement; burial(s)";10;163;937
+1151;192100;413150;"Oeffelt";"Cuijkseweg I";"rural settlement";10;683;974
+1154;178800;424550;"Wijchen";"Molenberg";"burial(s); rural settlement";10;1000;1000
+1160;134900;425180;"Brakel";"Molenkampsweg";"rural settlement";10;1000;1000
+1168;187350;416050;"Cuijk";"Ewinkel";"rural settlement";10;1000;981
+1172;185450;417000;"Linden";"'t Westen";"rural settlement";10;1000;1000
+2006;141991;449957;"Odijk";"Houtenseweg III";"rural settlement?";10;1000;1000
+2009;143260;448020;"Werkhoven";"Oostromsedijkje-Midden";"rural settlement";10;1000;1000
+2012;143796;442691;"Schalkwijk";"Lekdijk";"rural settlement";10;1000;1000
+2016;152970;444060;"Wijk bij Duurstede";"Landscheidingsweg";"rural settlement";10;965;1000
+2025;150755;444090;"Wijk bij Duurstede";"Witte Leuningen";"rural settlement; road";10;1000;1000
+2044;166560;441570;"Rhenen";"Utrechtsestraatweg";"rural settlement; burial(s)";10;107;901
+2048;169460;441670;"Rhenen";"Levendaalseweg";"rural settlement";10;1000;1000
+2053;166110;445375;"Achterberg";"Blauwendraad";"rural settlement";10;871;999
+2062;148800;431000;"Meteren";"De Plantage";"rural settlement";10;1000;1000
+2065;158400;436480;"Medel";"Grotebrugse Grindweg";"rural settlement";10;392;901
+2066;159670;435580;"Medel";"Krommewei";"rural settlement";10;1000;1000
+2073;182670;435590;"Valburg";"Molenzicht";"rural settlement?; burial(s)";10;1000;1000
+2074;183850;433200;"Valburg";"Nieuwe Dijk";"rural settlement";10;1000;1000
+2088;191168;439607;"Huissen";"Zeegbos";"rural settlement";10;1000;1000
+2091;196500;434980;"Doornenburg";"Koffiemolen";"rural settlement";10;994;1000
+2096;197925;441125;"Duiven";"De Eng";"rural settlement";10;1000;1000
+2099;199211;433673;"Pannerden";"Uiterwaarden Oostoever";"rural settlement";10;1000;1000
+2105;192250;429350;"Persingen";"Circul van Ooij";"rural settlement";10;556;952
+2106;193500;421365;"Groesbeek";"Hüsenhoff";"rural settlement; cult site?; burial(s)";10;944;1000
+2107;193508;419222;"Breedeweg";"Parachutistenstraat";"rural settlement";10;773;984
+2116;185150;415460;"Beers";"Dommelsvoort II";"rural settlement";10;1000;1000
+2117;187788;415962;"Cuijk";"Groot Heiligenberg";"rural settlement";10;868;997
+2118;190050;413800;"Cuijk";"Messemaker";"rural settlement";10;462;874
+2124;178100;424500;"Wijchen";"Oude Klapstraat";"rural settlement";10;644;975
+2144;186630;431440;"Lent";"Koudenhoek";"rural settlement; burial(s)?";10;854;994
+2156;174540;420940;"Overlangel";"Asboom";"rural settlement";10;1000;1000
+2164;166445;423754;"Macharen";"Harense Broek II";"rural settlement";10;997;1000
+2167;167950;412475;"Nistelrode";"Zwarte Molen";"rural settlement; burial(s); cult site";10;1000;1000
+2185;146500;427625;"Waardenburg";"De Vergt";"rural settlement?";10;1000;1000
+3007;89400;470900;"Noordwijk";"Hertenkamp";"rural settlement";10;378;681
+3029;92450;464600;"Leiden";"Darwinweg";"rural settlement";10;960;1000
+3033;97350;464600;"Leiderdorp";"De Bloemerd II";"rural settlement";10;1000;1000
+3037;97100;462750;"Leiderdorp";"Munnikkenpolder I";"rural settlement";10;1000;1000
+3044;100075;461540;"Koudekerk aan den Rijn";"Hondsdijkse Polder IV";"rural settlement";10;769;997
+3045;97050;463180;"Leiderdorp";"Munnikkenpolder II";"rural settlement";10;1000;1000
+3051;88625;467825;"Katwijk";"Zanderij-Westerbaan I";"rural settlement; burial(s); road";10;1000;1000
+3057;83275;462940;"Wassenaar";"Kikkervallei";"rural settlement?; burial(s)";10;1000;1000
+3063;92865;463130;"Leiden";"Haagwegterrein";"rural settlement";10;1000;1000
+3070;101330;460280;"Hazerswoude";"Oostvaartpark";"rural settlement; road";10;999;1000
+3074;107350;458300;"Alphen aan den Rijn";"Goudse Rijpad I";"rural settlement; road";10;1000;1000
+3089;76749;451048;"Den Haag";"Nikkelwerf";"rural settlement";10;1000;1000
+3096;79350;449720;"Den Haag";"Hoge Veld";"rural settlement";10;1000;1000
+3102;82850;451400;"Rijswijk";"Havenstraat";"rural settlement; burial(s)?";10;0;1000
+3103;81275;451160;"Rijswijk";"van Vredenburgweg";"rural settlement; burial(s)?";10;1000;1000
+3113;130710;454540;"De Meern";"van Heemskerklaan";"rural settlement; road";10;749;982
+3119;128430;458430;"Vleuten";"Haarpad";"rural settlement";10;997;1000
+3143;82600;458400;"Wassenaar";"Groenendaal";"rural settlement";10;938;997
+3155;89685;460243;"Voorschoten";"Oranjepolder";"rural settlement?";10;997;1000
+4004;79496;450305;"Den Haag";"Noordhof";"rural settlement";10;1000;1000
+4019;128819;456065;"De Meern";"Vleuterweide";"rural settlement; military settlement; road";10;1000;1000
+4072;75750;449462;"Poeldijk";"Westhof I";"rural settlement";10;1000;1000
+4073;75368;449551;"Poeldijk";"Westhof II";"rural settlement";10;1000;1000
+4074;78978;449570;"Wateringen";"Juliahof";"rural settlement; burial(s)";10;1000;1000
+4077;78635;448910;"Wateringen";"Heulweg II";"rural settlement";10;1000;1000
+4078;81787;447919;"Schipluiden";"Harnaschpolder I";"rural settlement";10;1000;1000
+4083;75840;446520;"Naaldwijk";"Middelbroekweg";"rural settlement, stone-built; burial(s)?";10;1000;1000
+4087;81420;446020;"'t Woudt";"Woudse Polder II";"rural settlement";10;1000;1000
+4090;83015;445015;"Abtswoude";"Buitenhof";"rural settlement";10;1000;1000
+4092;73991;444830;"Naaldwijk";"Hoogwerf";"rural settlement, stone-built?; burial(s)";10;1000;1000
+4095;74718;443560;"De Lier";"Westerlee I";"rural settlement";10;1000;1000
+4110;86600;440640;"Overschie";"Kandelaarweg I";"rural settlement; burial(s)";10;1000;1000
+4113;76290;439920;"Gaag";"Dijkpolder II";"rural settlement";10;1000;1000
+4114;87133;439309;"Schiedam";"Polderweg";"rural settlement";10;1000;1000
+4119;79870;437480;"Vlaardingen";"Aalkeet-Buitenpolder I";"rural settlement";10;1000;1000
+4123;82908;437256;"Vlaardingen";"Hoogstad II";"rural settlement; waterworks";10;982;1000
+4127;79910;436650;"Vlaardingen";"Aalkeet-Buitenpolder IV";"rural settlement";10;1000;1000
+4128;80290;436450;"Vlaardingen";"Schinkelshoek";"rural settlement";10;1000;1000
+4133;80640;435682;"Vlaardingen";"Vergulde Hand West II";"rural settlement?";10;1000;1000
+4144;79460;443370;"Schipluiden";"Oostbuurt II";"rural settlement";10;1000;1000
+4151;107825;428460;"Papendrecht";"Papendrechtse Stroomrug";"rural settlement; cult site?";10;1000;1000
+4152;105790;429380;"Alblasserdam";"Hoogendijk";"rural settlement; burial(s)";10;1000;1000
+4155;102148;429309;"Hendrik-Ido-Ambacht";"Sandelingen Ambacht";"rural settlement";10;1000;1000
