@@ -16430,7 +16430,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[14]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[16]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># script bm_imp_cnt.R</span>
@@ -16815,6 +16815,361 @@ class="
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Variety in imported ceramics was compared to the ceramics classes in a contingency table (Table 7).</p>
+
+</div>
+</div>
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-r"><pre><span></span><span class="c1"># script imp_var.R</span>
+
+<span class="c1"># count diversity of ceramic imports </span>
+
+<span class="n">var_cnt</span> <span class="o">&lt;-</span> <span class="nf">table</span><span class="p">(</span><span class="n">rural_imp</span><span class="o">$</span><span class="n">DIV_AWG</span><span class="p">)</span>
+
+<span class="c1"># crosstabulate ceramic import classes and diversity</span>
+
+<span class="n">var_imp_tab</span> <span class="o">&lt;-</span> <span class="nf">table</span><span class="p">(</span><span class="n">rural_imp</span><span class="o">$</span><span class="n">IMP_GROUP</span><span class="p">,</span> <span class="n">rural_imp</span><span class="o">$</span><span class="n">DIV_AWG</span><span class="p">)</span>
+
+<span class="c1"># conver to proportional tables with horizontal and vertical marginals</span>
+
+<span class="n">prop_tab</span> <span class="o">&lt;-</span> <span class="nf">prop.table</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">)</span> 
+<span class="n">prop_tab1</span> <span class="o">&lt;-</span> <span class="nf">prop.table</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">,</span><span class="m">1</span><span class="p">)</span>
+<span class="n">prop_tab2</span> <span class="o">&lt;-</span> <span class="nf">prop.table</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">,</span><span class="m">2</span><span class="p">)</span>
+
+<span class="c1"># display in percentages </span>
+
+<span class="nf">t</span><span class="p">(</span><span class="n">prop_tab2</span><span class="p">)</span> <span class="o">*</span> <span class="m">100</span>
+
+<span class="c1"># calculate contingency coefficient and Cramer&#39;s V</span>
+
+<span class="n">chi</span> <span class="o">&lt;-</span> <span class="nf">chisq.test</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">)</span>
+<span class="n">cont_coeff</span> <span class="o">&lt;-</span> <span class="nf">unname</span><span class="p">(</span><span class="nf">sqrt</span><span class="p">(</span><span class="n">chi</span><span class="o">$</span><span class="n">statistic</span> <span class="o">/</span> <span class="p">(</span><span class="n">chi</span><span class="o">$</span><span class="n">statistic</span> <span class="o">+</span> <span class="nf">sum</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">))))</span>
+
+<span class="nf">paste</span><span class="p">(</span><span class="s">&quot;Contingency coefficient: &quot;</span><span class="p">,</span> <span class="n">cont_coeff</span><span class="p">)</span>
+
+<span class="n">CramerV</span> <span class="o">&lt;-</span> <span class="nf">unname</span><span class="p">(</span><span class="nf">sqrt</span><span class="p">((</span><span class="n">chi</span><span class="o">$</span><span class="n">statistic</span><span class="o">/</span><span class="nf">sum</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">))</span><span class="o">/</span><span class="nf">min</span><span class="p">(</span><span class="nf">nrow</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">)</span> <span class="o">-</span> <span class="m">1</span> <span class="p">,</span><span class="nf">ncol</span><span class="p">(</span><span class="n">var_imp_tab</span><span class="p">)</span> <span class="o">-</span> <span class="m">1</span><span class="p">)))</span>
+
+<span class="nf">paste</span><span class="p">(</span><span class="s">&quot;Cramer&#39;s V: &quot;</span><span class="p">,</span> <span class="n">CramerV</span><span class="p">)</span>
+
+<span class="c1"># plot diversity of ceramic imports </span>
+
+<span class="nf">ggplot</span><span class="p">(</span><span class="nf">as.data.frame</span><span class="p">(</span><span class="n">var_cnt</span><span class="p">),</span> <span class="nf">aes</span><span class="p">(</span><span class="n">Var1</span><span class="p">,</span> <span class="n">Freq</span><span class="p">))</span> <span class="o">+</span> 
+  <span class="nf">geom_col</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s">&quot;grey70&quot;</span><span class="p">,</span> <span class="n">colour</span><span class="o">=</span><span class="s">&quot;black&quot;</span><span class="p">)</span> <span class="o">+</span>
+  <span class="nf">geom_text</span><span class="p">(</span><span class="nf">aes</span><span class="p">(</span><span class="n">label</span> <span class="o">=</span> <span class="n">Freq</span><span class="p">,</span> <span class="n">vjust</span> <span class="o">=</span> <span class="m">-0.5</span><span class="p">))</span> <span class="o">+</span>
+  <span class="nf">ggtitle</span><span class="p">(</span><span class="s">&quot;Rural settlements and diversity of ceramic imports&quot;</span><span class="p">)</span> <span class="o">+</span>
+  <span class="nf">xlab</span><span class="p">(</span><span class="s">&quot;Group&quot;</span><span class="p">)</span> <span class="o">+</span>
+  <span class="nf">ylab</span><span class="p">(</span><span class="s">&quot;Number&quot;</span><span class="p">)</span> <span class="o">+</span> 
+  <span class="nf">theme</span><span class="p">(</span><span class="n">panel.background</span> <span class="o">=</span> <span class="nf">element_rect</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s">&quot;white&quot;</span><span class="p">))</span> <span class="o">+</span>
+  <span class="nf">theme</span><span class="p">(</span><span class="n">axis.ticks.x</span><span class="o">=</span><span class="nf">element_blank</span><span class="p">())</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+<div class="jp-Collapser jp-OutputCollapser jp-Cell-outputCollapser">
+</div>
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>   
+              1           2           3           4           5           6
+  0 100.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000
+  1   0.0000000  60.9022556  15.7894737   9.7744361   7.5187970   5.2631579
+  2   0.0000000   0.0000000  35.3488372  27.9069767  23.2558140  10.6976744
+  3   0.0000000   0.0000000   0.0000000   0.0000000  61.3636364  26.8181818
+  4   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000  61.1374408
+  5   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000   0.0000000
+   
+              7
+  0   0.0000000
+  1   0.7518797
+  2   2.7906977
+  3  11.8181818
+  4  38.8625592
+  5 100.0000000</pre>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+<span style=white-space:pre-wrap>'Contingency coefficient:  0.861098189073219'</span>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+<span style=white-space:pre-wrap>'Cramer\'s V:  0.757406584827629'</span>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedImage jp-OutputArea-output ">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA0gAAANICAMAAADKOT/pAAAANlBMVEUAAAAzMzNNTU1oaGh8
+fHyMjIyampqnp6eysrKzs7O9vb3Hx8fQ0NDZ2dnh4eHp6enw8PD///8e023eAAAACXBIWXMA
+ABJ0AAASdAHeZh94AAAgAElEQVR4nO2di1bq2hJEcwKI1yf8/89eQloIjyXYu2M31qwxjkbE
+rupYc/MQj90WIfTP6rIDIPQXBEgIBQiQEAoQICEUIEBCKECAhFCAAAmhAAESQgECJIQCBEgI
+BejfQepMi/XmnivfuMLm6fj25pW/H/JTXdoNl/wsxP7ad9lvnnan7Cejv3O889Kb8p04tI0E
+qev62yTd/AaPV5i+dUWK+SonSHd9yWp3wpY/Gf2d452XOoehOxQB0vj+fdmt777yjSsUAmku
++677cA2fVYDkVhxI24+uv//K319BAiTX7HlVMtRjKBCkk/s1472izaJb7T5YL3Z3Y95Pr7z9
+2D1I6J/2lw63Zt3ybWv3E+2tXfnwueHj575b7I5fdu9ethefXY+ftS8/cRh1EsSuvdPbsuuf
+T1p0vGT33+bwYGbRbU4txwWPRuNX7HT4ms3kkdDHU7+73sfXnqd+3dPmYqNr5+/sFNiUyYDp
+t+LyyrvDcfo0jlm1Txy6pfBbpBOQdt+a3d29fqzN2/TK2/fueOnreLi+BtLxc7uPn/fH70/7
+dy/nn13aQPvyqcOokyDLw/F6f/Q0KfbkkuG/p854757OLPcLTowOIO1GjL6v3fPX1Lfp9U5A
+Gv367flGV87f+SkYp0wGHL8p1678fJg+jWNWzROHbirwMVJv3/3DpbuyDv9GPu+r9Lx/aH0s
+z6J73Q61WQwEDv/cfiy/mjh9e/q5/m3oTD++u/jK/n27WQ0245dPHEadBjlc+6MbrvjWH7NN
+LxlDrPaXr3ZAnVruF5wYHW+UP8132X0epz5vtptdXT9PzsT+n6C37Wb/GPPK+LPYZ6dgvAk5
+Dph8U65duR8X+ziLY1aNE4duK/JZu+X44fbrXTf+Q76/P3TxhNbJv8f7K2yGup6DdPq5t/1h
+9/btZ5sPsU6DHK693t+2bTf94frTS/bXHr9yfy/t1PL8/upkyZU5LI5Tx54/Tf/BsUtevhl/
+NfbhFOwvngw4yXF55ZHqfn0W52QTHik5FPhzpBf78PBu8k/82/PyDKTV7l746/htXRxQvATp
+9HObM4fLr5wYTxwOOg8yDtlYoq9rTS/ZX/FtX7rn4V/qK5YTo8ns8WZscs9uYS0eb6umbf3y
+u3ouzmKfn4IJ6CfflOtXtifcV4uzOJPrXD9x6IaC7trt/vF+m3x4CtJLf3hIcOzGZ3+gr7so
+z/Ht5edOHb4BaeKwbQWZxlxe3FouD5/t+683VyxPVjl++Wq4A3W8Z3fc/exMnN2kXYJ0PfY0
+/cVtSOvKdpO16M7inFz18sShmwoCaXiA+j75cPrdednd6Vu/fl58x9/2j4Gfr3VqCtL5567f
+5l29+OCwbQWZXvs4bHrJeLze3Ri9XdwlOxyfrmIXDzdJ0+fs7gTp4uJG7Gm+n4K07M7inF71
+/MSh24oCaXe/p796r2P45+94//vsO/7xNDzT1E9+NnkO0uXnpu8an524jA7bVpDJtTcXIE0e
+bw1AjDcuVywnRidL7r5gcs/um7t2/fGe2ZXxjdjT9H3jrt3FlccnTW7ctbs4cei2wkDafWPs
+BXLD9/Tt4p+5t/Y/nU/jV34cn3A7vr383PRd47MnLud8vJ2XbDV29+V4xekldumqexpbeMVy
+Mv5kyd1N2OSe3e5WbXwl27UnG8ZnBfpv9r2IPXWcDJiseu3K41MZ45MNkziXIF35XqFvFAfS
+x/iil2W32kyeOd4OhL0cnl0+fnPG51jX+59n7n+w8dGPT/mOzw1/PUN8+rmp4TefHb984rBt
+BRneveyfE37tjtmml9il718/V7liOTGy2UbPop8+hby7c7Yen2/+2J7W9K3rPw5Pf18ZfzX2
+YdfTAZNvyrUrD8+Ev+1vwE7iHK5z9cSh24oDafdP29Ca8ad560kHX74ePr9P62M/9euH75z9
+aHCowWLf3kU36cjhc5fFaHx2/PKpQyvI/t34o9nnSbUnlxxvcI2JS8uJ0f6SxReTb6ePM6Y/
+AT399378Uejy+vhW7Omt72TA8QrXrrw6Jjj9gawtefXEodsKBGl3T314oud9MXl1zV4vwytR
+3t+OPyba633/OhS7n77+es3Px2K4fzK+Ha98/NwVkK5/dvzyE4dGkPHd68VLhF6X50u8dl/P
+Yl1YToz2l5j9/kHWSRknr8k5u+P0svuSdWt8K/Y032TA4QpXr7xDzhKcvkRoezz7lycO3RT3
+g2fUS7UXB/CwZzZxZufT7pFOsRd+AtJs4szOpa9HOpUESLOJMzuXFgVfGwBIs4kzi1CAAAmh
+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
+BqS5BEhS3oA0lwBJyhuQ5hIgSXkD0lwCJClvQJpLgCTlDUhzCZCkvAFpLgGSlDcgzSVAkvIG
+pLkESFLegDSXAEnKG5DmEiBJeQPSXAIkKW9AmkuAJOUNSHMJkKS8AWkuAZKUNyDNJUCS8gak
+uQRIUt6ANNX7suuW719Hq/d/mQVIUt6ANNFbt9fbdrsZjz7+YRggSXkD0kSLbncb9N4tttuX
+br3dPnXP/zAMkKS8AWkaoPt6uxpujD661b8MSzyzomUGJMvyD7UN0Wq8Rdrh0x+QcguQpLwB
+aar18MBovZ3eNrkFSFLegDTVagBpuD8HSF5rVW9AmmjdvdjzDIDktVb1BqRpgBGffnrkH5Z4
+ZkXLDEiW5R9qG6Lj7dCCZ+2c1qregDTRqnsd7tothzt5T8PPkV7+YRggSXkD0kQfh9cz2NHm
+H4YBkpQ3IE31seq61f51QcdX3XkFSFLegDSXAEnKG5DmEiBJeQPSXAIkKW9AmkuAJOUNSHMJ
+kKS8AWkuAZKU998GqfttFTmzomUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iem
+NTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMvi
+J6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYk
+y+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7ypl
+BiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHv
+KmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7
+Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUx
+cTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iem
+NTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMvi
+J6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYk
+y+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7ypl
+BiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHv
+KmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7
+Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUx
+cTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iem
+NTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMvi
+J6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYk
+y+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7ypl
+BiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHv
+KmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7
+Ie8qZQYky+InpjUxcTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUx
+cTsh7yplBiTL4iemNTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky+InpjUxcTsh7yplBiTL4iem
+NTFxOyHvKmUGJMviJ6Y1MXE7Ie8qZQYky3I3IP0ge//d9YTKDEi53g8K0uTddyQJlRmQcr0B
+aa7thLyrlBmQLMs3nztRP30PSOneVcoMSJblm8+d6PAQafv15r9BVyYmbifkXaXMgGRZ7qJo
+ewSIW6Qa3lXKDEiW5Vt6zgVIZbyrlBmQLMsNdE4FSGW8q5QZkCzLDXQO4q5dLe8qZQYky/It
+PRP1k/8AKd+7SpkBybJ8S89UX69o4JUNJbyrlBmQLMv39DgkVGZAyvUGpLm2E/KuUmZAsix+
+YloTE7cT8q5SZkCyLH5iWhMTtxPyrlJmQLIsfmJaExO3E/KuUmZAsix+YloTE7cT8q5SZkCy
+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"
+width=420
+height=420
+class="
+"
+>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="8.2-Final-classification">8.2 Final classification<a class="anchor-link" href="#8.2-Final-classification">&#182;</a></h2><p>The final classes for the rural settlements (Section 3, Table 9 and Figure 9) are listed in the file <a href="./HCLASS_RURAL.txt">HCLASS_RURAL.txt</a>.</p>
 <p>The results were mapped in QGIS (Section 5, Figure 11).</p>
 
@@ -16826,7 +17181,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[9]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># script hclass_cnt.R</span>
@@ -17080,7 +17435,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[10]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># script hclass_1500.R</span>
@@ -18501,7 +18856,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[11]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># script imp_dur.R</span>
@@ -18763,7 +19118,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[12]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># script hclass_pg_1500.R</span>
@@ -18992,7 +19347,7 @@ class="
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[13]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[14]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-r"><pre><span></span><span class="c1"># script hclass_urb.R</span>
