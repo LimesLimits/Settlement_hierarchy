@@ -43,7 +43,7 @@ ggplot(as.data.frame(var_cnt), aes(Var1, Freq)) +
   geom_col(fill="grey70", colour="black") +
   geom_text(aes(label = Freq, vjust = -0.5)) +
   ggtitle("Rural settlements and diversity of ceramic imports") +
-  xlab("Group") +
+  xlab("Number of groups") +
   ylab("Number") + 
   theme(panel.background = element_rect(fill="white")) +
   theme(axis.ticks.x=element_blank())
